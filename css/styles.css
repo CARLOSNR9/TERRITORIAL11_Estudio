@@ -1,0 +1,280 @@
+/* Estilos generales del cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9; /* Un gris muy suave para no cansar la vista */
+    color: #333; /* Color de texto principal */
+}
+
+/* Estilos del encabezado (Header) */
+header {
+    background-color: #004d99; /* Azul oscuro, un color institucional */
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    position: relative;
+    border-bottom: 5px solid #ffcc00; /* Línea de acento amarilla */
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+/* Estilos del temporizador Pomodoro */
+.timer {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background-color: #fff;
+    color: #004d99;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#timer-display {
+    font-size: 1.5rem;
+}
+
+#timer-status {
+    font-size: 0.8rem;
+    font-weight: normal;
+    margin-top: 5px;
+}
+
+/* Estilos del contenido principal (Main) */
+main {
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+}
+
+section {
+    background-color: #fff;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #004d99;
+    border-bottom: 2px solid #ffcc00;
+    padding-bottom: 0.5rem;
+}
+
+/* Estilos de los enlaces de la lista */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li a {
+    display: block;
+    background-color: #e6f0ff; /* Un azul muy claro */
+    color: #004d99;
+    padding: 1rem 1.5rem;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+ul li a:hover {
+    background-color: #cce0ff; /* Un azul un poco más oscuro al pasar el mouse */
+}
+
+/* Estilos del pie de página (Footer) */
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #333;
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+/* Clase para ocultar elementos */
+.hidden {
+    display: none;
+}
+
+/* Estilos específicos del contenido de estudio */
+.contenido-estudio {
+    font-size: 1.1rem;
+}
+
+.contenido-estudio h2 {
+    color: #004d99;
+}
+
+/* Estilos del botón */
+button {
+    background-color: #ffcc00;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #e5b800;
+}
+
+/* Estilos del simulacro */
+.pregunta-card {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.pregunta-card h3 {
+    margin-top: 0;
+}
+
+.pregunta-card .caso, .pregunta-card .enunciado {
+    margin-bottom: 1rem;
+}
+
+.opciones-lista {
+    list-style: none;
+    padding: 0;
+}
+
+.opcion-item {
+    background-color: #e6f0ff;
+    border: 1px solid #cce0ff;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.opcion-item:hover {
+    background-color: #cce0ff;
+}
+
+#retroalimentacion {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#retroalimentacion .correcta {
+    color: green;
+    font-weight: bold;
+}
+
+#retroalimentacion .incorrecta {
+    color: red;
+    font-weight: bold;
+}
+
+#retroalimentacion .explicacion {
+    margin-top: 0.5rem;
+    font-style: italic;
+    font-size: 0.9em;
+    color: #555;
+}
+
+/* Estilos de los resultados */
+#resultados-finales {
+    text-align: center;
+}
+
+#resultados-finales h3 {
+    color: #004d99;
+}
+
+#resultados-finales .nota {
+    font-weight: bold;
+    color: #ffcc00;
+}
+
+/* Estilos para el botón de regreso */
+.back-button {
+    background-color: #555;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px auto; /* Centrar el botón */
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+    background-color: #777;
+}
+
+/* Ajuste del footer para acomodar el botón */
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #333;
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+/*
+ * =========================================
+ * Estilos para Dispositivos Móviles (Media Queries)
+ * =========================================
+*/
+
+@media (max-width: 768px) {
+    /* Ajustes generales para pantallas pequeñas */
+    header {
+        padding: 1rem 1rem 4rem 1rem; /* Aumentar el padding para dar espacio al temporizador */
+    }
+
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    .timer {
+        top: auto;
+        bottom: 1rem;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80%;
+        flex-direction: row;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    main {
+        padding: 1rem;
+    }
+
+    section {
+        padding: 1.5rem;
+        margin-bottom: 1rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+}

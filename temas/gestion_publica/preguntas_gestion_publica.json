@@ -1,0 +1,848 @@
+[
+    {
+        "id": 1,
+        "caso": "La Alcaldía de Cajicá ha decidido implementar un nuevo sistema de información para agilizar los trámites de licencias de construcción. El proyecto debe ser formulado y presentado para su aprobación.",
+        "enunciado": "Para garantizar que el proyecto tenga viabilidad y se alinee con los objetivos superiores de la administración, el profesional universitario de TIC debe, prioritariamente:",
+        "opciones": [
+            "A. Desarrollar el sistema con la tecnología más avanzada del mercado, para asegurar su calidad técnica.",
+            "B. Verificar que el proyecto esté incluido y alineado con las metas del Plan de Desarrollo Municipal y el Plan de Acción de la Secretaría.",
+            "C. Asignar los recursos presupuestales disponibles al proyecto, sin necesidad de consultar otras dependencias."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "En la gestión pública territorial, todos los proyectos y acciones deben derivarse y alinearse con la planeación estratégica de la entidad, principalmente el Plan de Desarrollo (Ley 152 de 1994). La opción A es importante pero secundaria a la alineación estratégica. La opción C omite los procesos de planeación presupuestal y asignación de recursos, que son rigurosos en el sector público."
+    },
+    {
+        "id": 2,
+        "caso": "Un ciudadano solicita, mediante derecho de petición, información detallada sobre los proveedores y costos del último software adquirido por la Secretaría TIC.",
+        "enunciado": "Como profesional universitario de la área, y en el marco de los principios de la función administrativa, usted debe:",
+        "opciones": [
+            "A. Negar la información argumentando que los datos de contratación son reservados por temas de seguridad.",
+            "B. Solicitar autorización al jefe inmediato para recopilar y entregar la información de manera completa, clara y en el tiempo establecido por la ley.",
+            "C. Archivar la solicitud, ya que no es función suya responder derechos de petición."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La transparencia y el acceso a la información pública son principios constitucionales (Art. 20 y 74 CP) y están reglamentados por la Ley 1757 de 2015. Los servidores públicos están en la obligación de responder derechos de petición (Ley 1437 de 2011). La opción A viola la ley de transparencia. La opción C es falsa, ya que todo servidor público puede ser requerido para colaborar en el cumplimiento de las funciones del Estado."
+    },
+    {
+        "id": 3,
+        "caso": "El Concejo Municipal de Cajicá pide a la Secretaría TIC un informe sobre los avances del Plan Estratégico de Tecnologías de la Información (PETI).",
+        "enunciado": "Para la elaboración del informe, el profesional debe basarse principalmente en:",
+        "opciones": [
+            "A. Los lineamientos técnicos internacionales más reconocidos en gestión de TI.",
+            "B. Los compromisos, metas e indicadores de gestión definidos en el PETI y el Plan de Acción de la Secretaría.",
+            "C. Su propia experiencia profesional sobre lo que considera un avance aceptable."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La gestión pública se rige por la planificación y la evaluación por resultados. El informe debe medir el cumplimiento de lo planeado (MIPG). Las opciones A y C, aunque pueden ser útiles, son subjetivas y no se ajustan al marco de gestión por resultados que rige la administración territorial."
+    },
+
+    {
+        "id": 4,
+        "caso": "El Alcalde de Cajicá, en un evento público, anuncia el lanzamiento de un ambicioso programa para llevar conectividad a zonas rurales. Siendo usted el Profesional Universitario encargado de la Secretaría de TIC, el Alcalde le solicita de inmediato un plan de trabajo detallado para cumplir con ese anuncio, con un plazo de tres días para su entrega. La formulación del Plan de Desarrollo Municipal está en curso, pero aún no se ha aprobado. El secretario de Planeación le recuerda que cualquier acción debe estar alineada con los instrumentos de planeación vigentes.",
+        "enunciado": "Ante esta solicitud, la acción más acertada y en línea con los principios de la gestión pública territorial es:",
+        "opciones": [
+            "A. Elaborar el plan detallado solicitado, priorizando el cumplimiento de la directriz inmediata del Alcalde para no retrasar el proyecto.",
+            "B. Responder al Alcalde que el plan no puede ser formulado hasta que el Plan de Desarrollo Municipal sea aprobado oficialmente.",
+            "C. Preparar un borrador de plan de trabajo preliminar, asegurando su articulación con los objetivos y programas del proyecto de Plan de Desarrollo Municipal."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El Plan de Desarrollo Municipal es el instrumento de planificación que rige la gestión territorial. Aunque aún no esté aprobado, la acción más acertada es asegurar que el plan de trabajo preliminar esté alineado con sus objetivos. Esto garantiza la coherencia con el MIPG y permite avanzar sin contravenir la normativa. Responder que no se puede hacer nada o priorizar el anuncio sin considerar la planificación, sería incorrecto en el marco de la gestión pública."
+    },
+    {
+        "id": 5,
+        "caso": "La ciudadanía, a través del Sistema de Quejas y Reclamos, ha manifestado una creciente insatisfacción por la complejidad de los trámites digitales de la Alcaldía. Consideran que, en lugar de agilizarlos, los procesos tecnológicos los han vuelto más confusos. En la Secretaría de TIC, se ha conformado un grupo de trabajo para actualizar el Plan de Anticorrupción y de Atención al Ciudadano (PAAC), y se le ha asignado la responsabilidad de liderar la sección de 'Racionalización de Trámites'.",
+        "enunciado": "La primera y más fundamental tarea que usted debe realizar para abordar esta situación es:",
+        "opciones": [
+            "A. Diseñar una campaña publicitaria de alto impacto que informe a los ciudadanos sobre los beneficios de los trámites en línea.",
+            "B. Consultar a los ciudadanos sobre los principales obstáculos que encuentran en los trámites digitales de la Alcaldía de Cajicá.",
+            "C. Identificar y mapear los procesos de los trámites de la Alcaldía con un enfoque en su simplificación y digitalización."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La función principal del profesional es dar soporte en la 'racionalización de trámites'. Este proceso implica, por definición, identificar y simplificar los procedimientos internos para hacerlos más eficientes. Aunque la opción B es importante para orientarse al usuario, el enfoque de la racionalización de trámites se centra en los procesos institucionales. La opción A no resuelve el problema de fondo, que es la complejidad de los trámites."
+    },
+    {
+        "id": 6,
+        "caso": "Se ha identificado que la Alcaldía de Cajicá no cuenta con un Plan Estratégico de Tecnologías de la Información (PETI) actualizado, lo que ha generado una descoordinación en la adquisición de equipos y licencias. A usted, como Profesional Universitario, se le asigna la tarea de liderar la formulación de este plan. El jefe de la oficina de Planeación le notifica que el PETI debe estar alineado con los objetivos del Plan de Desarrollo Municipal y con los principios del Modelo Integrado de Planeación y Gestión (MIPG).",
+        "enunciado": "El enfoque más adecuado y estratégico para iniciar la formulación del PETI es:",
+        "opciones": [
+            "A. Realizar un inventario exhaustivo de la infraestructura tecnológica actual y proyectar las necesidades futuras de hardware y software.",
+            "B. Analizar los objetivos del Plan de Desarrollo Municipal para identificar cómo la tecnología puede ser una herramienta para su cumplimiento.",
+            "C. Entrevistar a cada una de las secretarías y dependencias para conocer sus necesidades y requerimientos tecnológicos individuales."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La formulación del PETI debe estar al servicio del Plan de Desarrollo Municipal. Analizar sus objetivos es el punto de partida lógico para garantizar que la estrategia tecnológica (el PETI) contribuya al logro de las metas institucionales de la administración municipal. Las otras opciones son pasos importantes en el proceso, pero no son el punto de partida estratégico que asegura la alineación con los principios de la gestión pública territorial."
+    },
+    {
+        "id": 7,
+        "caso": "Usted es el responsable de la implementación del Modelo de Seguridad de la Información en la Alcaldía de Cajicá. El Concejo Municipal ha solicitado una audiencia para que usted presente los avances del modelo y el estado de la protección de los datos de los ciudadanos. Durante la presentación, varios concejales expresan su preocupación por el costo de la implementación y sugieren que los recursos podrían ser mejor invertidos en proyectos de infraestructura física.",
+        "enunciado": "La mejor manera de responder a estas inquietudes, desde la perspectiva de la gestión pública, es:",
+        "opciones": [
+            "A. Explicar los riesgos de no implementar el modelo de seguridad de la información, enfocándose en las sanciones legales y multas que podría enfrentar la Alcaldía.",
+            "B. Presentar el Modelo de Seguridad de la Información como un componente transversal que apoya la ejecución eficiente de todos los proyectos de la administración.",
+            "C. Aceptar la sugerencia de los concejales y proponer un cronograma de implementación más largo para liberar presupuesto para otras áreas."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El Modelo de Seguridad de la Información, al igual que el Gobierno Digital, es un componente transversal de la gestión pública que fortalece la transparencia, la eficiencia y la confianza en la administración. Presentarlo de esta manera vincula la inversión en tecnología con el cumplimiento de las metas generales de la administración, haciendo el argumento más sólido que simplemente centrarse en las sanciones legales. La opción C es una acción incorrecta, ya que el profesional debe defender la importancia de su función."
+    },
+
+    {
+        "id": 8,
+        "caso": "Un proyecto de ley nacional ha introducido cambios significativos en la normatividad de Gobierno Digital. Esto requiere una revisión urgente del Plan Estratégico de Tecnologías de la Información (PETI) de la Alcaldía de Cajicá. El Concejo Municipal ha solicitado una audiencia para que usted, como Profesional Universitario de la Secretaría TIC, presente las modificaciones propuestas y justifique cómo se alinean con el nuevo marco legal. Su jefe inmediato le ha pedido que enfatice la importancia de la adaptación al cambio para mantener la eficiencia de la gestión pública.",
+        "enunciado": "Para preparar su presentación, la prioridad del profesional debe ser:",
+        "opciones": [
+            "A. Identificar las secciones del PETI que son incompatibles con la nueva normatividad y proponer los ajustes necesarios y sustentarlos legalmente.",
+            "B. Desarrollar un nuevo PETI completamente desde cero para asegurar que cumpla con todos los requisitos de la nueva ley.",
+            "C. Presentar el PETI original y explicar al Concejo que su implementación ya estaba en curso antes de la expedición de la nueva ley."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La gestión pública se basa en la normativa vigente. La adaptación al cambio implica que el profesional debe ser proactivo en la identificación de las discrepancias entre la planificación existente (PETI) y el nuevo marco legal. Reemplazar el plan por completo (opción B) podría ser innecesario y contraproducente, mientras que ignorar la nueva ley (opción C) sería una grave falta de cumplimiento normativo."
+    },
+    {
+        "id": 9,
+        "caso": "La Alcaldía de Cajicá está promoviendo una iniciativa de 'trámites y servicios en línea' para mejorar la atención al ciudadano. Usted es el Profesional Universitario encargado de la implementación de estos servicios, pero ha detectado una baja apropiación de los mismos por parte de los usuarios, quienes prefieren seguir acudiendo a las oficinas. En el próximo comité de la Dirección, se espera que usted presente una estrategia para incentivar el uso de estos canales electrónicos y medir la satisfacción de los usuarios. ",
+        "enunciado": "La acción más estratégica y orientada a resultados para aumentar la apropiación de estos servicios es:",
+        "opciones": [
+            "A. Solicitar más recursos para contratar personal que guíe a los ciudadanos en el uso de los trámites digitales en las oficinas de atención.",
+            "B. Implementar encuestas de satisfacción y analizar los datos para identificar los puntos de dolor y las barreras que impiden la apropiación ciudadana.",
+            "C. Crear manuales detallados y videos tutoriales de cada trámite para que los ciudadanos puedan consultarlos en la página web de la Alcaldía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La gestión pública moderna se enfoca en la orientación al usuario y al ciudadano. Para mejorar la apropiación, es crucial comprender el porqué de la baja utilización. La opción B, 'implementar encuestas de satisfacción', es la única que permite al profesional 'medir el nivel de satisfacción de los usuarios' y 'ejecutar acciones que permitan la apropiación', lo cual es una de sus funciones. Las opciones A y C son medidas reactivas que no abordan la causa raíz del problema."
+    },
+    {
+        "id": 10,
+        "caso": "La Alcaldía de Cajicá ha experimentado un aumento en los incidentes de seguridad informática, como ataques de 'phishing' dirigidos a los servidores de la administración. A usted, como Profesional Universitario en la Secretaría de TIC, se le ha encomendado la tarea de desarrollar el Modelo de Seguridad y Privacidad de la Información. La contraloría ha manifestado que la implementación de este modelo debe estar alineada con el Plan de Anticorrupción y de Atención al Ciudadano (PAAC).",
+        "enunciado": "Para dar cumplimiento a ambas directrices, la acción prioritaria que debe realizar el profesional es:",
+        "opciones": [
+            "A. Capacitar a todos los funcionarios en protocolos de seguridad informática para evitar futuros ataques de 'phishing'.",
+            "B. Formular un nuevo Plan de Seguridad y Privacidad de la Información que incorpore la normatividad vigente.",
+            "C. Articular el Modelo de Seguridad y Privacidad de la Información con las metas y objetivos del PAAC."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública requiere una visión integral. La función del profesional es 'desarrollar, implementar y hacer el seguimiento al Modelo de Seguridad y Privacidad de la Información'. El caso indica que la Contraloría ha solicitado una alineación con el PAAC. Por lo tanto, la acción más acertada es articular los dos planes. Las opciones A y B son acciones importantes, pero la más estratégica y prioritaria es la articulación para cumplir con el requisito de la Contraloría."
+    },
+    {
+        "id": 11,
+        "caso": "La Secretaría TIC de la Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para modernizar toda la infraestructura de red del municipio. El costo de esta propuesta es considerable y requiere la aprobación del subcomité municipal de sistemas de información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Evaluar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura.",
+            "B. Comparar la propuesta del proveedor con las necesidades y objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Presentar la propuesta del proveedor en el subcomité, basándose en la experiencia y trayectoria de la empresa a nivel nacional."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "Una de las funciones del profesional es 'desarrollar el soporte técnico en el Subcomité Municipal de Sistemas de Información'. Para que este soporte sea sólido y objetivo, debe estar basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción A se limita a un solo factor (presupuesto), y la opción C es subjetiva. Comparar la propuesta con el PETI es la única acción que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+    },
+    {
+        "id": 12,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno en línea'. Esta política busca garantizar la transparencia y el acceso a la información pública a través de plataformas digitales. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias están publicando la información de manera desorganizada, lo que dificulta su consulta por parte de los ciudadanos.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato para que sea él quien se encargue de la sanción a las dependencias incumplidoras.",
+            "B. Diseñar un instructivo para la publicación de la información pública y socializarlo con las dependencias para estandarizar el proceso.",
+            "C. Limitar el acceso a la plataforma de transparencia a las dependencias que no están cumpliendo con los lineamientos establecidos."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La función del profesional es 'velar por el correcto cumplimiento de las normas'. En el marco de la gestión pública, esto implica promover la mejora continua y la 'gestión de procedimientos'. Diseñar un instructivo estandariza el proceso, abordando la causa raíz del problema (la desorganización). La opción A evade la responsabilidad del profesional, mientras que la opción C sería una medida punitiva que va en contra del principio de colaboración y no resolvería el problema de fondo."
+    },
+    {
+        "id": 13,
+        "caso": "El jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado un informe trimestral sobre el progreso de los programas y proyectos en curso. Específicamente, ha pedido que el informe se enfoque en los resultados obtenidos y no solo en las actividades realizadas. Usted, como Profesional Universitario, debe consolidar la información de las diferentes áreas y presentarla de manera clara y objetiva.",
+        "enunciado": "La acción más coherente con el principio de 'Orientación a Resultados' del MIPG es:",
+        "opciones": [
+            "A. Describir en detalle las actividades diarias que se han llevado a cabo en cada uno de los proyectos y programas.",
+            "B. Cuantificar los avances de los proyectos a través de indicadores de gestión, comparándolos con las metas establecidas inicialmente.",
+            "C. Presentar un listado de los gastos de cada proyecto y programa para demostrar la buena gestión de los recursos públicos."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'Orientación a Resultados' del MIPG se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica los avances' a través de 'indicadores de gestión' y los compara con las 'metas establecidas'. Las otras opciones se centran en el proceso (A) o en la ejecución presupuestal (C), pero no en los resultados de la gestión."
+    },
+    {
+        "id": 14,
+        "caso": "La Alcaldía de Cajicá está promoviendo una nueva política de uso de software libre en la administración municipal para reducir costos. Esta política requiere un proceso de transición y adaptación por parte de los funcionarios. Usted, como Profesional Universitario, debe liderar la implementación de esta política. Sin embargo, varios funcionarios han expresado su resistencia al cambio, argumentando que no están familiarizados con las nuevas herramientas.",
+        "enunciado": "La mejor forma de abordar la resistencia al cambio, en línea con la gestión pública territorial, es:",
+        "opciones": [
+            "A. Obligar a los funcionarios a usar el nuevo software y reportar a quienes no cumplan con la nueva política en el plazo establecido.",
+            "B. Organizar talleres y capacitaciones prácticas para familiarizar a los funcionarios con el nuevo software y sus beneficios.",
+            "C. Ignorar las quejas de los funcionarios y proceder con la implementación, ya que la decisión de la Alcaldía no es negociable."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "Una de las competencias comportamentales del profesional es la 'adaptación al cambio'. En el contexto de la gestión pública, la adaptación se fomenta a través de la formación y la comunicación. La opción B, 'organizar talleres y capacitaciones', es la acción más adecuada, ya que permite a los funcionarios adquirir las habilidades necesarias para el cambio y comprender sus beneficios, lo cual fortalece la 'gestión de procedimientos'. Las otras opciones son autoritarias y no promueven la 'adaptación al cambio' de manera efectiva."
+    },
+    {
+        "id": 15,
+        "caso": "La Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) de la Alcaldía de Cajicá ha recibido la solicitud de resolver una consulta sobre el tratamiento de datos personales de los ciudadanos, de acuerdo con la normatividad vigente. Usted, como Profesional Universitario, debe proyectar la respuesta y asegurarse de que sea completa, precisa y conforme a la ley. Su jefe inmediato ha indicado que la respuesta debe ser clara y fácil de entender, sin incurrir en jerga técnica innecesaria.",
+        "enunciado": "Para cumplir con la función de 'proyectar informes y resolver consultas', el profesional debe:",
+        "opciones": [
+            "A. Utilizar el lenguaje técnico más preciso y avanzado para demostrar su profundo conocimiento del tema.",
+            "B. Citar extensamente la normativa legal para respaldar la respuesta, independientemente de la claridad para el ciudadano.",
+            "C. Sintetizar la información legal y técnica en un lenguaje claro y preciso, abordando directamente la consulta planteada."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "Una de las funciones esenciales del profesional es 'proyectar informes y resolver consultas'. Esto se relaciona directamente con la competencia de 'comunicación efectiva' y 'orientación al usuario y al ciudadano'. La opción C, 'sintetizar la información', es la que mejor se alinea con el propósito de resolver una consulta de manera clara y comprensible. Las opciones A y B van en contra de la 'comunicación efectiva' y la 'orientación al ciudadano', al priorizar el tecnicismo sobre la claridad."
+    },
+    {
+        "id": 16,
+        "caso": "Se ha presentado una necesidad urgente en la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) de la Alcaldía de Cajicá de adquirir una nueva licencia de software, que no estaba contemplada en el Plan Anual de Adquisiciones. Usted, como Profesional Universitario, debe tramitar la solicitud y justificar la necesidad de la compra. La oficina de Contratación le ha solicitado un informe técnico detallado que sustente la decisión de forma clara y contundente.",
+        "enunciado": "El enfoque más adecuado y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Presentar la solicitud de forma verbal a la oficina de Contratación, argumentando la urgencia de la situación para agilizar el proceso.",
+            "B. Elaborar un informe técnico detallado que justifique la necesidad de la licencia y cómo contribuye al cumplimiento de los objetivos de la Secretaría.",
+            "C. Adjuntar una lista de las especificaciones técnicas de la licencia y argumentar que es la única opción disponible en el mercado."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública exige que todas las acciones, especialmente las relacionadas con la contratación, estén debidamente documentadas y justificadas. La opción B, 'elaborar un informe técnico detallado', es la única que cumple con este requisito, demostrando la 'instrumentación de decisiones' de forma profesional y transparente. La opción A no es un procedimiento válido, y la opción C se basa en un argumento que puede ser fácilmente refutado, lo que no refleja una 'gestión de procedimientos' sólida."
+    },
+    {
+        "id": 17,
+        "caso": "La Alcaldía de Cajicá está modernizando su infraestructura tecnológica para mejorar la eficiencia en la prestación de servicios a la ciudadanía. Se ha implementado un nuevo modelo de 'Arquitectura de Sistemas de Información' que busca estandarizar los procesos y las plataformas. Usted, como Profesional Universitario, debe velar por la correcta implementación de este modelo en todas las dependencias. Sin embargo, ha detectado que una dependencia está utilizando una plataforma que no está alineada con el modelo.",
+        "enunciado": "La acción más adecuada para asegurar la correcta implementación del modelo es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato para que sea él quien decida si se toma una medida correctiva.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma estandarizada.",
+            "C. Desconectar la plataforma que no está alineada con el modelo para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La función del profesional es 'establecer el Modelo de Arquitectura de Sistemas de Información... en cumplimiento de los lineamientos'. En el marco de la gestión pública, la 'gestión de procedimientos' y el 'trabajo en equipo' son fundamentales. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que fomenta la colaboración y busca la solución de manera proactiva. La opción A evade la responsabilidad del profesional, y la opción C es una medida extrema que no fomenta la colaboración."
+    },
+    {
+        "id": 18,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la comunicación interna de la Alcaldía de Cajicá. Usted, como Profesional Universitario, ha propuesto la implementación de una plataforma colaborativa para optimizar el flujo de información entre las dependencias. Varios de sus compañeros se muestran escépticos y prefieren seguir utilizando los canales tradicionales.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Presentar la propuesta directamente al Alcalde para que él dé la orden de implementación, evitando el debate interno en el equipo.",
+            "B. Buscar un proyecto piloto de bajo costo para demostrar los beneficios de la plataforma en una dependencia y obtener el apoyo de los demás compañeros.",
+            "C. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación interna."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'. La opción A es una medida que no fomenta el 'trabajo en equipo', y la opción C es un argumento subjetivo que no demuestra los beneficios reales de la propuesta."
+    },
+    {
+        "id": 19,
+        "caso": "La Alcaldía de Cajicá ha convocado a una reunión de todos los jefes de dependencia para discutir la formulación de una nueva política pública de acceso y conexión a internet en el municipio. Se le ha encomendado la tarea de 'brindar soporte y participar activamente en la construcción' de esta política. Sin embargo, ha detectado que algunos jefes de dependencia no tienen claro el alcance ni los objetivos de la política, lo que podría dificultar su implementación.",
+        "enunciado": "La acción más estratégica y orientada a la 'instrumentación de decisiones' es:",
+        "opciones": [
+            "A. Proponer un taller de sensibilización a los jefes de dependencia para aclarar el alcance y los objetivos de la política antes de su formulación.",
+            "B. Continuar con el proceso de formulación sin intervenir, ya que la responsabilidad de los jefes es comprender la política.",
+            "C. Preparar un informe técnico para el Alcalde, informando que la formulación de la política no será posible debido a la falta de conocimiento de los jefes de dependencia."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "Una de las funciones esenciales del profesional es 'brindar soporte y participar activamente en la construcción' de políticas públicas. La 'instrumentación de decisiones' exige que el profesional sea proactivo en la resolución de los obstáculos que puedan surgir en la formulación de una política. La opción A, 'proponer un taller de sensibilización', es la que mejor se alinea con este principio, ya que fomenta la 'comunicación efectiva' y el 'trabajo en equipo' para asegurar una correcta implementación. Las opciones B y C son medidas reactivas que no resuelven el problema de fondo."
+    },
+    {
+        "id": 20,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'. Ignorar el plazo (A) o negar la información (B) sería un incumplimiento de la normativa de transparencia."
+    },
+{
+        "id": 21,
+        "caso": "El jefe de la Secretaría TIC ha convocado una reunión de emergencia para abordar las recientes fallas en el sistema de atención al ciudadano. Las fallas están generando una alta carga de trabajo para los funcionarios y una creciente insatisfacción ciudadana. Usted, como Profesional Universitario, ha sido asignado para liderar un equipo de 'trabajo en equipo' para diagnosticar y solucionar el problema. En el equipo, un compañero de mayor antigüedad se muestra reacio a colaborar, argumentando que las fallas son responsabilidad de otra dependencia.",
+        "enunciado": "La acción más efectiva y en línea con el principio de 'trabajo en equipo' es:",
+        "opciones": [
+            "A. Reportar la actitud del compañero al jefe de la Secretaría para que él tome las medidas disciplinarias correspondientes y sancionarlo.",
+            "B. Explicar al compañero de mayor antigüedad que el problema afecta a toda la administración y solicitarle su colaboración para encontrar una solución.",
+            "C. Asignarle al compañero las tareas más simples para que no obstaculice el progreso del equipo y del proyecto en desarrollo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'trabajo en equipo' en la gestión pública implica la colaboración y la comunicación efectiva para resolver problemas que afectan a toda la administración. La opción B, 'explicar al compañero que el problema afecta a toda la administración', es la que mejor se alinea con este principio, ya que fomenta la colaboración y la resolución conjunta de problemas. La opción A es una medida que no fomenta el 'trabajo en equipo', y la opción C evade el problema de fondo, que es la actitud del compañero."
+    },
+    {
+        "id": 22,
+        "caso": "La Alcaldía de Cajicá ha lanzado un programa piloto para implementar un sistema de gestión documental electrónico, con el objetivo de reducir el uso de papel y agilizar los procesos. Usted, como Profesional Universitario, ha sido asignado para liderar la implementación de este sistema en dos dependencias. Una de las dependencias se muestra muy colaboradora y entusiasta con el proyecto, mientras que la otra se muestra apática y reacia al cambio, lo que podría poner en riesgo el éxito del programa piloto.",
+        "enunciado": "Para asegurar el éxito del programa, la acción más adecuada y en línea con el principio de 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Enfocarse únicamente en la dependencia que se muestra entusiasta y reportar a la otra por no colaborar en el proyecto.",
+            "B. Desarrollar un plan de comunicación y capacitación para la dependencia apática, destacando los beneficios y el valor del nuevo sistema de gestión documental.",
+            "C. Detener el programa piloto hasta que todas las dependencias se muestren dispuestas a colaborar en el proyecto."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'gestión de procedimientos' en la gestión pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'desarrollar un plan de comunicación y capacitación', es la que mejor se alinea con este principio, ya que aborda la causa raíz del problema (la apatía y la renuencia al cambio) y busca una solución de manera proactiva. La opción A no fomenta la 'adaptación al cambio' en toda la administración, y la opción C detendría el progreso del proyecto, lo cual no es una 'gestión de procedimientos' efectiva."
+    },
+    {
+        "id": 23,
+        "caso": "El Alcalde de Cajicá ha manifestado su interés en la implementación de una nueva política de 'Ciencia, Tecnología e Innovación' para impulsar el desarrollo económico del municipio. Usted, como Profesional Universitario de la Secretaría TIC, ha sido asignado para liderar la formulación de esta política. Se le ha pedido que la política se enfoque en la creación de un ecosistema de innovación que fomente la colaboración entre el sector público, el sector privado y la academia.",
+        "enunciado": "La acción más estratégica y en línea con el 'aporte técnico-profesional' es:",
+        "opciones": [
+            "A. Buscar en la web modelos de políticas de innovación de otras ciudades y presentarlos como si fueran propios, sin mencionar la fuente de donde las obtuvo.",
+            "B. Formular un documento que sintetice los principios de la política y que presente los planes y programas que se ejecutarán para lograr los objetivos establecidos.",
+            "C. Convocar a reuniones informales a los líderes de la industria y la academia de la región para que aporten sus ideas sobre la nueva política."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'aporte técnico-profesional' implica la formulación de un documento que cumpla con los estándares de la gestión pública y que esté alineado con la planificación institucional. La opción B, 'formular un documento que sintetice los principios', es la que mejor se alinea con este principio, ya que demuestra la 'instrumentación de decisiones' de forma profesional y transparente. La opción A es una medida que va en contra de los principios de transparencia y ética, y la opción C, aunque puede ser útil, no es un paso suficiente para la formulación de una política pública."
+    },
+    {
+        "id": 24,
+        "caso": "La Alcaldía de Cajicá ha recibido una solicitud de la Contraloría Municipal para que se entregue un informe detallado sobre la ejecución presupuestal de los proyectos de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). La Contraloría ha solicitado que el informe se enfoque en la 'valoración de antecedentes' de los proveedores, con el objetivo de verificar que se haya dado cumplimiento a los principios de transparencia y selección objetiva en los procesos de contratación.",
+        "enunciado": "Para preparar el informe, la acción más adecuada y en línea con la gestión pública es:",
+        "opciones": [
+            "A. Omitir la información sobre los proveedores que no cumplieron con los requisitos de la licitación para no generar dudas sobre la gestión de la Secretaría.",
+            "B. Presentar un informe detallado que demuestre que se dio cumplimiento a los requisitos de la licitación, incluyendo la valoración de antecedentes de los proveedores.",
+            "C. Argumentar a la Contraloría que el informe solicitado es de carácter técnico y que la 'valoración de antecedentes' no es responsabilidad de la Secretaría."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública exige que se dé cumplimiento a los principios de transparencia y selección objetiva en los procesos de contratación. La opción B, 'presentar un informe detallado', es la que mejor se alinea con este principio, ya que demuestra el 'compromiso con la organización' y una 'orientación a resultados'. La opción A es una medida que va en contra de los principios de transparencia, y la opción C evade la responsabilidad de la Secretaría."
+    },
+    {
+        "id": 25,
+        "caso": "La Alcaldía de Cajicá ha lanzado una nueva política de 'Ciencia, Tecnología e Innovación' para impulsar el desarrollo económico del municipio. Usted, como Profesional Universitario, debe liderar la implementación de esta política. Se le ha pedido que la política se enfoque en la creación de un ecosistema de innovación que fomente la colaboración entre el sector público, el sector privado y la academia. El Concejo Municipal ha solicitado una audiencia para que usted presente los avances de la política en el primer semestre.",
+        "enunciado": "Para preparar la presentación, la acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Explicar la importancia de la política y el potencial que tiene para impulsar el desarrollo económico del municipio.",
+            "B. Presentar un informe que demuestre el cumplimiento de las metas y los objetivos establecidos en el Plan de Acción de la Secretaría TIC y que sirva como evidencia de resultados.",
+            "C. Compartir los planes y programas que se ejecutarán en el segundo semestre para demostrar que se está avanzando en la implementación de la política."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'presenta un informe que demuestre el cumplimiento de las metas y los objetivos establecidos en el Plan de Acción de la Secretaría TIC' lo que servirá como evidencia de los resultados de la gestión. Las opciones A y C se centran en el potencial y la planificación futura, pero no en los resultados de la gestión."
+    },
+    {
+        "id": 26,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A es una medida que no fomenta la colaboración y la mejora continua, y la opción C es una medida que no resuelve el problema de la falta de acceso y transparencia."
+    },
+    {
+        "id": 27,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva. La opción A es una medida que no fomenta la colaboración, y la opción C es una medida extrema que podría afectar la prestación de servicios a la ciudadanía."
+    },
+    {
+        "id": 28,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada. La opción A es una medida que no tiene en cuenta la planificación, y la opción C es un argumento subjetivo que no demuestra los beneficios reales de la propuesta."
+    },
+    {
+        "id": 29,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A evade la responsabilidad del profesional, y la opción C es una medida extrema que podría causar la pérdida de información valiosa."
+    },
+    {
+        "id": 30,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'. La opción A es un argumento subjetivo que no demuestra los beneficios reales de la propuesta, y la opción C es una medida que no fomenta la 'adaptación al cambio' ni el 'trabajo en equipo'."
+    },
+
+    {
+        "id": 31,
+        "caso": "El Alcalde de Cajicá, en una jornada de 'Alcalde en tu barrio', recibe varias quejas de ciudadanos sobre la falta de acceso a servicios digitales en su comunidad. Al regresar a la oficina, el Alcalde solicita a la Secretaría de TIC un informe detallado sobre la brecha digital en el municipio. Se le ha asignado la función de 'desarrollar programas, planes y programas en el marco de la Política Pública de Gobierno Digital' y se le ha pedido que el informe se enfoque en los resultados de la gestión de la administración.",
+        "enunciado": "La acción más estratégica y en línea con el principio de 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre las actividades que se han llevado a cabo para reducir la brecha digital, sin medir el impacto en la comunidad.",
+            "B. Cuantificar los avances de los programas y proyectos para reducir la brecha digital a través de indicadores de gestión y compararlos con las metas establecidas.",
+            "C. Argumentar que la falta de acceso a servicios digitales es un problema que escapa a la responsabilidad de la administración municipal."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica los avances de los programas y proyectos' a través de 'indicadores de gestión' y los compara con las 'metas establecidas'. Las otras opciones se centran en las actividades (A) o en la evasión de la responsabilidad (C), lo cual no es una 'gestión de procedimientos' efectiva."
+    },
+    {
+        "id": 32,
+        "caso": "La Alcaldía de Cajicá ha lanzado una nueva política de 'Protección de Datos Personales' que busca proteger la información de los ciudadanos. Se le ha asignado la función de 'participar en la formulación, actualización y seguimiento a la implementación del Plan de Seguridad y Privacidad de la Información de la Administración Municipal'. Sin embargo, se ha detectado que una de las dependencias está utilizando una base de datos que no cumple con la normativa de protección de datos, lo que podría poner en riesgo la información de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la base de datos que cumple con la normativa de protección de datos.",
+            "C. Suspender el acceso a la base de datos que no cumple con la normativa para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva. La opción A es una medida que no fomenta la colaboración, y la opción C es una medida extrema que podría afectar la prestación de servicios a la ciudadanía."
+    },
+    {
+        "id": 33,
+        "caso": "El jefe de la Secretaría TIC ha convocado una reunión para abordar el problema de la falta de 'interoperabilidad' entre los sistemas de información de la Alcaldía de Cajicá. La falta de 'interoperabilidad' está generando una alta carga de trabajo para los funcionarios y una creciente insatisfacción ciudadana, ya que los ciudadanos tienen que entregar la misma información varias veces en diferentes dependencias. Usted, como Profesional Universitario, ha sido asignado para liderar un equipo de 'trabajo en equipo' para diagnosticar y solucionar el problema.",
+        "enunciado": "La acción más efectiva y en línea con el principio de 'trabajo en equipo' es:",
+        "opciones": [
+            "A. Reportar la actitud de las dependencias al jefe de la Secretaría para que él tome las medidas disciplinarias correspondientes y sancionarlas.",
+            "B. Explicar a las dependencias que el problema afecta a toda la administración y solicitarles su colaboración para encontrar una solución conjunta.",
+            "C. Asignarle a cada dependencia las tareas más simples para que no obstaculicen el progreso del equipo y del proyecto en desarrollo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'trabajo en equipo' en la gestión pública implica la colaboración y la comunicación efectiva para resolver problemas que afectan a toda la administración. La opción B, 'explicar a las dependencias que el problema afecta a toda la administración', es la que mejor se alinea con este principio, ya que fomenta la colaboración y la resolución conjunta de problemas. La opción A es una medida que no fomenta el 'trabajo en equipo', y la opción C evade el problema de fondo, que es la falta de 'interoperabilidad'."
+    },
+    {
+        "id": 34,
+        "caso": "La Alcaldía de Cajicá ha lanzado un programa piloto para implementar un sistema de 'Firma Digital' en los documentos oficiales, con el objetivo de reducir el uso de papel y agilizar los procesos. Usted, como Profesional Universitario, ha sido asignado para liderar la implementación de este sistema en dos dependencias. Una de las dependencias se muestra muy colaboradora y entusiasta con el proyecto, mientras que la otra se muestra apática y reacia al cambio, lo que podría poner en riesgo el éxito del programa piloto.",
+        "enunciado": "Para asegurar el éxito del programa, la acción más adecuada y en línea con el principio de 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Enfocarse únicamente en la dependencia que se muestra entusiasta y reportar a la otra por no colaborar en el proyecto.",
+            "B. Desarrollar un plan de comunicación y capacitación para la dependencia apática, destacando los beneficios y el valor del nuevo sistema de 'Firma Digital'.",
+            "C. Detener el programa piloto hasta que todas las dependencias se muestren dispuestas a colaborar en el proyecto."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'desarrollar un plan de comunicación y capacitación', es la que mejor se alinea con este principio, ya que aborda la causa raíz del problema (la apatía y la renuencia al cambio) y busca una solución de manera proactiva. La opción A no fomenta la 'adaptación al cambio' en toda la administración, y la opción C detendría el progreso del proyecto, lo cual no es una 'gestión de procedimientos' efectiva."
+    },
+    {
+        "id": 35,
+        "caso": "El Alcalde de Cajicá ha manifestado su interés en la implementación de una nueva política de 'Ciberseguridad' para proteger la infraestructura tecnológica del municipio. Usted, como Profesional Universitario de la Secretaría TIC, ha sido asignado para liderar la formulación de esta política. Se le ha pedido que la política se enfoque en la creación de un ecosistema de 'ciberseguridad' que fomente la colaboración entre el sector público, el sector privado y la academia.",
+        "enunciado": "La acción más estratégica y en línea con el 'aporte técnico-profesional' es:",
+        "opciones": [
+            "A. Buscar en la web modelos de políticas de 'ciberseguridad' de otras ciudades y presentarlos como si fueran propios, sin mencionar la fuente de donde los obtuvo.",
+            "B. Formular un documento que sintetice los principios de la política y que presente los planes y programas que se ejecutarán para lograr los objetivos establecidos.",
+            "C. Convocar a reuniones informales a los líderes de la industria y la academia de la región para que aporten sus ideas sobre la nueva política."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'aporte técnico-profesional' implica la formulación de un documento que cumpla con los estándares de la gestión pública y que esté alineado con la planificación institucional. La opción B, 'formular un documento que sintetice los principios', es la que mejor se alinea con este principio, ya que demuestra la 'instrumentación de decisiones' de forma profesional y transparente. La opción A es una medida que va en contra de los principios de transparencia y ética, y la opción C, aunque puede ser útil, no es un paso suficiente para la formulación de una política pública."
+    },
+    {
+        "id": 36,
+        "caso": "La Alcaldía de Cajicá ha recibido una solicitud de la Contraloría Municipal para que se entregue un informe detallado sobre la ejecución presupuestal de los proyectos de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). La Contraloría ha solicitado que el informe se enfoque en la 'valoración de antecedentes' de los proveedores, con el objetivo de verificar que se haya dado cumplimiento a los principios de transparencia y selección objetiva en los procesos de contratación.",
+        "enunciado": "Para preparar el informe, la acción más adecuada y en línea con la gestión pública es:",
+        "opciones": [
+            "A. Omitir la información sobre los proveedores que no cumplieron con los requisitos de la licitación para no generar dudas sobre la gestión de la Secretaría.",
+            "B. Presentar un informe detallado que demuestre que se dio cumplimiento a los requisitos de la licitación, incluyendo la valoración de antecedentes de los proveedores.",
+            "C. Argumentar a la Contraloría que el informe solicitado es de carácter técnico y que la 'valoración de antecedentes' no es responsabilidad de la Secretaría."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública exige que se dé cumplimiento a los principios de transparencia y selección objetiva en los procesos de contratación. La opción B, 'presentar un informe detallado', es la que mejor se alinea con este principio, ya que demuestra el 'compromiso con la organización' y una 'orientación a resultados'. La opción A es una medida que va en contra de los principios de transparencia, y la opción C evade la responsabilidad de la Secretaría."
+    },
+    {
+        "id": 37,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Ciencia, Tecnología e Innovación' para impulsar el desarrollo económico del municipio. Usted, como Profesional Universitario, debe liderar la implementación de esta política. Se le ha pedido que la política se enfoque en la creación de un ecosistema de innovación que fomente la colaboración entre el sector público, el sector privado y la academia. El Concejo Municipal ha solicitado una audiencia para que usted presente los avances de la política en el primer semestre.",
+        "enunciado": "Para preparar la presentación, la acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Explicar la importancia de la política y el potencial que tiene para impulsar el desarrollo económico del municipio.",
+            "B. Presentar un informe que demuestre el cumplimiento de las metas y los objetivos establecidos en el Plan de Acción de la Secretaría TIC y que sirva como evidencia de resultados.",
+            "C. Compartir los planes y programas que se ejecutarán en el segundo semestre para demostrar que se está avanzando en la implementación de la política."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'presenta un informe que demuestre el cumplimiento de las metas y los objetivos establecidos en el Plan de Acción de la Secretaría TIC' lo que servirá como evidencia de los resultados de la gestión. Las opciones A y C se centran en el potencial y la planificación futura, pero no en los resultados de la gestión."
+    },
+    {
+        "id": 38,
+        "caso": "La Alcaldía de Cajicá ha lanzado una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A es una medida que no fomenta la colaboración y la mejora continua, y la opción C es una medida que no resuelve el problema de la falta de acceso y transparencia."
+    },
+    {
+        "id": 39,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva. La opción A es una medida que no fomenta la colaboración, y la opción C es una medida extrema que podría afectar la prestación de servicios a la ciudadanía."
+    },
+    {
+        "id": 40,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada. La opción A es una medida que no tiene en cuenta la planificación, y la opción C es un argumento subjetivo que no demuestra los beneficios reales de la propuesta."
+    },
+    {
+        "id": 41,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A evade la responsabilidad del profesional, y la opción C es una medida extrema que podría causar la pérdida de información valiosa."
+    },
+    {
+        "id": 42,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'. La opción A es un argumento subjetivo que no demuestra los beneficios reales de la propuesta, y la opción C es una medida que no fomenta la 'adaptación al cambio' ni el 'trabajo en equipo'."
+    },
+    {
+        "id": 43,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'. Ignorar el plazo (A) o negar la información (B) sería un incumplimiento de la normativa de transparencia."
+    },
+    {
+        "id": 44,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'. Las otras opciones se centran en la ejecución presupuestal (A) o en la evasión de la responsabilidad (C), lo cual no es una 'gestión de procedimientos' efectiva."
+    },
+    {
+        "id": 45,
+        "caso": "La Alcaldía de Cajicá ha lanzado una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A es una medida que no fomenta la colaboración y la mejora continua, y la opción C es una medida que no resuelve el problema de la falta de acceso y transparencia."
+    },
+    {
+        "id": 46,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva. La opción A es una medida que no fomenta la colaboración, y la opción C es una medida extrema que podría afectar la prestación de servicios a la ciudadanía."
+    },
+    {
+        "id": 47,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada. La opción A es una medida que no tiene en cuenta la planificación, y la opción C es un argumento subjetivo que no demuestra los beneficios reales de la propuesta."
+    },
+    {
+        "id": 48,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A evade la responsabilidad del profesional, y la opción C es una medida extrema que podría causar la pérdida de información valiosa."
+    },
+    {
+        "id": 49,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'. La opción A es un argumento subjetivo que no demuestra los beneficios reales de la propuesta, y la opción C es una medida que no fomenta la 'adaptación al cambio' ni el 'trabajo en equipo'."
+    },
+    {
+        "id": 50,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'. Ignorar el plazo (A) o negar la información (B) sería un incumplimiento de la normativa de transparencia."
+    },
+
+    {
+        "id": 51,
+        "caso": "El Plan de Desarrollo Municipal de Cajicá ha priorizado la 'gestión catastral con enfoque multipropósito' como un eje fundamental para el ordenamiento territorial y el incremento de la capacidad fiscal. Se le ha encomendado la función de liderar la implementación de la componente tecnológica. Un informe reciente de la Contraloría Municipal ha señalado que el progreso es lento, lo que podría afectar la ejecución presupuestal y los objetivos de la gestión pública territorial.",
+        "enunciado": "Para acelerar el progreso y dar cumplimiento al 'Plan de Desarrollo Municipal', la acción más acertada y en línea con el principio de 'orientación a resultados' es:",
+        "opciones": [
+            "A. Solicitar más recursos a la Secretaría de Hacienda para contratar personal adicional y agilizar el proceso de actualización catastral.",
+            "B. Presentar un informe detallado a la Contraloría, argumentando que la actualización catastral es un proceso complejo y que los avances son aceptables.",
+            "C. Identificar y priorizar las etapas tecnológicas más críticas del proceso de actualización catastral y establecer un plan de acción para su ejecución."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El principio de 'orientación a resultados' exige que el profesional identifique los obstáculos y proponga soluciones. La opción C, 'identificar y priorizar las etapas tecnológicas', es la que mejor se alinea con este principio, ya que busca una solución de manera proactiva y estratégica para acelerar el proceso. La opción A no garantiza la eficiencia, y la opción B evade la responsabilidad del profesional y no resuelve el problema de fondo."
+    },
+    {
+        "id": 52,
+        "caso": "El Concejo Municipal ha manifestado su preocupación por la falta de 'interoperabilidad' entre los sistemas de información de la Alcaldía y otras entidades del Estado, lo que dificulta la toma de decisiones basada en datos. Usted, como Profesional Universitario de la Secretaría TIC, ha sido asignado para liderar un proyecto que busque solucionar este problema, en línea con la 'Política de Gobierno Digital'.",
+        "enunciado": "La acción más estratégica y en línea con el principio de 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Solicitar a la Secretaría de Hacienda que autorice la compra de un software de 'interoperabilidad' que se integre con todos los sistemas existentes.",
+            "B. Desarrollar un 'Plan de Acción Anual' para la Secretaría, que incluya la 'interoperabilidad' como un objetivo clave y que mida el progreso a través de indicadores de gestión.",
+            "C. Negociar con las otras entidades del Estado para que adapten sus sistemas de información a los de la Alcaldía de Cajicá para lograr la 'interoperabilidad'."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública exige que los proyectos estén alineados con la planificación institucional. La opción B, 'desarrollar un Plan de Acción Anual', es la que mejor se alinea con este principio, ya que demuestra la 'instrumentación de decisiones' de forma profesional y transparente. La opción A no garantiza la 'interoperabilidad' con todas las entidades, y la opción C es una medida que no es realista en el marco de la gestión pública territorial."
+    },
+    {
+        "id": 53,
+        "caso": "La Alcaldía de Cajicá está promoviendo una nueva política de 'Ciencia, Tecnología e Innovación' para impulsar el desarrollo económico del municipio, en el marco del 'Plan de Desarrollo Municipal'. Usted, como Profesional Universitario de la Secretaría TIC, ha sido asignado para liderar la formulación de esta política. Se le ha pedido que la política se enfoque en la creación de un ecosistema de innovación que fomente la colaboración entre el sector público, el sector privado y la academia.",
+        "enunciado": "La acción más estratégica y en línea con el 'aporte técnico-profesional' es:",
+        "opciones": [
+            "A. Buscar en la web modelos de políticas de innovación de otras ciudades de la región y presentarlos como si fueran propios, sin mencionar la fuente de donde los obtuvo.",
+            "B. Formular un documento que sintetice los principios de la política y que presente los planes y programas que se ejecutarán para lograr los objetivos establecidos.",
+            "C. Convocar a reuniones informales a los líderes de la industria y la academia de la región para que aporten sus ideas sobre la nueva política."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'aporte técnico-profesional' implica la formulación de un documento que cumpla con los estándares de la gestión pública y que esté alineado con la planificación institucional. La opción B, 'formular un documento que sintetice los principios', es la que mejor se alinea con este principio, ya que demuestra la 'instrumentación de decisiones' de forma profesional y transparente. La opción A es una medida que va en contra de los principios de transparencia y ética, y la opción C, aunque puede ser útil, no es un paso suficiente para la formulación de una política pública."
+    },
+    {
+        "id": 54,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'. Ignorar el plazo (A) o negar la información (B) sería un incumplimiento de la normativa de transparencia."
+    },
+    {
+        "id": 55,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'. Las otras opciones se centran en la ejecución presupuestal (A) o en la evasión de la responsabilidad (C), lo cual no es una 'gestión de procedimientos' efectiva."
+    },
+    {
+        "id": 56,
+        "caso": "La Alcaldía de Cajicá ha lanzado una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A es una medida que no fomenta la colaboración y la mejora continua, y la opción C es una medida que no resuelve el problema de la falta de acceso y transparencia."
+    },
+    {
+        "id": 57,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva. La opción A es una medida que no fomenta la colaboración, y la opción C es una medida extrema que podría afectar la prestación de servicios a la ciudadanía."
+    },
+    {
+        "id": 58,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada. La opción A es una medida que no tiene en cuenta la planificación, y la opción C es un argumento subjetivo que no demuestra los beneficios reales de la propuesta."
+    },
+    {
+        "id": 59,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A evade la responsabilidad del profesional, y la opción C es una medida extrema que podría causar la pérdida de información valiosa."
+    },
+    {
+        "id": 60,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'. La opción A es un argumento subjetivo que no demuestra los beneficios reales de la propuesta, y la opción C es una medida que no fomenta la 'adaptación al cambio' ni el 'trabajo en equipo'."
+    },
+    {
+        "id": 61,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'. Ignorar el plazo (A) o negar la información (B) sería un incumplimiento de la normativa de transparencia."
+    },
+    {
+        "id": 62,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'. Las otras opciones se centran en la ejecución presupuestal (A) o en la evasión de la responsabilidad (C), lo cual no es una 'gestión de procedimientos' efectiva."
+    },
+    {
+        "id": 63,
+        "caso": "La Alcaldía de Cajicá ha lanzado una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A es una medida que no fomenta la colaboración y la mejora continua, y la opción C es una medida que no resuelve el problema de la falta de acceso y transparencia."
+    },
+    {
+        "id": 64,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva. La opción A es una medida que no fomenta la colaboración, y la opción C es una medida extrema que podría afectar la prestación de servicios a la ciudadanía."
+    },
+    {
+        "id": 65,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada. La opción A es una medida que no tiene en cuenta la planificación, y la opción C es un argumento subjetivo que no demuestra los beneficios reales de la propuesta."
+    },
+    {
+        "id": 66,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A evade la responsabilidad del profesional, y la opción C es una medida extrema que podría causar la pérdida de información valiosa."
+    },
+    {
+        "id": 67,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'. La opción A es un argumento subjetivo que no demuestra los beneficios reales de la propuesta, y la opción C es una medida que no fomenta la 'adaptación al cambio' ni el 'trabajo en equipo'."
+    },
+    {
+        "id": 68,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'. Ignorar el plazo (A) o negar la información (B) sería un incumplimiento de la normativa de transparencia."
+    },
+    {
+        "id": 69,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'. Las otras opciones se centran en la ejecución presupuestal (A) o en la evasión de la responsabilidad (C), lo cual no es una 'gestión de procedimientos' efectiva."
+    },
+    {
+        "id": 70,
+        "caso": "La Alcaldía de Cajicá ha lanzado una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A es una medida que no fomenta la colaboración y la mejora continua, y la opción C es una medida que no resuelve el problema de la falta de acceso y transparencia."
+    }
+
+    
+]

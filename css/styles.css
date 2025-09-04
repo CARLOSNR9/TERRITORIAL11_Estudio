@@ -278,3 +278,21 @@ footer {
         font-size: 1.5rem;
     }
 }
+
+/* Estilos para el historial de intentos en la página principal */
+.historial-resumen {
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #f0f0f5;
+    border-radius: 5px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.historial-resumen p {
+    margin: 0;
+}
+
+.historial-resumen strong {
+    color: #004d99;
+}

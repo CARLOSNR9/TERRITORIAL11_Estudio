@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Función para obtener las preguntas del archivo JSON
     const obtenerPreguntas = async () => {
         try {
-            const response = await fetch('preguntas_organizacion_territorial.json');
+            const response = await fetch('preguntas_soporte_tecnico.json');
             if (!response.ok) {
                 throw new Error('No se pudo cargar el archivo de preguntas.');
             }
@@ -155,11 +155,11 @@ document.addEventListener('DOMContentLoaded', () => {
             fecha: new Date().toLocaleString()
         };
         intentos.push(nuevoIntento);
-        localStorage.setItem('simulacro_organizacion_territorial', JSON.stringify(intentos));
+        localStorage.setItem('simulacro_soporte_tecnico', JSON.stringify(intentos));
     };
 
     const obtenerIntentos = () => {
-        const intentosJSON = localStorage.getItem('simulacro_organizacion_territorial');
+        const intentosJSON = localStorage.getItem('simulacro_soporte_tecnico');
         return intentosJSON ? JSON.parse(intentosJSON) : [];
     };
 

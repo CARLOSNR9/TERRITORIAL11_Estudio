@@ -1,0 +1,1497 @@
+[
+    {
+        "id": 1,
+        "caso": "Un funcionario de la Alcaldía de Cajicá te contacta a través de la Mesa de Servicios porque no puede acceder a su correo electrónico institucional. La hora pico de trámites se acerca y esto podría afectar la comunicación con los ciudadanos.",
+        "enunciado": "De acuerdo con el modelo operativo de soporte técnico, ¿cuál es la primera acción que debes realizar?",
+        "opciones": [
+            "A. Escalar de inmediato el caso al soporte de segundo nivel, ya que es un problema que puede afectar a la ciudadanía.",
+            "B. Registrar y categorizar la solicitud como un incidente, priorizándolo por su impacto y urgencia.",
+            "C. Enviar un correo al funcionario para verificar que la falla no sea de su equipo personal."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El primer paso en el modelo operativo de la Mesa de Servicios (Service Desk) es la recepción y el registro de la solicitud o incidente. La categorización y priorización (Impacto x Urgencia) es crucial para determinar la urgencia de la respuesta y la asignación del caso."
+    },
+    {
+        "id": 2,
+        "caso": "La Alcaldía de Cajicá sufre un ataque de ransomware que cifra los datos del servidor de archivos de la Secretaría de Planeación. El ataque detiene el acceso a la información crítica para la operación municipal.",
+        "enunciado": "En este escenario de incidente mayor, ¿qué práctica de gestión de soporte debes activar para garantizar la continuidad del servicio?",
+        "opciones": [
+            "A. Un plan de recuperación ante desastres (DRP) que incluya copias de seguridad inmutables y un protocolo de restauración de sistemas.",
+            "B. La formación de todo el personal en ciberseguridad para evitar futuros ataques de ransomware.",
+            "C. La instalación de un nuevo firewall de última generación para proteger la red de la Alcaldía."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "Ante un ataque de ransomware que compromete la disponibilidad de los servicios, la práctica más adecuada es activar un Plan de Recuperación ante Desastres (DRP). Su objetivo es restaurar los servicios y los datos lo antes posible, utilizando copias de seguridad que no hayan sido afectadas por el ataque."
+    },
+    {
+        "id": 3,
+        "caso": "Un funcionario de la Alcaldía solicita que se le instale un software de gestión de proyectos para su área. La solicitud ha sido registrada en el sistema de tickets de la Mesa de Servicios.",
+        "enunciado": "¿Qué tipo de solicitud, de las siguientes, se ha registrado y cómo debe ser gestionada de acuerdo con el modelo ITSM?",
+        "opciones": [
+            "A. Es un incidente, ya que el servicio no está disponible y se debe restaurar de inmediato.",
+            "B. Es una solicitud de servicio, ya que es un requerimiento estandarizado y debe seguir un proceso de cumplimiento de servicio.",
+            "C. Es un problema, ya que no se ha identificado la causa raíz de la solicitud del software."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "Según los modelos ITSM, un 'incidente' es una interrupción no planificada de un servicio. Una 'solicitud de servicio' es un requerimiento normal y estandarizado, como la instalación de software, que debe seguir un proceso de cumplimiento previamente definido en el catálogo de servicios."
+    },
+    {
+        "id": 4,
+        "caso": "La Secretaría TIC de Cajicá detecta un aumento en las solicitudes de restablecimiento de contraseñas de los usuarios. El personal de soporte de primer nivel ha reportado que la mayoría de los casos se deben a que los usuarios olvidan su contraseña.",
+        "enunciado": "En el marco de la gestión de soporte, ¿qué procedimiento de mejora continua se debe activar para reducir el número de solicitudes?",
+        "opciones": [
+            "A. La gestión de incidentes, para restaurar el servicio lo antes posible y minimizar el impacto.",
+            "B. La gestión de problemas, para identificar la causa raíz de los incidentes y aplicar una solución definitiva.",
+            "C. La gestión de cambios, para evaluar el riesgo de los incidentes y planificar una actualización de software."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La gestión de problemas es el procedimiento que se encarga de analizar las causas raíz de los incidentes recurrentes. En este caso, el problema es que los usuarios olvidan la contraseña, lo que genera incidentes. La gestión de problemas busca una solución permanente a este inconveniente, como la implementación de un sistema de autoservicio."
+    },
+    {
+        "id": 5,
+        "caso": "Un empleado de la Alcaldía te pide que le ayudes a recuperar un archivo importante que ha borrado por error de su disco duro. El archivo contiene datos personales de ciudadanos, lo que lo hace muy sensible.",
+        "enunciado": "En el marco de la gestión de soporte y la normatividad de protección de datos, ¿qué debes priorizar en el proceso de recuperación?",
+        "opciones": [
+            "A. El derecho a la transparencia, para que el ciudadano pueda acceder a la información que ha sido eliminada.",
+            "B. La confidencialidad y la seguridad de los datos, ya que la Ley 1581 de 2012 te obliga a proteger la información sensible.",
+            "C. La velocidad de la recuperación, para garantizar la continuidad del servicio y la satisfacción del usuario."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 1581 de 2012 establece las obligaciones sobre el tratamiento y la confidencialidad de los datos personales. Como profesional de soporte, tu prioridad es garantizar la seguridad y confidencialidad de la información, incluso durante los procesos de recuperación."
+    },
+    {
+        "id": 6,
+        "caso": "El Subcomité Municipal de Sistemas de Información te pide que elabores un informe para la alta dirección con las métricas de la Mesa de Servicios.",
+        "enunciado": "¿Qué métrica, de las siguientes, es la más adecuada para medir el desempeño del soporte en la atención de incidentes?",
+        "opciones": [
+            "A. El número de tickets reabiertos, para medir la calidad de la resolución.",
+            "B. El tiempo medio de solución (MTTR), para medir la velocidad de la atención.",
+            "C. El porcentaje de cumplimiento de SLA, para medir la eficiencia del proceso."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El tiempo medio de solución (MTTR) es una métrica estándar en la gestión de soporte para medir la velocidad en la que los incidentes son resueltos. Es una de las métricas clave para evaluar el desempeño del equipo en la atención de los problemas técnicos."
+    },
+    {
+        "id": 7,
+        "caso": "Un funcionario de la Alcaldía solicita el acceso a un sistema de información para la gestión de trámites. El proceso requiere la aprobación del jefe de la Secretaría TIC y la firma de un documento de confidencialidad.",
+        "enunciado": "La solicitud de acceso se gestiona como un caso de 'Gestión de solicitudes', una de las prácticas de ITIL. ¿Qué principio de esta práctica se debe aplicar?",
+        "opciones": [
+            "A. La estandarización, para garantizar que todas las solicitudes de acceso sigan el mismo proceso.",
+            "B. La celeridad, para que el funcionario pueda acceder al sistema lo antes posible.",
+            "C. La automatización, para que el acceso se otorgue de forma inmediata sin la intervención del jefe."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La estandarización es un principio clave de la gestión de solicitudes. La Mesa de Servicios debe tener un proceso estandarizado para la recepción, aprobación y cumplimiento de las solicitudes, lo que garantiza la uniformidad y la eficiencia en la gestión de servicios."
+    },
+    {
+        "id": 8,
+        "caso": "La Alcaldía de Cajicá planea implementar un nuevo sistema de gestión documental. La Secretaría TIC debe realizar un análisis de riesgos para la implementación del nuevo sistema, incluyendo el impacto de la seguridad de los datos de la ciudadanía.",
+        "enunciado": "El análisis de riesgos se enmarca en las directrices de la política de Gobierno Digital. ¿Qué habilitador de la política se está aplicando en este proceso?",
+        "opciones": [
+            "A. Habilitador de servicios ciudadanos digitales, ya que el sistema de gestión documental mejorará la atención al ciudadano.",
+            "B. Habilitador de seguridad y privacidad, ya que se están evaluando los riesgos de la infraestructura para proteger los datos.",
+            "C. Habilitador de arquitectura de TI, ya que se está definiendo la estructura del nuevo sistema."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El habilitador de seguridad y privacidad de la Política de Gobierno Digital se enfoca en la gestión de riesgos de seguridad de la información, la protección de los datos personales y la continuidad de los servicios. El análisis de riesgos se relaciona directamente con este habilitador."
+    },
+    {
+        "id": 9,
+        "caso": "Se presenta una falla en la red interna de la Secretaría de Hacienda de la Alcaldía de Cajicá que afecta el acceso de todos los funcionarios a los sistemas de información. El problema requiere la intervención de un especialista en redes.",
+        "enunciado": "En este escenario, ¿cómo debe proceder el soporte de primer nivel de acuerdo con el modelo operativo?",
+        "opciones": [
+            "A. Intentar resolver el problema por su cuenta, ya que la Mesa de Servicios es el punto único de contacto.",
+            "B. Escalar el caso al soporte de segundo nivel, aportando toda la documentación necesaria para un diagnóstico rápido.",
+            "C. Informar a los funcionarios que el servicio estará fuera de línea por un tiempo indefinido."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La práctica de escalamiento es fundamental en el modelo ITSM. Si el soporte de primer nivel no puede resolver el problema, debe transferir el caso a un nivel superior (soporte de segundo o tercer nivel), aportando toda la documentación necesaria para que el especialista pueda resolverlo de forma más eficiente."
+    },
+    {
+        "id": 10,
+        "caso": "La Alcaldía de Cajicá decide implementar un nuevo software de gestión de activos. Para garantizar que todos los funcionarios lo usen de forma adecuada, la Secretaría TIC debe crear una base de conocimiento con guías y manuales de uso.",
+        "enunciado": "¿Qué práctica de gestión de servicios de TI se está aplicando en este proceso?",
+        "opciones": [
+            "A. La gestión de incidentes, para documentar los errores más comunes del software.",
+            "B. La gestión de problemas, para identificar las fallas de la aplicación.",
+            "C. La gestión de conocimiento, para documentar y compartir la información útil del software."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión de conocimiento es una práctica de ITIL que se enfoca en crear, documentar y compartir la información útil de la organización. La base de conocimiento con guías y manuales de uso es un ejemplo de esta práctica, ya que reduce el tiempo de resolución y mejora la calidad del servicio."
+    },
+    {
+        "id": 11,
+        "caso": "La Secretaría TIC de Cajicá está elaborando un informe para el Subcomité Municipal de Sistemas de Información sobre el desempeño de la infraestructura. El informe debe incluir el tiempo que tardan en resolver los incidentes.",
+        "enunciado": "¿Cuál de las siguientes métricas deben incluir en el informe para medir el tiempo que tardan en resolver los incidentes?",
+        "opciones": [
+            "A. El tiempo medio de solución (MTTR), para medir la velocidad de la atención.",
+            "B. El tiempo medio de respuesta (MTTA), para medir la velocidad de la respuesta.",
+            "C. El porcentaje de tickets resueltos en el primer contacto, para medir la eficiencia del proceso."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "El tiempo medio de solución (MTTR) es una métrica estándar en la gestión de soporte para medir el tiempo que tarda el equipo en resolver un incidente desde que se abre hasta que se cierra. Es una métrica clave para evaluar la eficiencia en la atención de los problemas."
+    },
+    {
+        "id": 12,
+        "caso": "Un funcionario te pide que lo ayudes a instalar un software de diseño en su computador personal. El software no está aprobado por la Alcaldía y podría generar vulnerabilidades en la red.",
+        "enunciado": "¿Cómo debes proceder, de acuerdo con las políticas de soporte y seguridad de la entidad?",
+        "opciones": [
+            "A. Negar la instalación y explicar que la Alcaldía solo puede instalar software aprobado, de acuerdo con los lineamientos de seguridad.",
+            "B. Instalar el software, ya que la Mesa de Servicios debe garantizar la satisfacción del usuario.",
+            "C. Instalar el software y reportar la instalación al Subcomité Municipal de Sistemas de Información."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "Una de las funciones del soporte técnico es garantizar la seguridad de la infraestructura. La instalación de software no aprobado podría generar vulnerabilidades en la red, por lo que la acción correcta es negar la instalación y explicar las políticas de seguridad de la Alcaldía."
+    },
+    {
+        "id": 13,
+        "caso": "La Secretaría de Planeación de la Alcaldía de Cajicá solicita un nuevo servidor para la gestión del Plan de Desarrollo. La solicitud debe ser aprobada por el Subcomité Municipal de Sistemas de Información.",
+        "enunciado": "¿Qué función de tu rol como Profesional Universitario de TIC se aplica en este escenario?",
+        "opciones": [
+            "A. La gestión de la seguridad, al asegurar que el nuevo servidor no tenga vulnerabilidades.",
+            "B. La atención al ciudadano, al garantizar que la solicitud sea atendida de forma eficiente.",
+            "C. La asesoría a la dirección, al brindar el soporte técnico necesario para la toma de decisiones informadas."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El manual de funciones especifica que tu rol es 'desarrollar el soporte técnico en el Subcomité Municipal de Sistemas de Información', lo que implica que debes asesorar a la dirección en la toma de decisiones sobre nuevas inversiones, como la compra de un servidor."
+    },
+    {
+        "id": 14,
+        "caso": "Se presenta una falla en la red de la Alcaldía de Cajicá. El equipo de soporte técnico no puede resolver el problema de forma inmediata y el jefe de la Secretaría TIC decide activar el Plan de Recuperación ante Desastres (DRP).",
+        "enunciado": "La activación del DRP se relaciona directamente con el principio de la función administrativa de:",
+        "opciones": [
+            "A. Publicidad, al informar a los ciudadanos sobre el problema de la red.",
+            "B. Celeridad, al agilizar la restauración del servicio.",
+            "C. Eficacia, al garantizar la continuidad del servicio y el cumplimiento de los objetivos de la entidad."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El principio de eficacia se refiere a la capacidad de una entidad para lograr sus objetivos. La activación del DRP busca garantizar la continuidad del servicio para que la Alcaldía pueda seguir cumpliendo con sus funciones y objetivos, lo que se relaciona directamente con la eficacia."
+    },
+    {
+        "id": 15,
+        "caso": "Un funcionario te pide que lo ayudes a instalar una impresora en su computador. La solicitud ha sido registrada en el sistema de tickets de la Mesa de Servicios.",
+        "enunciado": "La atención de esta solicitud se enmarca en la práctica de ITIL de:",
+        "opciones": [
+            "A. Gestión de incidentes, ya que el servicio no está disponible y se debe restaurar de inmediato.",
+            "B. Gestión de solicitudes de servicio, ya que es un requerimiento estandarizado.",
+            "C. Gestión de problemas, ya que se debe identificar la causa raíz de la solicitud."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La instalación de una impresora es un requerimiento estandarizado y, por lo tanto, se considera una 'solicitud de servicio'. La gestión de solicitudes se encarga de este tipo de requerimientos para garantizar que se cumplan de forma eficiente."
+    },
+    {
+        "id": 16,
+        "caso": "La Alcaldía de Cajicá decide implementar un sistema de monitoreo en tiempo real para detectar fallas en la red y los servidores. El sistema enviará alertas al equipo de soporte técnico de forma automática.",
+        "enunciado": "Esta iniciativa se alinea con la función del soporte técnico de:",
+        "opciones": [
+            "A. Atención de incidentes, al detectar las fallas de la infraestructura.",
+            "B. Mantenimiento proactivo, al anticiparse a los problemas y evitar interrupciones.",
+            "C. Gestión de conocimiento, al documentar y compartir la información sobre las fallas."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El monitoreo en tiempo real se relaciona con el 'mantenimiento proactivo'. Su objetivo es anticipar los problemas de la infraestructura para evitar interrupciones y garantizar la continuidad del servicio."
+    },
+    {
+        "id": 17,
+        "caso": "Un funcionario te pide que lo ayudes a recuperar un archivo que ha eliminado por error de la nube institucional. El archivo contiene información de la Alcaldía que debe ser pública.",
+        "enunciado": "En el marco de la normatividad, la recuperación del archivo se relaciona directamente con la Ley de:",
+        "opciones": [
+            "A. Ley 1581 de 2012, que regula la protección de datos personales.",
+            "B. Ley 1712 de 2014, que garantiza la transparencia y el acceso a la información pública.",
+            "C. Ley 1341 de 2009, que moderniza el sector TIC."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 1712 de 2014 garantiza el derecho de acceso a la información pública. Si un archivo que debe ser público es eliminado, el soporte técnico tiene la responsabilidad de recuperarlo para garantizar la transparencia."
+    },
+    {
+        "id": 18,
+        "caso": "El jefe de la Secretaría TIC te pide que prepares un informe para el Subcomité Municipal de Sistemas de Información sobre el desempeño de la Mesa de Servicios. El informe debe incluir una métrica que mida la satisfacción de los usuarios.",
+        "enunciado": "¿Qué métrica es la más adecuada para medir la satisfacción de los usuarios?",
+        "opciones": [
+            "A. El porcentaje de tickets resueltos en el primer contacto, para medir la eficiencia del proceso.",
+            "B. El número de tickets reabiertos, para medir la calidad de la resolución.",
+            "C. El NPS (Net Promoter Score) o el CSAT (Customer Satisfaction Score), para medir la satisfacción del usuario."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El NPS y el CSAT son métricas que se utilizan para medir la satisfacción del usuario. El NPS mide la probabilidad de que un usuario recomiende el servicio, y el CSAT mide la satisfacción de los usuarios con el servicio."
+    },
+    {
+        "id": 19,
+        "caso": "Un funcionario te pide que lo ayudes a instalar un software para la gestión de proyectos. El software no está aprobado por la Alcaldía y podría generar vulnerabilidades en la red.",
+        "enunciado": "¿Qué debes priorizar en este escenario?",
+        "opciones": [
+            "A. La satisfacción del usuario, al instalar el software para que pueda realizar sus tareas.",
+            "B. La eficiencia del proceso, al instalar el software sin la aprobación de la Alcaldía.",
+            "C. La seguridad de la infraestructura, al negar la instalación y explicar que la Alcaldía solo puede instalar software aprobado."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "Una de las funciones del soporte técnico es garantizar la seguridad de la infraestructura. La instalación de software no aprobado podría generar vulnerabilidades en la red, por lo que la acción correcta es negar la instalación y explicar las políticas de seguridad de la Alcaldía."
+    },
+    {
+        "id": 20,
+        "caso": "La Alcaldía de Cajicá está elaborando un plan de gestión de riesgos de ciberseguridad. Se enfoca en identificar las amenazas más comunes a las que se enfrenta la entidad, como los ataques de ransomware.",
+        "enunciado": "¿Qué objetivo principal busca la gestión de la ciberseguridad en el sector público?",
+        "opciones": [
+            "A. Proteger a los usuarios de la Alcaldía de correos maliciosos.",
+            "B. Garantizar el derecho a la privacidad de los funcionarios y la ciudadanía.",
+            "C. Proteger la infraestructura y los activos de información para garantizar su disponibilidad e integridad."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión de la ciberseguridad busca proteger los activos de información del Estado, incluyendo la infraestructura tecnológica, para garantizar los principios de confidencialidad, integridad y disponibilidad."
+    },
+
+{
+    "id": 21,
+    "caso": "El Alcalde de Cajicá, en una rueda de prensa, se compromete a implementar un nuevo sistema de agendamiento de citas para trámites en línea, buscando mejorar la experiencia de los ciudadanos. Usted, como Profesional Universitario de la Secretaría TIC, es el encargado de supervisar la implementación. Sin embargo, en las pruebas de despliegue, se detecta que el sistema tiene una latencia significativa y un error recurrente en la base de datos que podría comprometer la integridad de la información de los usuarios.",
+    "enunciado": "La acción más estratégica y en línea con las funciones de soporte técnico es:",
+    "opciones": [
+        "A. Presentar un informe detallado al Alcalde, informando que el proyecto es inviable debido a las fallas técnicas y sugerir su suspensión temporal para no afectar la imagen de la administración.",
+        "B. Identificar y solucionar la causa raíz de la latencia y el error de la base de datos, y asesorar al jefe inmediato sobre los riesgos de lanzar el sistema sin corregir las fallas.",
+        "C. Implementar el sistema con las fallas, bajo la premisa de que es un compromiso público y que los problemas se pueden solucionar con el tiempo a través de actualizaciones."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El soporte técnico no solo se encarga de resolver fallas, sino que también tiene la función de asesorar a la alta dirección. La acción más profesional es identificar y solucionar las fallas antes del lanzamiento para garantizar la 'integridad' y 'disponibilidad' del sistema."
+},
+{
+    "id": 22,
+    "caso": "La Alcaldía de Cajicá está promoviendo una nueva política de 'uso de software libre' en la administración municipal para reducir costos. Esta política requiere un proceso de transición y adaptación por parte de los funcionarios. Usted, como Profesional Universitario, debe liderar la implementación de esta política. Sin embargo, varios funcionarios han expresado su resistencia al cambio, argumentando que no están familiarizados con las nuevas herramientas y que prefieren seguir usando los programas tradicionales.",
+    "enunciado": "La mejor forma de abordar la resistencia al cambio, en línea con el rol de soporte técnico, es:",
+    "opciones": [
+        "A. Obligar a los funcionarios a usar el nuevo software y reportar a quienes no cumplan con la nueva política en el plazo establecido.",
+        "B. Organizar talleres de capacitación prácticos para los funcionarios, y brindar soporte técnico personalizado durante la transición para mitigar la resistencia al cambio y garantizar la 'apropiación'.",
+        "C. Ignorar las quejas de los funcionarios y proceder con la implementación, ya que la decisión de la Alcaldía no es negociable."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El soporte técnico se relaciona directamente con la 'gestión de procedimientos' y el 'aprendizaje continuo'. La opción B es la más adecuada, ya que aborda la causa raíz del problema (la resistencia al cambio) a través de la capacitación y el soporte, lo que garantiza una 'adaptación al cambio' efectiva."
+},
+{
+    "id": 23,
+    "caso": "El jefe de la Secretaría TIC ha convocado una reunión para abordar el problema de la falta de 'interoperabilidad' entre los sistemas de información de la Alcaldía de Cajicá, lo que genera una alta carga de trabajo para los funcionarios y una creciente insatisfacción ciudadana. Usted, como Profesional Universitario, ha sido asignado para liderar un proyecto que busque solucionar este problema, en línea con el 'Plan Estratégico de Tecnologías de la Información' (PETI).",
+    "enunciado": "La acción más estratégica y en línea con la función de soporte técnico es:",
+    "opciones": [
+        "A. Adquirir un nuevo software que unifique todos los sistemas de información de la Alcaldía, sin importar si son compatibles o no.",
+        "B. Realizar un estudio de la arquitectura de sistemas de la Alcaldía para identificar los puntos de 'interoperabilidad' y proponer una solución técnica que se ajuste al PETI.",
+        "C. Proponer la creación de un equipo de trabajo con los líderes de las dependencias para que ellos se encarguen de la 'interoperabilidad' entre los sistemas."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La función de soporte técnico se relaciona con el 'Modelo de Arquitectura de Sistemas de Información'. La opción B, 'realizar un estudio de la arquitectura de sistemas', es la que mejor se alinea con este principio, ya que busca una solución técnica a un problema estratégico y se ajusta a la planificación de la entidad."
+},
+{
+    "id": 24,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El soporte técnico se relaciona con la 'gestión de procedimientos' y el 'trabajo en equipo'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva. La opción A es una medida que no fomenta la colaboración, y la opción C es una medida extrema que podría afectar la prestación de servicios a la ciudadanía."
+},
+{
+    "id": 25,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'. Las otras opciones se centran en la ejecución presupuestal (A) o en la evasión de la responsabilidad (C), lo cual no es una 'gestión de procedimientos' efectiva."
+},
+{
+    "id": 26,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A es una medida que no fomenta la colaboración y la mejora continua, y la opción C es una medida que no resuelve el problema de la falta de acceso y transparencia."
+},
+{
+    "id": 27,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva. La opción A es una medida que no fomenta la colaboración, y la opción C es una medida extrema que podría afectar la prestación de servicios a la ciudadanía."
+},
+{
+    "id": 28,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada. La opción A es una medida que no tiene en cuenta la planificación, y la opción C es un argumento subjetivo que no demuestra los beneficios reales de la propuesta."
+},
+{
+    "id": 29,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A evade la responsabilidad del profesional, y la opción C es una medida extrema que podría causar la pérdida de información valiosa."
+},
+{
+    "id": 30,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'. La opción A es un argumento subjetivo que no demuestra los beneficios reales de la propuesta, y la opción C es una medida que no fomenta la 'adaptación al cambio' ni el 'trabajo en equipo'."
+},
+{
+    "id": 31,
+    "caso": "La Alcaldía de Cajicá, en un esfuerzo por mejorar la transparencia, ha implementado un nuevo 'Repositorio de Datos Abiertos'. Este repositorio permite a los ciudadanos acceder a información pública de la entidad, como presupuestos, contratos y licitaciones. Sin embargo, se han recibido quejas de la ciudadanía sobre la dificultad para navegar en el repositorio y encontrar la información que necesitan. Usted, como Profesional Universitario, es el encargado de 'velar por el correcto cumplimiento de las normas' en materia de transparencia.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación al usuario y al ciudadano' es:",
+    "opciones": [
+        "A. Reportar la situación al jefe inmediato, para que sea él quien se encargue de la solución, ya que el problema es de usabilidad y no de 'infraestructura TIC'.",
+        "B. Organizar un taller de capacitación para los ciudadanos, para que aprendan a usar el repositorio y a encontrar la información que necesitan.",
+        "C. Realizar una auditoría al repositorio para identificar los puntos de dolor de los usuarios, y proponer mejoras en la interfaz para que sea más intuitiva y fácil de usar."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "El soporte técnico no solo se enfoca en la parte interna, sino que también contribuye a la atención de los ciudadanos. La opción C, 'realizar una auditoría', es la que mejor se alinea con este principio, ya que busca una solución a un problema de 'orientación al usuario' y 'comunicación efectiva' a través del análisis de datos."
+},
+{
+    "id": 32,
+    "caso": "El jefe de la Secretaría TIC ha solicitado a usted un análisis sobre el desempeño de la infraestructura tecnológica de la Alcaldía de Cajicá en el último semestre. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, como el tiempo de respuesta de los servidores, y compararlos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo semestre, ya que los resultados de la 'infraestructura TIC' se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 33,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno en línea' que busca garantizar la transparencia y el acceso a la información pública a través de plataformas digitales. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias están publicando la información de manera desorganizada, lo que dificulta su consulta por parte de los ciudadanos.",
+    "enunciado": "La acción más adecuada y en línea con el 'aporte técnico-profesional' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato, para que sea él quien se encargue de la sanción a las dependencias incumplidoras.",
+        "B. Diseñar un instructivo para la publicación de la información pública y socializarlo con las dependencias para estandarizar el proceso.",
+        "C. Limitar el acceso a la plataforma de transparencia a las dependencias que no están cumpliendo con los lineamientos establecidos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La función de soporte técnico se relaciona con el 'aporte técnico-profesional' y la 'gestión de procedimientos'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A evade la responsabilidad, y la opción C es una medida punitiva que va en contra del principio de colaboración."
+},
+{
+    "id": 34,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Inteligencia Artificial' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Inteligencia Artificial' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 35,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 36,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 37,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 38,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 39,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 40,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 41,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 42,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 43,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 44,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 45,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 46,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 47,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 48,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 49,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 50,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 51,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 52,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 53,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 54,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 55,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 56,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 57,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 58,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 59,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 60,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 61,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 62,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 63,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 64,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 65,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 66,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 67,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 68,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 69,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 70,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 71,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 72,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 73,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 74,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 75,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+
+
+{
+"id": 76,
+"caso": "Un usuario municipal reporta que su computadora no enciende al llegar a la oficina, lo que afecta sus labores diarias en la plataforma de trámites digitales.",
+"enunciado": "Como Profesional Universitario TIC responsable del soporte técnico, ¿cuál es el primer paso que debe realizar para atender este incidente?",
+"opciones": [
+"A. Reportar inmediatamente al proveedor de hardware para reemplazo.",
+"B. Verificar el suministro eléctrico, conexiones físicas y estado de los indicadores de la computadora.",
+"C. Reinstalar el sistema operativo sin revisar conexiones físicas."
+],
+"respuesta_correcta": "B",
+"explicacion": "La revisión básica de conexiones y suministro eléctrico es la primera acción técnica para descartar causas evidentes antes de escalar el problema."
+},
+{
+"id": 77,
+"caso": "Durante la actualización del software en servidores municipales, se presentan fallas que interrumpen temporalmente varios servicios digitales al público.",
+"enunciado": "¿Cuál es la estrategia correcta para gestionar la respuesta desde el soporte técnico?",
+"opciones": [
+"A. Implementar un plan de reversión inmediato para restaurar la versión previa y analizar la falla.",
+"B. Continuar la actualización sin tomar acciones adicionales.",
+"C. Ignorar temporalmente los reportes hasta que el incidente termine."
+],
+"respuesta_correcta": "A",
+"explicacion": "Un plan de reversión garantiza la continuidad del servicio y permite investigar sin afectar más al usuario final."
+},
+{
+"id": 78,
+"caso": "La Alcaldía reporta que varios usuarios tienen problemas con la autenticación en la red interna, impidiendo el acceso a servicios críticos.",
+"enunciado": "Como responsable de soporte técnico, ¿qué debe revisar primero para resolver este problema?",
+"opciones": [
+"A. Verificar los sistemas de autenticación (servidores LDAP o Active Directory).",
+"B. Reiniciar todos los equipos sin verificar sistemas.",
+"C. Aconsejar a los usuarios cambiar sus contraseñas constantemente."
+],
+"respuesta_correcta": "A",
+"explicacion": "Los sistemas centralizados de autenticación son clave para validar accesos y son el punto crítico a revisar ante fallas masivas."
+},
+{
+"id": 79,
+"caso": "Se detecta que múltiples usuarios municipales no pueden imprimir documentos debido a fallas en la conexión con la impresora compartida en red.",
+"enunciado": "¿Qué pasos debe seguir el soporte técnico para solucionar este incidente?",
+"opciones": [
+"A. Revisar la conectividad física y lógica de la impresora en red, reiniciar servicios y verificar el estado del servidor de impresión.",
+"B. Sugerir que los usuarios impriman en impresoras personales.",
+"C. Desinstalar y reinstalar todos los controladores del sistema operativo sin diagnóstico."
+],
+"respuesta_correcta": "A",
+"explicacion": "La investigación estructurada, verificando hardware, configuración y servicios garantiza soluciones efectivas antes de acciones disruptivas."
+},
+{
+"id": 80,
+"caso": "El equipo de soporte técnico ha notado un aumento en las incidencias relacionadas con malware en equipos de la entidad.",
+"enunciado": "¿Qué acción prioritaria debe incluir el plan de soporte para mitigar y gestionar esta situación?",
+"opciones": [
+"A. Implementar actualizaciones automáticas de antivirus, capacitar usuarios y ejecutar escaneos periódicos.",
+"B. Apagar todos los equipos al primer signo de infección.",
+"C. Mantener los sistemas sin actualizaciones para evitar conflictos."
+],
+"respuesta_correcta": "A",
+"explicacion": "La prevención activa, incluidas actualizaciones y capacitación, es fundamental para controlar riesgos de malware en infraestructura TIC."
+},
+{
+"id": 81,
+"caso": "Un servidor crítico muestra altas temperaturas y riesgo de fallo por sobrecalentamiento, lo que pone en peligro la disponibilidad de los servicios digitales.",
+"enunciado": "¿Cuál es la medida inmediata que debe adoptar el equipo de soporte técnico?",
+"opciones": [
+"A. Activar sistemas de ventilación y monitorear la temperatura, procediendo a un shutdown controlado si persiste la alerta.",
+"B. Ignorar la alarma y continuar operaciones hasta el fallo.",
+"C. Desconectar la red para evitar accesos externos."
+],
+"respuesta_correcta": "A",
+"explicacion": "La reacción rápida y controlada ante sobrecalentamiento previene daños graves a hardware y mantiene la continuidad del servicio."
+},
+{
+"id": 82,
+"caso": "Un usuario solicita soporte porque su equipo responde muy lento al iniciar y ejecutar aplicaciones básicas.",
+"enunciado": "¿Cuál es la causa técnica más probable y la recomendación inicial del soporte TIC?",
+"opciones": [
+"A. Acumulación de procesos y falta de mantenimiento; recomendar limpieza de disco y cierre de programas innecesarios.",
+"B. Fallo en la placa madre; reemplazo inmediato.",
+"C. Problema de red; desconectar equipo de internet."
+],
+"respuesta_correcta": "A",
+"explicacion": "La lentitud suele ser causada por procesos innecesarios y falta de optimización, por lo que el mantenimiento básico suele resolver el problema."
+},
+{
+"id": 83,
+"caso": "Un incidente reportado involucra archivo corrupto en una base de datos crítica para la atención ciudadana.",
+"enunciado": "¿Cómo debe actuar el soporte técnico para mitigar el impacto?",
+"opciones": [
+"A. Restaurar desde la última copia de seguridad válida y verificar la integridad de los datos.",
+"B. Intentar recuperar el archivo manualmente sin respaldo.",
+"C. Ignorar el incidente hasta que se agrave."
+],
+"respuesta_correcta": "A",
+"explicacion": "La restauración desde backup garantiza la integridad y continuidad del servicio ante corrupciones críticas."
+},
+{
+"id": 84,
+"caso": "En un cambio de infraestructura, se migran sistemas a una plataforma cloud y algunos usuarios reportan problemas de acceso y latencia.",
+"enunciado": "¿Cuál debe ser la acción del soporte técnico para atender estas quejas?",
+"opciones": [
+"A. Realizar pruebas de conectividad, revisar configuraciones de red y fortalecer acceso seguro a la plataforma cloud.",
+"B. Ignorar los reportes porque la migración es reciente.",
+"C. Revertir la migración sin análisis previo."
+],
+"respuesta_correcta": "A",
+"explicacion": "Diagnosticar la conectividad y configuración previa a cualquier acción evita interrupciones mayores y mejora la experiencia del usuario."
+},
+{
+"id": 85,
+"caso": "Durante una auditoría, se identifica que los registros de tickets de soporte no están documentados adecuadamente.",
+"enunciado": "¿Qué mejora es prioritaria para la gestión del soporte técnico?",
+"opciones": [
+"A. Implementar un sistema formal de gestión de incidentes con registro detallado y análisis estadístico.",
+"B. Eliminar todos los registros antiguos para liberar espacio.",
+"C. No cambiar procedimientos para evitar confusión."
+],
+"respuesta_correcta": "A",
+"explicacion": "La correcta documentación permite mejorar procesos, detectar patrones y adoptar medidas preventivas en soporte técnico."
+},
+{
+"id": 86,
+"caso": "El equipo de soporte técnico debe atender un incremento de solicitudes de soporte relacionadas con problemas de VPN para empleados en teletrabajo.",
+"enunciado": "¿Cuál es la mejor estrategia de soporte para este escenario?",
+"opciones": [
+"A. Establecer una guía clara y capacitación para usuarios, y fortalecer monitoreo de la infraestructura VPN.",
+"B. Deshabilitar el acceso remoto inmediatamente.",
+"C. Atender solicitudes solo bajo demanda sin intervención proactiva."
+],
+"respuesta_correcta": "A",
+"explicacion": "Capacitar a usuarios y monitorear la infraestructura asegura un uso eficiente y reduce incidencias en acceso remoto."
+},
+{
+"id": 87,
+"caso": "Un técnico recibe una solicitud para instalar un nuevo software en equipos asociados con trámites municipales.",
+"enunciado": "¿Qué procedimiento debe seguir para cumplir con las políticas TIC y evitar riesgos?",
+"opciones": [
+"A. Verificar la compatibilidad, aprobación del software y realizar instalación bajo procedimientos estándar.",
+"B. Instalar de inmediato sin revisión previa.",
+"C. Rechazar la instalación para evitar cambios."
+],
+"respuesta_correcta": "A",
+"explicacion": "La instalación responsable cumple con políticas de seguridad, mantiene estándares y asegura funcionalidad sin causar riesgo."
+},
+{
+"id": 88,
+"caso": "Se planea implementar un portal de autoservicio para que los funcionarios reporten incidentes técnicos.",
+"enunciado": "¿Qué beneficio clave aporta esta iniciativa al soporte técnico municipal?",
+"opciones": [
+"A. Reducción del volumen de llamadas, agilización de tickets y mejor trazabilidad.",
+"B. Incremento en el tiempo de respuesta por saturación.",
+"C. Pérdida total de control en el seguimiento de casos."
+],
+"respuesta_correcta": "A",
+"explicacion": "Los portales de autoservicio optimizan la gestión al distribuir solicitudes y facilitar el seguimiento transparente y ágil."
+},
+{
+"id": 89,
+"caso": "Un usuario reporta pérdida de datos tras un incidente de fallo en su equipo de oficina.",
+"enunciado": "¿Qué paso inmediato debe tomar el soporte técnico para asegurar la recuperación y prevención futura?",
+"opciones": [
+"A. Confirmar la existencia y validez de copia de seguridad y restaurar datos inmediatamente si es posible.",
+"B. Informar que los datos no se pueden recuperar.",
+"C. Cambiar el equipo sin revisar información almacenada."
+],
+"respuesta_correcta": "A",
+"explicacion": "La recuperación de datos es prioritaria para reducir impacto y evitar pérdida irreversible sobre el servicio público."
+},
+{
+"id": 90,
+"caso": "Se implementa un programa de mantenimiento preventivo en los equipos municipales con el objetivo de extender su vida útil.",
+"enunciado": "¿Qué tareas debería incluir este programa para cumplir estándares de soporte técnico?",
+"opciones": [
+"A. Limpieza física, actualización de software, verificación de rendimiento y revisión de componentes críticos.",
+"B. Solo limpieza externa sin actualizaciones.",
+"C. No realizar mantenimiento para evitar riesgos."
+],
+"respuesta_correcta": "A",
+"explicacion": "Un mantenimiento integral es esencial para prevenir fallas, garantizar desempeño y reducir costos futuros."
+},
+{
+"id": 91,
+"caso": "Durante un corte eléctrico inesperado, algunos equipos municipales sufren daños y generan reportes masivos de fallas.",
+"enunciado": "Como responsable del soporte técnico, ¿cuál es la acción prioritaria para atender la situación?",
+"opciones": [
+"A. Priorizar revisión y reparación de equipos críticos para garantizar continuidad del servicio público.",
+"B. Ignorar los reportes hasta que se restablezca el servicio eléctrico.",
+"C. Considerar irreparable todo lo dañado sin diagnóstico."
+],
+"respuesta_correcta": "A",
+"explicacion": "Atender dispositivos clave asegura el restablecimiento rápido de servicios esenciales para la ciudadanía."
+},
+{
+"id": 92,
+"caso": "Se observa que el tiempo promedio de resolución de tickets de soporte técnico ha aumentado significativamente.",
+"enunciado": "¿Qué medida puede implementar el equipo de soporte para mejorar esta métrica?",
+"opciones": [
+"A. Revisar procesos, capacitar al personal y automatizar tareas repetitivas para ganar eficiencia.",
+"B. Descartar tickets no urgentes sin atención.",
+"C. Incrementar el volumen de tickets recibidos."
+],
+"respuesta_correcta": "A",
+"explicacion": "La eficiencia en los procesos y formación continua son claves para reducir tiempos y mejorar la calidad del servicio."
+},
+{
+"id": 93,
+"caso": "El equipo detecta accesos indebidos en un sistema local que podría comprometer la información sensible de la Alcaldía.",
+"enunciado": "¿Qué rol cumple el soporte técnico en la gestión de este incidente de seguridad informática?",
+"opciones": [
+"A. Coordinar acciones inmediatas, notificar a las autoridades internas y colaborar en la contención.",
+"B. Ignorar accesos sospechosos y esperar instrucciones.",
+"C. Publicar la información en canales externos."
+],
+"respuesta_correcta": "A",
+"explicacion": "El soporte técnico es pieza clave en la respuesta rápida y coordinada para mitigar riesgos y preservar la integridad."
+},
+{
+"id": 94,
+"caso": "Se planifica un taller para capacitar a funcionarios en el uso adecuado de los sistemas de soporte técnico y reporte de problemas.",
+"enunciado": "¿Cuál es el objetivo clave de esta capacitación?",
+"opciones": [
+"A. Mejorar la calidad de los reportes para acelerar resolución y prevenir incidentes.",
+"B. Aumentar la cantidad de reportes sin filtro alguno.",
+"C. Evitar el contacto con el soporte técnico."
+],
+"respuesta_correcta": "A",
+"explicacion": "Una buena capacitación genera reportes claros y efectivos que facilitan el trabajo del soporte y mejoran la experiencia usuario."
+},
+{
+"id": 95,
+"caso": "Al implementar la mesa de ayuda, se busca tener un control centralizado de todas las solicitudes y problemas técnicos de la alcaldía.",
+"enunciado": "¿Qué ventaja principal aporta esta mesa de ayuda al funcionamiento del soporte técnico?",
+"opciones": [
+"A. Facilita seguimiento, priorización y distribución eficiente de las solicitudes.",
+"B. Crea burocracia adicional sin beneficios reales.",
+"C. Permite que sólo una persona atienda todas las solicitudes sin registro."
+],
+"respuesta_correcta": "A",
+"explicacion": "Centralizar permite transparentar procesos, mejorar tiempos y organizar recursos para un soporte eficaz."
+},
+{
+"id": 96,
+"caso": "El equipo de soporte debe identificar las causas repetitivas de fallas técnicas para diseñar soluciones a largo plazo.",
+"enunciado": "¿Qué herramienta o práctica facilita esta gestión proactiva?",
+"opciones": [
+"A. Análisis estadístico de tickets y mantenimiento preventivo programado.",
+"B. Ignorar datos históricos y reactuar solo ante emergencias.",
+"C. Aumentar el tiempo de resolución sin análisis."
+],
+"respuesta_correcta": "A",
+"explicacion": "El análisis de datos permite detectar patrones y planificar acciones preventivas, mejorando la disponibilidad TIC."
+},
+{
+"id": 97,
+"caso": "Se solicita la documentación formal de procedimientos de soporte para estandarizar los procesos y capacitar nuevos técnicos.",
+"enunciado": "¿Por qué es crucial esta documentación para la Alcaldía?",
+"opciones": [
+"A. Facilita uniformidad, continuidad y calidad en la atención técnica.",
+"B. Genera exceso de papelería innecesaria.",
+"C. Evita la entrada de nuevos técnicos al equipo."
+],
+"respuesta_correcta": "A",
+"explicacion": "La documentación garantiza que el soporte sea replicable, eficiente y adaptable ante cambios o rotación del personal."
+},
+{
+"id": 98,
+"caso": "El soporte técnico debe realizar un seguimiento efectivo de los incidentes hasta su completa resolución.",
+"enunciado": "¿Cuál es una práctica clave para asegurar este seguimiento correcto?",
+"opciones": [
+"A. Registrar avances y comunicarlos periódicamente al usuario afectado.",
+"B. Cerrar incidentes inmediatamente tras su registro sin confirmación.",
+"C. No informar a usuarios para evitar molestias."
+],
+"respuesta_correcta": "A",
+"explicacion": "La comunicación continua y la documentación del progreso aseguran la transparencia y satisfacción del usuario."
+},
+{
+"id": 99,
+"caso": "Se establece un procedimiento para elevar solicitudes técnicas complejas a proveedores externos certificados.",
+"enunciado": "¿Qué criterio debe prevalecer para decidir la escalación externa?",
+"opciones": [
+"A. Cuando el soporte interno detecta limitaciones técnicas o requiere acceso a garantías.",
+"B. Escalar siempre sin intentar solución interna.",
+"C. Nunca escalar para evitar gastos."
+],
+"respuesta_correcta": "A",
+"explicacion": "La escalación justificada permite resolver problemas complejos con especialistas y mantiene la eficiencia del soporte interno."
+},
+{
+"id": 100,
+"caso": "Un equipo nuevo presenta fallas intermitentes y genera múltiples tickets en los primeros días de uso.",
+"enunciado": "¿Qué acción preventiva debe realizar el equipo técnico para minimizar incidencias en futuros despliegues?",
+"opciones": [
+"A. Realizar pruebas exhaustivas previas y capacitación del usuario final.",
+"B. Entregar equipo sin pruebas para agilizar expedientes.",
+"C. Ignorar reportes iniciales de fallas."
+],
+"respuesta_correcta": "A",
+"explicacion": "Las pruebas previas y la formación reducen problemas postdespliegue, aumentando eficiencia y satisfacción."
+},
+
+{
+"id": 101,
+"caso": "Durante una jornada laboral, la plataforma de PQRS en línea de la Alcaldía de Cajicá deja de funcionar y los ciudadanos no pueden radicar solicitudes. El alcalde exige que el servicio vuelva en menos de dos horas, mientras que el equipo de soporte detecta que la base de datos presenta corrupción en índices críticos.",
+"enunciado": "¿Cuál es la acción más adecuada desde el soporte técnico?",
+"opciones": [
+"A. Restaurar de inmediato la base de datos desde el último respaldo probado, aunque implique pérdida mínima de información.",
+"B. Intentar reparar los índices de la base de datos directamente sin pruebas, para no perder datos.",
+"C. Esperar a que el proveedor del motor de base de datos envíe una guía oficial antes de actuar."
+],
+"respuesta_correcta": "A",
+"explicacion": "La prioridad en incidentes críticos es restaurar la disponibilidad en el menor tiempo posible. Restaurar un respaldo probado asegura continuidad cumpliendo con los RTO definidos."
+},
+{
+"id": 102,
+"caso": "Un funcionario reporta que no puede acceder al sistema financiero porque olvidó su contraseña. El analista de soporte recibe múltiples solicitudes similares en un solo día. El auditor de seguridad recuerda que debe cumplirse la Ley 1581 de 2012 de protección de datos personales.",
+"enunciado": "¿Qué procedimiento de soporte técnico debe aplicarse?",
+"opciones": [
+"A. Restablecer la contraseña tras verificar la identidad del usuario, aplicando políticas seguras de autenticación.",
+"B. Enviar la contraseña original al correo personal del funcionario para agilizar la solución.",
+"C. Dar acceso temporal con una cuenta genérica mientras el usuario recupera la suya."
+],
+"respuesta_correcta": "A",
+"explicacion": "El restablecimiento con verificación de identidad y contraseña segura protege datos personales y cumple con la normativa, evitando cuentas genéricas inseguras."
+},
+{
+"id": 103,
+"caso": "En medio de una sesión del Concejo, el sistema de videotransmisión en vivo falla y la transmisión se corta. La ciudadanía está conectada y exige transparencia. El área de soporte recibe presión inmediata del alcalde y del jefe de comunicaciones.",
+"enunciado": "¿Cuál debe ser la primera acción del equipo de soporte?",
+"opciones": [
+"A. Implementar un canal alternativo de transmisión (ej. redes sociales oficiales) mientras se restablece el sistema principal.",
+"B. Reiniciar el sistema completo sin comunicar nada hasta que se solucione.",
+"C. Esperar a que el proveedor externo resuelva el problema, aunque tome varias horas."
+],
+"respuesta_correcta": "A",
+"explicacion": "Garantizar la continuidad de la transmisión mediante un canal alternativo mantiene el principio de transparencia y minimiza el impacto ante la ciudadanía."
+},
+{
+"id": 104,
+"caso": "Un contratista solicita acceso remoto a los servidores de la Alcaldía para dar soporte a una aplicación. El jefe de soporte debe decidir la forma de habilitarlo, teniendo en cuenta seguridad, trazabilidad y continuidad del servicio.",
+"enunciado": "¿Qué mecanismo es el más adecuado?",
+"opciones": [
+"A. Darle las credenciales del administrador general para acelerar el acceso.",
+"B. Habilitar acceso remoto por VPN con credenciales individuales, autenticación multifactor y registro de auditoría.",
+"C. Permitir conexión libre desde cualquier IP pública para evitar restricciones."
+],
+"respuesta_correcta": "B",
+"explicacion": "El acceso remoto seguro requiere VPN, MFA y registros de auditoría, cumpliendo buenas prácticas de seguridad y normatividad."
+},
+{
+"id": 105,
+"caso": "En un corte de energía en Cajicá, el CPD de la Alcaldía opera con un único UPS que se descarga rápidamente. El área de soporte debe actuar para proteger la información y mantener servicios críticos.",
+"enunciado": "¿Cuál es la mejor decisión en este escenario?",
+"opciones": [
+"A. Apagar de manera controlada los servidores menos críticos y priorizar los sistemas financieros y de trámites ciudadanos.",
+"B. Esperar a que la energía regrese sin apagar equipos, confiando en el UPS.",
+"C. Apagar todo inmediatamente sin avisar para evitar daños."
+],
+"respuesta_correcta": "A",
+"explicacion": "La estrategia es proteger los sistemas críticos aplicando un apagado controlado y priorizando continuidad en servicios esenciales."
+},
+{
+"id": 106,
+"caso": "El equipo de soporte recibe quejas por lentitud en el portal de contratación pública. Tras revisión, se descubre que varios procesos de mantenimiento se ejecutan en horario laboral.",
+"enunciado": "¿Qué ajuste debe realizar el área de soporte?",
+"opciones": [
+"A. Programar los mantenimientos en ventanas fuera del horario crítico, comunicando previamente a los usuarios.",
+"B. Continuar con el mantenimiento en horario laboral para agilizar el trabajo del equipo.",
+"C. Suspender indefinidamente los mantenimientos para no afectar usuarios."
+],
+"respuesta_correcta": "A",
+"explicacion": "La práctica recomendada es planear mantenimientos en ventanas definidas, comunicadas y fuera de horario crítico, asegurando continuidad del servicio."
+},
+{
+"id": 107,
+"caso": "El área jurídica solicita un informe técnico sobre un incidente de fuga de información en el sistema de PQRS. El jefe de soporte debe decidir qué datos incluir en el informe.",
+"enunciado": "¿Cuál es la mejor decisión?",
+"opciones": [
+"A. Incluir logs de auditoría, acciones realizadas, impacto identificado y medidas correctivas.",
+"B. Entregar contraseñas de usuarios comprometidos para que jurídico investigue.",
+"C. Incluir únicamente la descripción básica del incidente sin detalles técnicos."
+],
+"respuesta_correcta": "A",
+"explicacion": "El informe debe contener evidencias técnicas auditables y medidas correctivas, sin vulnerar datos sensibles ni exponer credenciales."
+},
+{
+"id": 108,
+"caso": "Se detecta un aumento de llamadas a la mesa de servicio por fallas en impresoras en todas las dependencias. El tiempo de respuesta se está alargando y los funcionarios se quejan.",
+"enunciado": "¿Qué acción debe priorizar el jefe de soporte?",
+"opciones": [
+"A. Analizar si existe un problema raíz (ej. controlador centralizado) y documentar un workaround mientras se corrige.",
+"B. Atender cada solicitud de manera individual aunque se repita el mismo error.",
+"C. Ignorar las solicitudes de impresoras por ser no críticas."
+],
+"respuesta_correcta": "A",
+"explicacion": "Cuando hay múltiples incidentes similares, se debe buscar la causa raíz y aplicar un workaround temporal, optimizando el tiempo de atención."
+},
+{
+"id": 109,
+"caso": "La Alcaldía necesita migrar un sistema de pagos en línea a la nube. El área de soporte debe definir cómo garantizar continuidad del servicio y la seguridad de los datos ciudadanos durante la transición.",
+"enunciado": "¿Qué estrategia debe aplicarse?",
+"opciones": [
+"A. Realizar la migración en fases con pruebas piloto, respaldos completos y plan de reversa documentado.",
+"B. Migrar todo en un único corte sin pruebas para ganar tiempo.",
+"C. Suspender el servicio hasta terminar la migración."
+],
+"respuesta_correcta": "A",
+"explicacion": "La migración en fases con respaldo y plan de reversa asegura continuidad, seguridad y control de riesgos."
+},
+{
+"id": 110,
+"caso": "Un funcionario de alto nivel solicita que su computador tenga privilegios de administrador local para instalar software sin restricciones. El área de soporte debe responder.",
+"enunciado": "¿Qué debe hacer el equipo de soporte?",
+"opciones": [
+"A. Negar el acceso administrativo y ofrecer instalación controlada mediante mesa de servicio.",
+"B. Entregar privilegios de administrador para evitar conflictos jerárquicos.",
+"C. Permitir la instalación libre siempre que se firme un documento de responsabilidad."
+],
+"respuesta_correcta": "A",
+"explicacion": "El principio de mínimo privilegio protege la seguridad institucional; se deben canalizar instalaciones vía procesos controlados."
+},
+{
+"id": 111,
+"caso": "La Secretaría TIC debe atender una solicitud ciudadana urgente sobre fallas en el portal de datos abiertos. El equipo de soporte detecta que el problema se debe a una actualización no probada en el sistema.",
+"enunciado": "¿Qué acción se debe tomar primero?",
+"opciones": [
+"A. Aplicar reversa del cambio (rollback) para restaurar la estabilidad del portal.",
+"B. Esperar a que el proveedor solucione sin revertir cambios.",
+"C. Ignorar el problema y enfocarse en otras solicitudes."
+],
+"respuesta_correcta": "A",
+"explicacion": "El rollback inmediato de un cambio problemático es la acción más efectiva para restaurar disponibilidad rápidamente."
+},
+{
+"id": 112,
+"caso": "Un ciudadano reporta que en la página de trámites aparecen datos personales visibles de otros usuarios. El área de soporte recibe la queja.",
+"enunciado": "¿Qué decisión debe tomarse?",
+"opciones": [
+"A. Desactivar de inmediato el servicio afectado, contener la fuga y notificar a las áreas de seguridad y jurídica.",
+"B. Esperar a recopilar más casos antes de actuar.",
+"C. Permitir el acceso porque la funcionalidad aún es útil."
+],
+"respuesta_correcta": "A",
+"explicacion": "La exposición de datos personales exige acción inmediata: contener, suspender el servicio y activar protocolos legales y técnicos."
+},
+{
+"id": 113,
+"caso": "Durante el censo de equipos, el área de soporte descubre 40 computadores con sistemas operativos sin soporte del fabricante. Algunos contienen información sensible de finanzas.",
+"enunciado": "¿Cuál es la decisión más adecuada?",
+"opciones": [
+"A. Planear migración inmediata a sistemas soportados y aplicar controles temporales de aislamiento y hardening.",
+"B. Mantener los sistemas obsoletos porque aún funcionan.",
+"C. Ignorar la situación para evitar costos adicionales."
+],
+"respuesta_correcta": "A",
+"explicacion": "Los sistemas sin soporte son vulnerables. Migrar y aplicar controles temporales protege la información y asegura cumplimiento normativo."
+},
+{
+"id": 114,
+"caso": "El portal de trámites ciudadanos presenta múltiples fallas intermitentes reportadas en la mesa de servicio. El jefe de soporte debe decidir cómo abordar la situación.",
+"enunciado": "¿Qué acción corresponde?",
+"opciones": [
+"A. Declarar incidente mayor, activar equipo de crisis y comunicar estado a los usuarios.",
+"B. Atender caso por caso sin clasificación especial.",
+"C. Ignorar los reportes hasta que el sistema caiga completamente."
+],
+"respuesta_correcta": "A",
+"explicacion": "Ante múltiples fallas en servicio crítico, se debe declarar incidente mayor, activar protocolo y comunicar oportunamente."
+},
+{
+"id": 115,
+"caso": "Un funcionario solicita acceso al sistema de gestión documental, pero el área de soporte no encuentra registro en el catálogo de servicios.",
+"enunciado": "¿Qué debe hacer soporte técnico?",
+"opciones": [
+"A. Escalar la solicitud al administrador del servicio, registrando la novedad en el catálogo.",
+"B. Negar de inmediato sin investigar.",
+"C. Otorgar acceso sin validación para evitar retrasos."
+],
+"respuesta_correcta": "A",
+"explicacion": "Las solicitudes fuera del catálogo deben escalarse y registrarse para trazabilidad, sin otorgar accesos no autorizados."
+},
+{
+"id": 116,
+"caso": "El jefe de soporte detecta que los usuarios siguen reportando el mismo incidente pese a que ya existe un artículo de conocimiento publicado con la solución.",
+"enunciado": "¿Qué medida debe tomar?",
+"opciones": [
+"A. Revisar la difusión del artículo y capacitar al personal de la mesa de servicio para aplicarlo.",
+"B. Eliminar el artículo de conocimiento por no ser útil.",
+"C. Seguir atendiendo manualmente sin utilizar la base de conocimiento."
+],
+"respuesta_correcta": "A",
+"explicacion": "Si la solución existe, la prioridad es difundir y capacitar para usarla, reduciendo reincidencia y mejorando eficiencia."
+},
+{
+"id": 117,
+"caso": "El área de soporte recibe solicitudes de instalación de software sin licencias oficiales. Algunos jefes de dependencia presionan para instalarlos.",
+"enunciado": "¿Qué acción es correcta?",
+"opciones": [
+"A. Negar la instalación de software sin licencia y proponer alternativas legales.",
+"B. Instalar el software solicitado para evitar conflictos.",
+"C. Permitir uso temporal hasta conseguir licencia."
+],
+"respuesta_correcta": "A",
+"explicacion": "El uso de software sin licencia viola la ley y las políticas institucionales; deben proponerse alternativas legales."
+},
+{
+"id": 118,
+"caso": "Un corte de Internet afecta todas las sedes de la Alcaldía y detiene los trámites en línea. El área de soporte debe responder.",
+"enunciado": "¿Qué acción es prioritaria?",
+"opciones": [
+"A. Activar el plan de contingencia con enlaces redundantes y comunicar a los usuarios sobre la interrupción temporal.",
+"B. Esperar a que el proveedor solucione sin informar nada.",
+"C. Suspender todas las actividades hasta que regrese el Internet."
+],
+"respuesta_correcta": "A",
+"explicacion": "Se debe activar el plan de contingencia con redundancia y comunicación transparente a los usuarios."
+},
+{
+"id": 119,
+"caso": "Un ciudadano informa que no puede radicar su queja en la plataforma virtual. El área de soporte detecta que el problema es solo en un navegador específico.",
+"enunciado": "¿Qué acción corresponde?",
+"opciones": [
+"A. Validar compatibilidad del navegador, actualizar documentación de uso y comunicar alternativas al ciudadano.",
+"B. Decir que cambie de computador sin más explicación.",
+"C. Ignorar la solicitud porque no es masiva."
+],
+"respuesta_correcta": "A",
+"explicacion": "El soporte debe validar compatibilidad, actualizar guías de usuario y ofrecer alternativas para garantizar acceso ciudadano."
+},
+{
+"id": 120,
+"caso": "La mesa de servicio recibe incidentes de funcionarios que no pueden acceder al correo institucional. Se detecta un problema de autenticación en el directorio activo.",
+"enunciado": "¿Qué decisión debe tomarse?",
+"opciones": [
+"A. Priorizar la restauración del servicio de autenticación, comunicar incidente mayor y aplicar workaround temporal si es posible.",
+"B. Crear cuentas locales para todos mientras se arregla.",
+"C. Ignorar el problema hasta que se normalice solo."
+],
+"respuesta_correcta": "A",
+"explicacion": "El directorio activo es crítico; debe priorizarse la restauración con comunicación y workarounds temporales."
+},
+{
+"id": 121,
+"caso": "Un reporte de auditoría interna solicita evidencias de cómo se gestionan incidentes en la mesa de servicio de la Alcaldía.",
+"enunciado": "¿Qué debe entregar el área de soporte?",
+"opciones": [
+"A. Registros de tickets, tiempos de respuesta, cumplimiento de SLA y procedimientos aplicados.",
+"B. Contraseñas de usuarios para que auditoría las revise.",
+"C. Una explicación verbal sin documentación."
+],
+"respuesta_correcta": "A",
+"explicacion": "La auditoría requiere evidencias objetivas: registros, métricas y procedimientos documentados, no credenciales ni explicaciones informales."
+},
+{
+"id": 122,
+"caso": "El equipo de soporte recibe múltiples solicitudes de restablecimiento de contraseñas porque los usuarios no pueden autenticarse en la plataforma de trámites.",
+"enunciado": "¿Qué medida debe adoptarse a mediano plazo?",
+"opciones": [
+"A. Implementar un sistema de autoservicio seguro de restablecimiento de contraseñas.",
+"B. Seguir restableciendo manualmente cada caso.",
+"C. Permitir a los usuarios usar la misma contraseña indefinidamente."
+],
+"respuesta_correcta": "A",
+"explicacion": "Un sistema de autoservicio seguro reduce la carga operativa y mejora la experiencia de usuario cumpliendo normas de seguridad."
+},
+{
+"id": 123,
+"caso": "El servidor de respaldos de la Alcaldía se llena y los respaldos automáticos comienzan a fallar. El área de soporte debe tomar medidas.",
+"enunciado": "¿Qué acción es más adecuada?",
+"opciones": [
+"A. Implementar políticas de retención, depuración de respaldos antiguos y expandir almacenamiento según proyección.",
+"B. Borrar respaldos recientes para liberar espacio.",
+"C. Ignorar la falla hasta que el disco se dañe."
+],
+"respuesta_correcta": "A",
+"explicacion": "La retención adecuada y expansión planificada aseguran continuidad de respaldos y cumplimiento de RTO/RPO."
+},
+{
+"id": 124,
+"caso": "En una capacitación, los funcionarios se quejan de la lentitud en los equipos de oficina. El área de soporte recibe múltiples tickets similares.",
+"enunciado": "¿Qué decisión debe tomar soporte?",
+"opciones": [
+"A. Evaluar causa raíz común (ej. falta de memoria o software obsoleto) y planear actualización masiva.",
+"B. Atender equipo por equipo sin analizar causas comunes.",
+"C. Ignorar las quejas porque son recurrentes."
+],
+"respuesta_correcta": "A",
+"explicacion": "Se debe identificar la causa común y planear solución masiva, mejorando eficiencia y experiencia del usuario."
+}
+
+
+
+]

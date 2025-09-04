@@ -1,0 +1,1215 @@
+[
+    {
+        "id": 1,
+        "caso": "Un ciudadano de Cajicá necesita acceder a información sobre el presupuesto asignado a la Secretaría TIC para el año en curso. Presenta una solicitud formal a la Alcaldía.",
+        "enunciado": "En el marco de la organización territorial, ¿qué principio constitucional le permite a este ciudadano exigir dicha información a la administración municipal?",
+        "opciones": [
+            "A. El principio de subsidiaridad, que obliga al municipio a solicitar apoyo del nivel superior.",
+            "B. El principio de autonomía, que le permite al municipio tomar decisiones sin la intervención del ciudadano.",
+            "C. El principio de publicidad, que garantiza la transparencia de los actos de la administración pública."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El principio de publicidad, establecido en el Artículo 209 de la Constitución Política, es uno de los pilares de la función administrativa. Garantiza la transparencia en los actos y la información del Estado, permitiendo que los ciudadanos accedan a ella."
+    },
+    {
+        "id": 2,
+        "caso": "El Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC) emite un lineamiento nacional sobre ciberseguridad para todas las entidades del Estado.",
+        "enunciado": "De acuerdo con los principios de la organización territorial, ¿qué acción debe priorizar la Alcaldía de Cajicá para cumplir con dicho lineamiento?",
+        "opciones": [
+            "A. Rechazar el lineamiento ya que la autonomía municipal le permite tener su propia política de ciberseguridad.",
+            "B. Adaptar y aplicar el lineamiento nacional en el contexto local, cumpliendo con el principio de coordinación y descentralización.",
+            "C. Esperar a que la Gobernación de Cundinamarca emita una circular que ordene la implementación del lineamiento."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de coordinación establece que las entidades territoriales deben trabajar de manera armónica con el Estado para lograr objetivos comunes. El MinTIC define la política general, y el municipio la adapta e implementa, ejerciendo la descentralización administrativa."
+    },
+    {
+        "id": 3,
+        "caso": "El Plan de Desarrollo de Cajicá 2024-2028 incluye una meta para 'aumentar la capacidad de respuesta de la Secretaría de las TIC'. La Secretaría decide comprar un nuevo servidor para alcanzar dicha meta.",
+        "enunciado": "Según la Ley 1551 de 2012, ¿cuál es el fundamento legal que permite al municipio realizar esta inversión de forma autónoma?",
+        "opciones": [
+            "A. La capacidad de establecer tributos de forma independiente para financiar sus proyectos.",
+            "B. La potestad de auto-gobernarse y administrar sus propios recursos de acuerdo a las leyes.",
+            "C. El derecho de participar en las rentas nacionales a través del Sistema General de Regalías."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 1551 de 2012, que moderniza la gestión municipal, reafirma los derechos de las entidades territoriales establecidos en el Artículo 287 de la Constitución, que les da la potestad de auto-gobernarse y administrar sus recursos para cumplir con sus competencias."
+    },
+    {
+        "id": 4,
+        "caso": "Un proyecto de ley en el Congreso busca centralizar en el Gobierno Nacional la administración de todas las plataformas de trámites digitales del país, eliminando la autonomía municipal sobre estos sistemas.",
+        "enunciado": "Si este proyecto se aprueba, ¿a cuál de los siguientes principios de la organización territorial estaría afectando directamente?",
+        "opciones": [
+            "A. El principio de concurrencia, ya que la Nación y los municipios comparten la responsabilidad de los trámites.",
+            "B. El principio de subsidiariedad, dado que el nivel superior interviene en un asunto municipal.",
+            "C. El principio de autonomía, que le permite a los municipios gestionar sus propios intereses."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La autonomía es el principio fundamental que les permite a los municipios 'gestionar sus propios intereses'. Un proyecto de ley que elimina esta capacidad de decisión sobre la administración de sus plataformas de trámites va en contra de dicho principio."
+    },
+    {
+        "id": 5,
+        "caso": "El Gobernador de Cundinamarca propone un plan para que la Gobernación brinde soporte técnico y financiero a los municipios para la implementación de fibra óptica, un servicio que la Alcaldía de Cajicá no puede financiar por sí sola.",
+        "enunciado": "En este escenario, ¿cuál principio de la organización territorial está aplicando el departamento para ayudar al municipio?",
+        "opciones": [
+            "A. El principio de coordinación, ya que están compartiendo responsabilidades entre diferentes niveles.",
+            "B. El principio de concurrencia, ya que la Gobernación asume la responsabilidad de la gestión municipal.",
+            "C. El principio de subsidiariedad, donde el nivel superior ayuda al inferior que no puede cumplir con sus funciones."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El principio de subsidiaridad establece que una autoridad de nivel superior debe ayudar a una de nivel inferior que no puede cumplir con sus responsabilidades por sí misma. El departamento actúa como subsidiario del municipio en este caso."
+    },
+    {
+        "id": 6,
+        "caso": "El Concejo Municipal de Cajicá debate la creación de una Secretaría de Innovación para complementar las funciones de la Secretaría de TIC.",
+        "enunciado": "Según el marco de la organización territorial colombiana, ¿a qué nivel de la estructura del Estado pertenece el Concejo Municipal y cuál es su principal función?",
+        "opciones": [
+            "A. Pertenece al nivel municipal y su función es ejercer el control político sobre la administración.",
+            "B. Pertenece al nivel departamental y su función es aprobar los planes de desarrollo.",
+            "C. Pertenece al nivel municipal y su función es administrar los recursos de la entidad territorial."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "El Concejo Municipal es la corporación administrativa del nivel municipal y su principal función, entre otras, es ejercer el control político sobre las acciones del alcalde y sus secretarías."
+    },
+    {
+        "id": 7,
+        "caso": "La Alcaldía de Cajicá debe presentar su Plan de Desarrollo Municipal para el próximo periodo de gobierno.",
+        "enunciado": "¿Con cuál de los siguientes instrumentos de planeación debe articularse el Plan de Desarrollo Municipal, según la jerarquía establecida en el Estado?",
+        "opciones": [
+            "A. Con el Plan Estratégico de Tecnologías de la Información (PETI) del municipio.",
+            "B. Con los Planes de Ordenamiento Territorial (POT).",
+            "C. Con el Plan Nacional de Desarrollo (PND) del Gobierno Nacional."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El Plan Nacional de Desarrollo es el instrumento de planeación de mayor jerarquía. Todos los planes de desarrollo territoriales (departamentales y municipales) deben articularse con él para garantizar la coherencia de las políticas públicas."
+    },
+    {
+        "id": 8,
+        "caso": "El departamento de Cundinamarca está trabajando en un proyecto para unificar los sistemas de información de catastro de varios municipios, incluyendo Cajicá.",
+        "enunciado": "Esta acción del departamento se enmarca en la Ley 1454 de 2011 (LOOT), ¿qué principio de la organización territorial busca fortalecer principalmente?",
+        "opciones": [
+            "A. El principio de concurrencia, donde el municipio es el único responsable de su sistema de catastro.",
+            "B. El principio de coordinación, ya que busca armonizar las acciones entre diferentes entidades.",
+            "C. El principio de autonomía, para que el municipio pueda decidir si quiere o no unificar sus sistemas."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de coordinación busca una acción armónica entre la Nación, los departamentos y los municipios. Un proyecto de unificación de sistemas de información entre varias entidades es un claro ejemplo de coordinación interadministrativa."
+    },
+    {
+        "id": 9,
+        "caso": "La administración municipal decide invertir en la construcción de una nueva vía para mejorar la conectividad entre el casco urbano y una zona rural de Cajicá. El proyecto es financiado con recursos propios del municipio.",
+        "enunciado": "¿Qué derecho de las entidades territoriales, consagrado en el Artículo 287 de la Constitución, se refleja en esta acción?",
+        "opciones": [
+            "A. La capacidad de establecer tributos de forma independiente para financiar la obra.",
+            "B. El derecho a gobernar por autoridades propias, como el Concejo Municipal.",
+            "C. La potestad de administrar sus propios recursos y ejercer las competencias que le corresponden."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La administración de los recursos propios es uno de los derechos fundamentales de las entidades territoriales, lo que les permite invertir en proyectos que consideren necesarios para su desarrollo local."
+    },
+    {
+        "id": 10,
+        "caso": "La Alcaldía de Cajicá, a través de la Secretaría TIC, implementa un nuevo portal de transparencia para publicar los contratos y la ejecución presupuestal de forma detallada.",
+        "enunciado": "¿Qué ley es el principal soporte normativo para esta acción, reforzando el derecho de acceso a la información pública?",
+        "opciones": [
+            "A. Ley 136 de 1994, que regula el régimen municipal.",
+            "B. Ley 1551 de 2012, que moderniza la gestión municipal.",
+            "C. Ley 1712 de 2014, Ley de Transparencia y del Derecho de Acceso a la Información Pública."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La Ley 1712 de 2014, conocida como la Ley de Transparencia, establece los mecanismos para garantizar el derecho de acceso a la información pública, obligando a las entidades a divulgarla de forma activa y oportuna."
+    },
+    {
+        "id": 11,
+        "caso": "En un debate en el Concejo Municipal de Cajicá, un concejal cuestiona si la Alcaldía tiene la facultad de emitir un impuesto local para financiar un proyecto de TIC.",
+        "enunciado": "De acuerdo con la organización territorial, ¿qué principio constitucional le otorga a los municipios la capacidad para establecer tributos?",
+        "opciones": [
+            "A. El principio de subsidiariedad, que le permite solicitar recursos a la Nación en caso de necesidad.",
+            "B. El principio de autonomía, que incluye la potestad de establecer tributos dentro de los límites de la Constitución y la ley.",
+            "C. El principio de coordinación, que le exige al municipio obtener la aprobación del departamento para crear impuestos."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La autonomía de las entidades territoriales, consagrada en el Artículo 287 de la Constitución, les confiere el derecho de establecer tributos y administrar sus recursos, una de las bases de la autonomía fiscal."
+    },
+    {
+        "id": 12,
+        "caso": "La Alcaldía de Cajicá decide crear una nueva Secretaría de Innovación para gestionar proyectos de transformación digital. Para ello, debe modificar su estructura administrativa.",
+        "enunciado": "¿Cuál es el instrumento de gestión que la Alcaldía debe utilizar para este cambio en su estructura interna, en el marco de la organización territorial?",
+        "opciones": [
+            "A. Un acuerdo del Concejo Municipal, que le confiere la potestad para crear secretarías.",
+            "B. Una ley de la República, ya que solo el Congreso puede crear nuevas entidades públicas.",
+            "C. Una resolución firmada por el Alcalde, basada en la Constitución Política y las leyes."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "El Concejo Municipal, como corporación administrativa, es la entidad que le confiere la potestad al Alcalde para modificar la estructura administrativa de la entidad territorial a través de un Acuerdo, en el marco de la autonomía administrativa municipal."
+    },
+    {
+        "id": 13,
+        "caso": "La Alcaldía de Cajicá recibe transferencias del Sistema General de Participaciones (SGP) para financiar proyectos de educación y salud.",
+        "enunciado": "¿A qué nivel de la estructura del Estado pertenecen los recursos del SGP y cómo se relacionan con la autonomía municipal?",
+        "opciones": [
+            "A. Pertenecen al nivel municipal y son un ejemplo de su autonomía fiscal.",
+            "B. Pertenecen al nivel nacional y su uso debe ser coordinado con la Nación y los departamentos.",
+            "C. Pertenecen al nivel nacional y el municipio debe usarlos de forma autónoma sin ninguna coordinación."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El Sistema General de Participaciones es una transferencia de recursos de la Nación a las entidades territoriales. Aunque el municipio tiene cierta autonomía para su gestión, el uso de estos recursos está sujeto a las competencias y la coordinación establecidas por la ley."
+    },
+    {
+        "id": 14,
+        "caso": "La Alcaldía de Cajicá decide implementar un nuevo sistema de información geográfica (SIG) para la planeación urbana, un proyecto que también beneficia a varios municipios vecinos.",
+        "enunciado": "La ejecución de este proyecto, que beneficia a varios municipios, se alinea con el principio de:",
+        "opciones": [
+            "A. Subsidiaridad, ya que el municipio está asumiendo una competencia que le corresponde al departamento.",
+            "B. Concurrencia, ya que la Alcaldía de Cajicá está compartiendo una responsabilidad con otros municipios.",
+            "C. Coordinación, al armonizar la acción de la administración municipal con el de otras entidades territoriales."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La acción de la Alcaldía de Cajicá de implementar un sistema que beneficia a municipios vecinos es un claro ejemplo del principio de coordinación, donde las entidades trabajan en conjunto para lograr un objetivo común más amplio."
+    },
+    {
+        "id": 15,
+        "caso": "La Alcaldía de Cajicá, en conjunto con otras alcaldías del departamento, decide crear una figura administrativa para gestionar proyectos de infraestructura vial de forma conjunta.",
+        "enunciado": "¿Cuál es la figura de asociación territorial que podría crearse, de acuerdo con la Ley Orgánica de Ordenamiento Territorial (LOOT)?",
+        "opciones": [
+            "A. Una provincia, una figura de agrupaciones de municipios.",
+            "B. Una región administrativa y de planificación (RAP), un mecanismo para la coordinación de políticas.",
+            "C. Un distrito especial, una figura de organización territorial para ciudades con importancia estratégica."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 1454 de 2011 (LOOT) establece las Regiones Administrativas y de Planificación (RAP) como un mecanismo de asociación de entidades territoriales para la ejecución de proyectos de desarrollo regional, un claro ejemplo de cooperación."
+    },
+    {
+        "id": 16,
+        "caso": "Un ciudadano solicita a la Secretaría TIC la implementación de un mecanismo de participación ciudadana para votar digitalmente por proyectos locales.",
+        "enunciado": "La Ley 1551 de 2012, que moderniza la gestión municipal, establece que los municipios deben fomentar la participación ciudadana. Esta acción se enmarca en la potestad del municipio de:",
+        "opciones": [
+            "A. Administrar sus propios recursos, ya que la implementación de un sistema digital tiene un costo.",
+            "B. Gobernar por autoridades propias, ya que el Alcalde es el responsable de la administración.",
+            "C. Ejercer las competencias que le corresponden, como el fomento de la participación comunitaria."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "Una de las competencias principales del municipio es la de 'fomentar la participación comunitaria' (Artículo 3 de la Ley 1551 de 2012), lo que incluye el uso de la tecnología para tal fin. Las demás opciones son derechos y no competencias directas para esta acción."
+    },
+    {
+        "id": 17,
+        "caso": "La Alcaldía de Cajicá debe resolver una consulta ciudadana que requiere la interpretación de una norma nacional emitida por el Ministerio del Interior.",
+        "enunciado": "En el marco de la estructura del Estado, la Alcaldía de Cajicá pertenece a la Rama Ejecutiva a nivel municipal. ¿Qué le exige la Constitución para dar respuesta a dicha consulta?",
+        "opciones": [
+            "A. Actuar con moralidad y celeridad en la prestación de un servicio público.",
+            "B. Aplicar el principio de la concurrencia, para trabajar en conjunto con el Ministerio.",
+            "C. Respetar los principios de la función administrativa, como la imparcialidad y la eficacia."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 209 de la Constitución Política de Colombia establece que la función administrativa está al servicio de los intereses generales y se desarrolla con base en principios como la igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad."
+    },
+    {
+        "id": 18,
+        "caso": "La Secretaría TIC de la Alcaldía de Cajicá está elaborando un informe técnico para el Concejo Municipal sobre el avance del Plan de Desarrollo en materia de Gobierno Digital.",
+        "enunciado": "De acuerdo con el modelo de la organización territorial, la rama del poder público a la que pertenece el Concejo Municipal, y su función en este caso, es:",
+        "opciones": [
+            "A. Rama Legislativa a nivel municipal, con función de ejercer control político sobre la administración.",
+            "B. Rama Ejecutiva a nivel municipal, con función de aprobar el Plan de Desarrollo.",
+            "C. Órgano de Control, con la función de sancionar a los funcionarios por la falta de avances."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "El Concejo Municipal, como corporación pública de elección popular, pertenece a la rama legislativa a nivel local. Su función principal es ejercer control político sobre las acciones del alcalde y su equipo, como es el caso de solicitar un informe sobre los avances de un plan."
+    },
+    {
+        "id": 19,
+        "caso": "La Gobernación de Cundinamarca asigna recursos a la Alcaldía de Cajicá para que invierta en la infraestructura digital de las escuelas públicas del municipio.",
+        "enunciado": "Esta asignación de recursos desde el nivel departamental al municipal se enmarca en el principio de:",
+        "opciones": [
+            "A. Descentralización, ya que se está transfiriendo una competencia y recursos a un nivel inferior para que se gestione localmente.",
+            "B. Concurrencia, ya que la Gobernación y la Alcaldía comparten la responsabilidad de la educación.",
+            "C. Coordinación, para que la inversión se realice de forma armónica entre los dos niveles de gobierno."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La concurrencia implica que la Nación y las entidades territoriales comparten responsabilidades en la prestación de servicios, en este caso, la educación y la infraestructura. Ambos niveles de gobierno tienen competencias en esta área."
+    },
+    {
+        "id": 20,
+        "caso": "El Alcalde de Cajicá decide convocar a un Cabildo Abierto para discutir con la comunidad la conveniencia de un nuevo proyecto de Gobierno Digital que tiene un alto impacto en la vida de los ciudadanos.",
+        "enunciado": "¿Qué mecanismo de participación ciudadana está utilizando el Alcalde en este caso y qué principio de la organización territorial busca fortalecer?",
+        "opciones": [
+            "A. Está usando el voto programático para fortalecer la descentralización de los servicios públicos.",
+            "B. Está usando el cabildo abierto para fortalecer el principio de participación democrática.",
+            "C. Está usando la consulta popular para fortalecer el principio de subsidiaridad en la toma de decisiones."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El cabildo abierto es un mecanismo de participación ciudadana mediante el cual los habitantes de un municipio pueden participar en los debates sobre asuntos de interés para la comunidad. Su uso fortalece el principio de participación democrática en la gestión territorial."
+    },
+
+
+    {
+        "id": 21,
+        "caso": "El Plan de Desarrollo Municipal de Cajicá ha priorizado la 'gestión catastral con enfoque multipropósito' como un eje fundamental para el ordenamiento territorial y el incremento de la capacidad fiscal. Se le ha encomendado la función de liderar la implementación de la componente tecnológica. Un informe reciente de la Contraloría Municipal ha señalado que el progreso es lento, lo que podría afectar la ejecución presupuestal y los objetivos de la gestión pública territorial.",
+        "enunciado": "Para acelerar el progreso y dar cumplimiento al 'Plan de Desarrollo Municipal', la acción más acertada y en línea con el principio de 'orientación a resultados' es:",
+        "opciones": [
+            "A. Solicitar más recursos a la Secretaría de Hacienda para contratar personal adicional y agilizar el proceso de actualización catastral.",
+            "B. Presentar un informe detallado a la Contraloría, argumentando que la actualización catastral es un proceso complejo y que los avances son aceptables.",
+            "C. Identificar y priorizar las etapas tecnológicas más críticas del proceso de actualización catastral y establecer un plan de acción para su ejecución."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El principio de 'orientación a resultados' exige que el profesional identifique los obstáculos y proponga soluciones. La opción C, 'identificar y priorizar las etapas tecnológicas', es la que mejor se alinea con este principio, ya que busca una solución de manera proactiva y estratégica para acelerar el proceso. La opción A no garantiza la eficiencia, y la opción B evade la responsabilidad del profesional y no resuelve el problema de fondo."
+    },
+    {
+        "id": 22,
+        "caso": "El Concejo Municipal ha manifestado su preocupación por la falta de 'interoperabilidad' entre los sistemas de información de la Alcaldía y otras entidades del Estado, lo que dificulta la toma de decisiones basada en datos. Usted, como Profesional Universitario de la Secretaría TIC, ha sido asignado para liderar un proyecto que busque solucionar este problema, en línea con la 'Política de Gobierno Digital'.",
+        "enunciado": "La acción más estratégica y en línea con el principio de 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Solicitar a la Secretaría de Hacienda que autorice la compra de un software de 'interoperabilidad' que se integre con todos los sistemas existentes.",
+            "B. Desarrollar un 'Plan de Acción Anual' para la Secretaría, que incluya la 'interoperabilidad' como un objetivo clave y que mida el progreso a través de indicadores de gestión.",
+            "C. Negociar con las otras entidades del Estado para que adapten sus sistemas de información a los de la Alcaldía de Cajicá para lograr la 'interoperabilidad'."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública exige que los proyectos estén alineados con la planificación institucional. La opción B, 'desarrollar un Plan de Acción Anual', es la que mejor se alinea con este principio, ya que demuestra la 'instrumentación de decisiones' de forma profesional y transparente. La opción A no garantiza la 'interoperabilidad' con todas las entidades, y la opción C es una medida que no es realista en el marco de la gestión pública territorial."
+    },
+    {
+        "id": 23,
+        "caso": "La Alcaldía de Cajicá está promoviendo una nueva política de 'Ciencia, Tecnología e Innovación' para impulsar el desarrollo económico del municipio, en el marco del 'Plan de Desarrollo Municipal'. Usted, como Profesional Universitario de la Secretaría TIC, ha sido asignado para liderar la formulación de esta política. Se le ha pedido que la política se enfoque en la creación de un ecosistema de innovación que fomente la colaboración entre el sector público, el sector privado y la academia.",
+        "enunciado": "La acción más estratégica y en línea con el 'aporte técnico-profesional' es:",
+        "opciones": [
+            "A. Buscar en la web modelos de políticas de innovación de otras ciudades de la región y presentarlos como si fueran propios, sin mencionar la fuente de donde los obtuvo.",
+            "B. Formular un documento que sintetice los principios de la política y que presente los planes y programas que se ejecutarán para lograr los objetivos establecidos.",
+            "C. Convocar a reuniones informales a los líderes de la industria y la academia de la región para que aporten sus ideas sobre la nueva política."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'aporte técnico-profesional' implica la formulación de un documento que cumpla con los estándares de la gestión pública y que esté alineado con la planificación institucional. La opción B, 'formular un documento que sintetice los principios', es la que mejor se alinea con este principio, ya que demuestra la 'instrumentación de decisiones' de forma profesional y transparente. La opción A es una medida que va en contra de los principios de transparencia y ética, y la opción C, aunque puede ser útil, no es un paso suficiente para la formulación de una política pública."
+    },
+    {
+        "id": 24,
+        "caso": "La Alcaldía de Cajicá ha recibido una solicitud de la Contraloría Municipal para que se entregue un informe detallado sobre la ejecución presupuestal de los proyectos de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). La Contraloría ha solicitado que el informe se enfoque en la 'valoración de antecedentes' de los proveedores, con el objetivo de verificar que se haya dado cumplimiento a los principios de transparencia y selección objetiva en los procesos de contratación.",
+        "enunciado": "Para preparar el informe, la acción más adecuada y en línea con la gestión pública es:",
+        "opciones": [
+            "A. Omitir la información sobre los proveedores que no cumplieron con los requisitos de la licitación para no generar dudas sobre la gestión de la Secretaría.",
+            "B. Presentar un informe detallado que demuestre que se dio cumplimiento a los requisitos de la licitación, incluyendo la valoración de antecedentes de los proveedores.",
+            "C. Argumentar a la Contraloría que el informe solicitado es de carácter técnico y que la 'valoración de antecedentes' no es responsabilidad de la Secretaría."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública exige que se dé cumplimiento a los principios de transparencia y selección objetiva en los procesos de contratación. La opción B, 'presentar un informe detallado', es la que mejor se alinea con este principio, ya que demuestra el 'compromiso con la organización' y una 'orientación a resultados'. La opción A es una medida que va en contra de los principios de transparencia, y la opción C evade la responsabilidad de la Secretaría."
+    },
+    {
+        "id": 25,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Ciencia, Tecnología e Innovación' para impulsar el desarrollo económico del municipio. Usted, como Profesional Universitario, debe liderar la implementación de esta política. Se le ha pedido que la política se enfoque en la creación de un ecosistema de innovación que fomente la colaboración entre el sector público, el sector privado y la academia. El Concejo Municipal ha solicitado una audiencia para que usted presente los avances de la política en el primer semestre.",
+        "enunciado": "Para preparar la presentación, la acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Explicar la importancia de la política y el potencial que tiene para impulsar el desarrollo económico del municipio.",
+            "B. Presentar un informe que demuestre el cumplimiento de las metas y los objetivos establecidos en el Plan de Acción de la Secretaría TIC y que sirva como evidencia de resultados.",
+            "C. Compartir los planes y programas que se ejecutarán en el segundo semestre para demostrar que se está avanzando en la implementación de la política."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'presenta un informe que demuestre el cumplimiento de las metas y los objetivos establecidos en el Plan de Acción de la Secretaría TIC' lo que servirá como evidencia de los resultados de la gestión. Las opciones A y C se centran en el potencial y la planificación futura, pero no en los resultados de la gestión."
+    },
+    {
+        "id": 26,
+        "caso": "La Alcaldía de Cajicá ha lanzado una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A es una medida que no fomenta la colaboración y la mejora continua, y la opción C es una medida que no resuelve el problema de la falta de acceso y transparencia."
+    },
+    {
+        "id": 27,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva. La opción A es una medida que no fomenta la colaboración, y la opción C es una medida extrema que podría afectar la prestación de servicios a la ciudadanía."
+    },
+    {
+        "id": 28,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada. La opción A es una medida que no tiene en cuenta la planificación, y la opción C es un argumento subjetivo que no demuestra los beneficios reales de la propuesta."
+    },
+    {
+        "id": 29,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A evade la responsabilidad del profesional, y la opción C es una medida extrema que podría causar la pérdida de información valiosa."
+    },
+    {
+        "id": 30,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'. La opción A es un argumento subjetivo que no demuestra los beneficios reales de la propuesta, y la opción C es una medida que no fomenta la 'adaptación al cambio' ni el 'trabajo en equipo'."
+    },
+
+{
+        "id": 31,
+        "caso": "La administración municipal de Cajicá está considerando la implementación de una 'Política Pública de Participación Ciudadana a través de Medios Digitales'. Se ha previsto que la participación en la formulación de esta política involucre a diferentes actores como la comunidad, líderes de la sociedad civil y entidades del orden departamental y nacional. Usted, como Profesional Universitario, ha sido asignado para liderar esta iniciativa.",
+        "enunciado": "La acción más estratégica y en línea con el principio de 'concurrencia' de la organización territorial es:",
+        "opciones": [
+            "A. Diseñar un plan de comunicación que informe a los ciudadanos sobre los beneficios de la participación a través de medios digitales y que fomente su uso.",
+            "B. Establecer un acuerdo de colaboración con el Gobierno Nacional y la Gobernación de Cundinamarca para coordinar los esfuerzos en la formulación de la política.",
+            "C. Crear una plataforma digital para que los ciudadanos puedan proponer ideas y soluciones a los problemas del municipio y que la Alcaldía pueda seleccionar las más viables."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'concurrencia' implica que la Nación y las entidades territoriales comparten responsabilidades en la prestación de servicios públicos. La opción B, 'establecer un acuerdo de colaboración', es la que mejor se alinea con este principio, ya que busca una solución conjunta a través de la colaboración entre los diferentes niveles de gobierno."
+    },
+    {
+        "id": 32,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de la Gobernación de Cundinamarca para la creación de una 'Plataforma Regional de Datos Abiertos'. El propósito de la plataforma es que los municipios de la región puedan compartir información sobre su gestión para mejorar la toma de decisiones basada en datos. Usted, como Profesional Universitario de la Secretaría TIC, debe evaluar la propuesta y presentar un informe al Alcalde.",
+        "enunciado": "La acción más profesional y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la propuesta, ya que la Alcaldía de Cajicá tiene la autonomía para decidir si participa en proyectos de otras entidades, sin importar los beneficios.",
+            "B. Analizar la propuesta de la Gobernación a la luz de los objetivos y planes de la Alcaldía de Cajicá, y presentar un informe que justifique la decisión de participar o no en el proyecto.",
+            "C. Firmar un acuerdo de colaboración con la Gobernación de Cundinamarca para participar en el proyecto, sin importar si los objetivos de la Alcaldía están alineados."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' exige que todas las decisiones estén debidamente documentadas y justificadas. La opción B, 'analizar la propuesta', es la que mejor se alinea con este principio, ya que demuestra la 'instrumentación de decisiones' de forma profesional y transparente."
+    },
+    {
+        "id": 33,
+        "caso": "El jefe de la Secretaría TIC ha convocado una reunión de emergencia para abordar el problema de la falta de 'interoperabilidad' entre los sistemas de información de la Alcaldía de Cajicá y otras entidades del Estado, lo que dificulta la toma de decisiones basada en datos. Usted, como Profesional Universitario, ha sido asignado para liderar un proyecto que busque solucionar este problema, en línea con la 'Política de Gobierno Digital'.",
+        "enunciado": "La acción más estratégica y en línea con el principio de 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la actitud de las dependencias al jefe de la Secretaría para que él tome las medidas disciplinarias correspondientes y sancionarlas.",
+            "B. Explicar a las dependencias que el problema afecta a toda la administración y solicitarles su colaboración para encontrar una solución conjunta.",
+            "C. Asignarle a cada dependencia las tareas más simples para que no obstaculicen el progreso del equipo y del proyecto en desarrollo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'trabajo en equipo' en la gestión pública implica la colaboración y la comunicación efectiva para resolver problemas que afectan a toda la administración. La opción B, 'explicar a las dependencias que el problema afecta a toda la administración', es la que mejor se alinea con este principio, ya que fomenta la colaboración y la resolución conjunta de problemas. La opción A es una medida que no fomenta el 'trabajo en equipo', y la opción C evade el problema de fondo, que es la falta de 'interoperabilidad'."
+    },
+    {
+        "id": 34,
+        "caso": "La Alcaldía de Cajicá ha lanzado un programa piloto para implementar un sistema de 'Firma Digital' en los documentos oficiales, con el objetivo de reducir el uso de papel y agilizar los procesos. Usted, como Profesional Universitario, ha sido asignado para liderar la implementación de este sistema en dos dependencias. Una de las dependencias se muestra muy colaboradora y entusiasta con el proyecto, mientras que la otra se muestra apática y reacia al cambio, lo que podría poner en riesgo el éxito del programa piloto.",
+        "enunciado": "Para asegurar el éxito del programa, la acción más adecuada y en línea con el principio de 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Enfocarse únicamente en la dependencia que se muestra entusiasta y reportar a la otra por no colaborar en el proyecto.",
+            "B. Desarrollar un plan de comunicación y capacitación para la dependencia apática, destacando los beneficios y el valor del nuevo sistema de 'Firma Digital'.",
+            "C. Detener el programa piloto hasta que todas las dependencias se muestren dispuestas a colaborar en el proyecto."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'desarrollar un plan de comunicación y capacitación', es la que mejor se alinea con este principio, ya que aborda la causa raíz del problema (la apatía y la renuencia al cambio) y busca una solución de manera proactiva. La opción A no fomenta la 'adaptación al cambio' en toda la administración, y la opción C detendría el progreso del proyecto, lo cual no es una 'gestión de procedimientos' efectiva."
+    },
+    {
+        "id": 35,
+        "caso": "El Alcalde de Cajicá ha manifestado su interés en la implementación de una nueva política de 'Ciberseguridad' para proteger la infraestructura tecnológica del municipio. Usted, como Profesional Universitario de la Secretaría TIC, ha sido asignado para liderar la formulación de esta política. Se le ha pedido que la política se enfoque en la creación de un ecosistema de 'ciberseguridad' que fomente la colaboración entre el sector público, el sector privado y la academia.",
+        "enunciado": "La acción más estratégica y en línea con el 'aporte técnico-profesional' es:",
+        "opciones": [
+            "A. Buscar en la web modelos de políticas de 'ciberseguridad' de otras ciudades y presentarlos como si fueran propios, sin mencionar la fuente de donde los obtuvo.",
+            "B. Formular un documento que sintetice los principios de la política y que presente los planes y programas que se ejecutarán para lograr los objetivos establecidos.",
+            "C. Convocar a reuniones informales a los líderes de la industria y la academia de la región para que aporten sus ideas sobre la nueva política."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'aporte técnico-profesional' implica la formulación de un documento que cumpla con los estándares de la gestión pública y que esté alineado con la planificación institucional. La opción B, 'formular un documento que sintetice los principios', es la que mejor se alinea con este principio, ya que demuestra la 'instrumentación de decisiones' de forma profesional y transparente. La opción A es una medida que va en contra de los principios de transparencia y ética, y la opción C, aunque puede ser útil, no es un paso suficiente para la formulación de una política pública."
+    },
+    {
+        "id": 36,
+        "caso": "La Alcaldía de Cajicá ha recibido una solicitud de la Contraloría Municipal para que se entregue un informe detallado sobre la ejecución presupuestal de los proyectos de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). La Contraloría ha solicitado que el informe se enfoque en la 'valoración de antecedentes' de los proveedores, con el objetivo de verificar que se haya dado cumplimiento a los principios de transparencia y selección objetiva en los procesos de contratación.",
+        "enunciado": "Para preparar el informe, la acción más adecuada y en línea con la gestión pública es:",
+        "opciones": [
+            "A. Omitir la información sobre los proveedores que no cumplieron con los requisitos de la licitación para no generar dudas sobre la gestión de la Secretaría.",
+            "B. Presentar un informe detallado que demuestre que se dio cumplimiento a los requisitos de la licitación, incluyendo la valoración de antecedentes de los proveedores.",
+            "C. Argumentar a la Contraloría que el informe solicitado es de carácter técnico y que la 'valoración de antecedentes' no es responsabilidad de la Secretaría."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública exige que se dé cumplimiento a los principios de transparencia y selección objetiva en los procesos de contratación. La opción B, 'presentar un informe detallado', es la que mejor se alinea con este principio, ya que demuestra el 'compromiso con la organización' y una 'orientación a resultados'. La opción A es una medida que va en contra de los principios de transparencia, y la opción C evade la responsabilidad de la Secretaría."
+    },
+    {
+        "id": 37,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Ciencia, Tecnología e Innovación' para impulsar el desarrollo económico del municipio. Usted, como Profesional Universitario, debe liderar la implementación de esta política. Se le ha pedido que la política se enfoque en la creación de un ecosistema de innovación que fomente la colaboración entre el sector público, el sector privado y la academia. El Concejo Municipal ha solicitado una audiencia para que usted presente los avances de la política en el primer semestre.",
+        "enunciado": "Para preparar la presentación, la acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Explicar la importancia de la política y el potencial que tiene para impulsar el desarrollo económico del municipio.",
+            "B. Presentar un informe que demuestre el cumplimiento de las metas y los objetivos establecidos en el Plan de Acción de la Secretaría TIC y que sirva como evidencia de resultados.",
+            "C. Compartir los planes y programas que se ejecutarán en el segundo semestre para demostrar que se está avanzando en la implementación de la política."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'presenta un informe que demuestre el cumplimiento de las metas y los objetivos establecidos en el Plan de Acción de la Secretaría TIC' lo que servirá como evidencia de los resultados de la gestión. Las opciones A y C se centran en el potencial y la planificación futura, pero no en los resultados de la gestión."
+    },
+    {
+        "id": 38,
+        "caso": "La Alcaldía de Cajicá ha lanzado una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso. La opción A es una medida que no fomenta la colaboración y la mejora continua, y la opción C es una medida que no resuelve el problema de la falta de acceso y transparencia."
+    },
+    {
+        "id": 39,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva. La opción A es una medida que no fomenta la colaboración, y la opción C es una medida extrema que podría afectar la prestación de servicios a la ciudadanía."
+    },
+    {
+        "id": 40,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada. La opción A es una medida que no tiene en cuenta la planificación, y la opción C es un argumento subjetivo que no demuestra los beneficios reales de la propuesta."
+    },
+
+    {
+        "id": 41,
+        "caso": "El Ministerio de las Tecnologías de la Información y las Comunicaciones (MinTIC), en su rol de ente rector a nivel nacional, ha convocado a la Alcaldía de Cajicá para una mesa de trabajo virtual. El objetivo es socializar los lineamientos para la implementación de un nuevo programa de 'Identidad Digital Ciudadana' en los municipios. Usted, como Profesional Universitario de la Secretaría TIC, ha sido delegado para participar.",
+        "enunciado": "La acción más coherente con el principio de 'coordinación' en la organización territorial es:",
+        "opciones": [
+            "A. Asistir a la reunión, pero sin proponer modificaciones a los lineamientos, ya que la responsabilidad de la implementación es del Gobierno Nacional.",
+            "B. Participar activamente en la mesa de trabajo, aportando la visión y las necesidades específicas del municipio de Cajicá para que los lineamientos sean más efectivos a nivel local.",
+            "C. Solicitar al MinTIC un informe detallado sobre el programa, antes de la reunión, para evitar la participación en el proceso de socialización."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'coordinación' exige una actuación armónica entre los diferentes niveles de gobierno. Participar activamente en la mesa de trabajo es la forma más efectiva de coordinar la implementación de una política nacional a nivel local, garantizando que los lineamientos se ajusten a las particularidades del municipio. La opción A no refleja la coordinación, y la opción C evade la responsabilidad de la participación."
+    },
+    {
+        "id": 42,
+        "caso": "La Alcaldía de Cajicá ha recibido un requerimiento urgente de la Contraloría de Cundinamarca para que se entregue un informe detallado sobre la ejecución de los recursos destinados al proyecto de 'Zonas Wifi Públicas'. Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y rendición de cuentas. El requerimiento de la Contraloría se basa en una queja de un ciudadano sobre la presunta mala gestión de los recursos públicos.",
+        "enunciado": "La acción más profesional y en línea con la 'gestión pública territorial' es:",
+        "opciones": [
+            "A. Ignorar el requerimiento, ya que la Contraloría es una entidad del orden departamental y no tiene competencia para fiscalizar los recursos del municipio de Cajicá.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada sin la autorización del Alcalde.",
+            "C. Elaborar un informe que demuestre de forma clara y concisa la correcta ejecución de los recursos, cumpliendo con los principios de transparencia y rendición de cuentas."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La Contraloría de Cundinamarca tiene competencia para fiscalizar la gestión fiscal de los municipios del departamento. La 'gestión pública territorial' exige que las entidades públicas rindan cuentas y actúen de forma transparente. La opción C, 'elaborar un informe que demuestre la correcta ejecución de los recursos', es la que mejor se alinea con estos principios. La opción A es incorrecta y la B va en contra del principio de transparencia."
+    },
+    {
+        "id": 43,
+        "caso": "La Alcaldía de Cajicá ha propuesto un proyecto para la 'digitalización del archivo histórico del municipio'. La iniciativa ha sido bien recibida, pero la Procuraduría ha manifestado que el proyecto debe estar alineado con la política de 'Gestión Documental' de la entidad. Usted, como Profesional Universitario de la Secretaría TIC, ha sido asignado para liderar la implementación de la componente tecnológica.",
+        "enunciado": "La acción más estratégica y en línea con el principio de 'coordinación' en la organización territorial es:",
+        "opciones": [
+            "A. Proponer un plan de trabajo que se enfoque únicamente en la digitalización de los documentos, sin considerar la política de 'Gestión Documental'.",
+            "B. Coordinar con la Procuraduría para que el proyecto de digitalización se alinee con la política de 'Gestión Documental', garantizando su legalidad y transparencia.",
+            "C. Ignorar la recomendación de la Procuraduría, argumentando que el proyecto de digitalización es de carácter tecnológico y no se ajusta a la política de 'Gestión Documental'."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'coordinación' exige una actuación armónica entre las entidades públicas. La opción B, 'coordinar con la Procuraduría', es la que mejor se alinea con este principio, ya que busca una solución conjunta a través de la colaboración entre las entidades. La opción A no refleja la coordinación, y la opción C evade la responsabilidad de la participación."
+    },
+    {
+        "id": 44,
+        "caso": "El Plan de Desarrollo de Cajicá ha priorizado la 'gestión catastral con enfoque multipropósito' como un eje fundamental para el ordenamiento territorial y el incremento de la capacidad fiscal. Se le ha encomendado la función de liderar la implementación de la componente tecnológica. Un informe reciente de la Contraloría Municipal ha señalado que el progreso es lento, lo que podría afectar la ejecución presupuestal y los objetivos de la gestión pública territorial.",
+        "enunciado": "Para acelerar el progreso y dar cumplimiento al 'Plan de Desarrollo Municipal', la acción más acertada y en línea con el principio de 'orientación a resultados' es:",
+        "opciones": [
+            "A. Solicitar más recursos a la Secretaría de Hacienda para contratar personal adicional y agilizar el proceso de actualización catastral.",
+            "B. Presentar un informe detallado a la Contraloría, argumentando que la actualización catastral es un proceso complejo y que los avances son aceptables.",
+            "C. Identificar y priorizar las etapas tecnológicas más críticas del proceso de actualización catastral y establecer un plan de acción para su ejecución."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El principio de 'orientación a resultados' exige que el profesional identifique los obstáculos y proponga soluciones. La opción C, 'identificar y priorizar las etapas tecnológicas', es la que mejor se alinea con este principio, ya que busca una solución de manera proactiva y estratégica para acelerar el proceso. La opción A no garantiza la eficiencia, y la opción B evade la responsabilidad del profesional y no resuelve el problema de fondo."
+    },
+    {
+        "id": 45,
+        "caso": "La Alcaldía de Cajicá está considerando la implementación de una 'Política Pública de Participación Ciudadana a través de Medios Digitales'. Se ha previsto que la participación en la formulación de esta política involucre a diferentes actores como la comunidad, líderes de la sociedad civil y entidades del orden departamental y nacional. Usted, como Profesional Universitario, ha sido asignado para liderar esta iniciativa.",
+        "enunciado": "La acción más estratégica y en línea con el principio de 'concurrencia' de la organización territorial es:",
+        "opciones": [
+            "A. Diseñar un plan de comunicación que informe a los ciudadanos sobre los beneficios de la participación a través de medios digitales y que fomente su uso.",
+            "B. Establecer un acuerdo de colaboración con el Gobierno Nacional y la Gobernación de Cundinamarca para coordinar los esfuerzos en la formulación de la política.",
+            "C. Crear una plataforma digital para que los ciudadanos puedan proponer ideas y soluciones a los problemas del municipio y que la Alcaldía pueda seleccionar las más viables."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'concurrencia' implica que la Nación y las entidades territoriales comparten responsabilidades en la prestación de servicios públicos. La opción B, 'establecer un acuerdo de colaboración', es la que mejor se alinea con este principio, ya que busca una solución conjunta a través de la colaboración entre los diferentes niveles de gobierno."
+    },
+    {
+        "id": 46,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de la Gobernación de Cundinamarca para la creación de una 'Plataforma Regional de Datos Abiertos'. El propósito de la plataforma es que los municipios de la región puedan compartir información sobre su gestión para mejorar la toma de decisiones basada en datos. Usted, como Profesional Universitario de la Secretaría TIC, debe evaluar la propuesta y presentar un informe al Alcalde.",
+        "enunciado": "La acción más profesional y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la propuesta, ya que la Alcaldía de Cajicá tiene la autonomía para decidir si participa en proyectos de otras entidades, sin importar los beneficios.",
+            "B. Analizar la propuesta de la Gobernación a la luz de los objetivos y planes de la Alcaldía de Cajicá, y presentar un informe que justifique la decisión de participar o no en el proyecto.",
+            "C. Firmar un acuerdo de colaboración con la Gobernación de Cundinamarca para participar en el proyecto, sin importar si los objetivos de la Alcaldía están alineados."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' exige que todas las decisiones estén debidamente documentadas y justificadas. La opción B, 'analizar la propuesta', es la que mejor se alinea con este principio, ya que demuestra la 'instrumentación de decisiones' de forma profesional y transparente."
+    },
+    {
+        "id": 47,
+        "caso": "El jefe de la Secretaría TIC ha convocado una reunión de emergencia para abordar el problema de la falta de 'interoperabilidad' entre los sistemas de información de la Alcaldía de Cajicá y otras entidades del Estado, lo que dificulta la toma de decisiones basada en datos. Usted, como Profesional Universitario, ha sido asignado para liderar un proyecto que busque solucionar este problema, en línea con la 'Política de Gobierno Digital'.",
+        "enunciado": "La acción más estratégica y en línea con el principio de 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la actitud de las dependencias al jefe de la Secretaría para que él tome las medidas disciplinarias correspondientes y sancionarlas.",
+            "B. Explicar a las dependencias que el problema afecta a toda la administración y solicitarles su colaboración para encontrar una solución conjunta.",
+            "C. Asignarle a cada dependencia las tareas más simples para que no obstaculicen el progreso del equipo y del proyecto en desarrollo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'trabajo en equipo' en la gestión pública implica la colaboración y la comunicación efectiva para resolver problemas que afectan a toda la administración. La opción B, 'explicar a las dependencias que el problema afecta a toda la administración', es la que mejor se alinea con este principio, ya que fomenta la colaboración y la resolución conjunta de problemas. La opción A es una medida que no fomenta el 'trabajo en equipo', y la opción C evade el problema de fondo, que es la falta de 'interoperabilidad'."
+    },
+    {
+        "id": 48,
+        "caso": "La Alcaldía de Cajicá ha lanzado un programa piloto para implementar un sistema de 'Firma Digital' en los documentos oficiales, con el objetivo de reducir el uso de papel y agilizar los procesos. Usted, como Profesional Universitario, ha sido asignado para liderar la implementación de este sistema en dos dependencias. Una de las dependencias se muestra muy colaboradora y entusiasta con el proyecto, mientras que la otra se muestra apática y reacia al cambio, lo que podría poner en riesgo el éxito del programa piloto.",
+        "enunciado": "Para asegurar el éxito del programa, la acción más adecuada y en línea con el principio de 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Enfocarse únicamente en la dependencia que se muestra entusiasta y reportar a la otra por no colaborar en el proyecto.",
+            "B. Desarrollar un plan de comunicación y capacitación para la dependencia apática, destacando los beneficios y el valor del nuevo sistema de 'Firma Digital'.",
+            "C. Detener el programa piloto hasta que todas las dependencias se muestren dispuestas a colaborar en el proyecto."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'desarrollar un plan de comunicación y capacitación', es la que mejor se alinea con este principio, ya que aborda la causa raíz del problema (la apatía y la renuencia al cambio) y busca una solución de manera proactiva. La opción A no fomenta la 'adaptación al cambio' en toda la administración, y la opción C detendría el progreso del proyecto, lo cual no es una 'gestión de procedimientos' efectiva."
+    },
+    {
+        "id": 49,
+        "caso": "El Alcalde de Cajicá ha manifestado su interés en la implementación de una nueva política de 'Ciberseguridad' para proteger la infraestructura tecnológica del municipio. Usted, como Profesional Universitario de la Secretaría TIC, ha sido asignado para liderar la formulación de esta política. Se le ha pedido que la política se enfoque en la creación de un ecosistema de 'ciberseguridad' que fomente la colaboración entre el sector público, el sector privado y la academia.",
+        "enunciado": "La acción más estratégica y en línea con el 'aporte técnico-profesional' es:",
+        "opciones": [
+            "A. Buscar en la web modelos de políticas de 'ciberseguridad' de otras ciudades y presentarlos como si fueran propios, sin mencionar la fuente de donde los obtuvo.",
+            "B. Formular un documento que sintetice los principios de la política y que presente los planes y programas que se ejecutarán para lograr los objetivos establecidos.",
+            "C. Convocar a reuniones informales a los líderes de la industria y la academia de la región para que aporten sus ideas sobre la nueva política."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'aporte técnico-profesional' implica la formulación de un documento que cumpla con los estándares de la gestión pública y que esté alineado con la planificación institucional. La opción B, 'formular un documento que sintetice los principios', es la que mejor se alinea con este principio, ya que demuestra la 'instrumentación de decisiones' de forma profesional y transparente. La opción A es una medida que va en contra de los principios de transparencia y ética, y la opción C, aunque puede ser útil, no es un paso suficiente para la formulación de una política pública."
+    },
+    {
+        "id": 50,
+        "caso": "La Alcaldía de Cajicá ha recibido una solicitud de la Contraloría Municipal para que se entregue un informe detallado sobre la ejecución presupuestal de los proyectos de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). La Contraloría ha solicitado que el informe se enfoque en la 'valoración de antecedentes' de los proveedores, con el objetivo de verificar que se haya dado cumplimiento a los principios de transparencia y selección objetiva en los procesos de contratación.",
+        "enunciado": "Para preparar el informe, la acción más adecuada y en línea con la gestión pública es:",
+        "opciones": [
+            "A. Omitir la información sobre los proveedores que no cumplieron con los requisitos de la licitación para no generar dudas sobre la gestión de la Secretaría.",
+            "B. Presentar un informe detallado que demuestre que se dio cumplimiento a los requisitos de la licitación, incluyendo la valoración de antecedentes de los proveedores.",
+            "C. Argumentar a la Contraloría que el informe solicitado es de carácter técnico y que la 'valoración de antecedentes' no es responsabilidad de la Secretaría."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública exige que se dé cumplimiento a los principios de transparencia y selección objetiva en los procesos de contratación. La opción B, 'presentar un informe detallado', es la que mejor se alinea con este principio, ya que demuestra el 'compromiso con la organización' y una 'orientación a resultados'. La opción A es una medida que va en contra de los principios de transparencia, y la opción C evade la responsabilidad de la Secretaría."
+    },
+
+    {
+  "id": 51,
+  "caso": "El Concejo Municipal de Cajicá emite un Acuerdo mediante el cual se crea una nueva Comisión de Seguridad Digital como dependencia de la Alcaldía, asignándole competencias que según el Manual de Funciones corresponden a la Secretaría de TIC.",
+  "enunciado": "¿Cuál es el principal problema jurídico-administrativo que presenta esta situación en el marco de la organización territorial?",
+  "opciones": [
+    "A. El Concejo Municipal no tiene competencia para crear dependencias administrativas, pues esta es facultad exclusiva del Alcalde.",
+    "B. El Concejo puede crear dependencias pero no puede asignar funciones que contradigan la estructura técnica definida en los manuales de funciones.",
+    "C. El Concejo está ejerciendo funciones ejecutivas, violando el principio de separación de poderes en el nivel territorial."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "El principio de separación de poderes aplica en el nivel territorial: el Concejo ejerce funciones legislativas y de control político, mientras que el Alcalde dirige la administración y define la estructura interna (Ley 136 de 1994, Arts. 12 y 13)."
+},
+
+{
+  "id": 52,
+  "caso": "La Gobernación de Cundinamarca propone implementar un sistema único de información municipal para todos los municipios del departamento, requiriendo que Cajicá comparta su base de datos de servicios públicos.",
+  "enunciado": "¿Qué principio de la organización territorial permite a la Gobernación hacer esta solicitud?",
+  "opciones": [
+    "A. El principio de coordinación, que faculta a las entidades de mayor jerarquía territorial a articular políticas con los municipios.",
+    "B. El principio de subsidiaridad, que obliga a los municipios a ceder competencias a entidades de nivel superior.",
+    "C. El principio de concurrencia, que permite a los departamentos intervenir en áreas de gestión municipal."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "El principio de coordinación (Art. 288 CP) permite la articulación entre entidades territoriales diferentes para lograr eficiencia en la prestación de servicios, sin que esto implique subordinación jerárquica."
+},
+
+{
+  "id": 53,
+  "caso": "El Alcalde de Cajicá emite un decreto mediante el cual reglamenta el uso del espacio público para instalación de infraestructura de telecomunicaciones, basándose en competencias establecidas en la Ley 136 de 1994.",
+  "enunciado": "¿Qué tipo de competencia está ejerciendo el Alcalde según la clasificación de la organización territorial?",
+  "opciones": [
+    "A. Competencia exclusiva, pues los municipios tienen autonomía para regular el uso de su espacio público.",
+    "B. Competencia concurrente, pues esta materia es compartida con la Nación y el departamento.",
+    "C. Competencia delegada, pues el municipio actúa por encargo de la Nación en esta materia."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La regulación del espacio público para infraestructura de telecomunicaciones es competencia concurrente: la Nación establece las políticas generales (Ley 1341 de 2009), los departamentos coordinan y los municipios reglamentan el uso específico en su territorio."
+},{
+  "id": 54,
+  "caso": "El Ministerio de Tecnologías de la Información y Comunicaciones ordena a la Alcaldía de Cajicá reestructurar su Secretaría de TIC para alinearse con una nueva política nacional de gobierno digital.",
+  "enunciado": "¿Qué principio constitucional limita la facultad del Ministerio para dar esta orden?",
+  "opciones": [
+    "A. El principio de autonomía de las entidades territoriales, que les permite organizar su administración interna.",
+    "B. El principio de supremacía nacional, que permite a la Nación intervenir en cualquier aspecto de la administración territorial.",
+    "C. El principio de descentralización, que faculta a la Nación para reestructurar directamente las entidades territoriales."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "La autonomía de las entidades territoriales (Art. 287 CP) incluye la facultad de organizar su administración interna. La Nación puede establecer políticas y estándares, pero no puede ordenar directamente la reestructuración de dependencias municipales."
+},{
+  "id": 55,
+  "caso": "La Contraloría Departamental de Cundinamarca inicia una auditoría al sistema de compras electrónicas de la Alcaldía de Cajicá, basándose en el principio de vigilancia fiscal.",
+  "enunciado": "¿Esta actuación es conforme al marco de la organización territorial?",
+  "opciones": [
+    "A. Sí, porque las contralorías departamentales tienen competencia para vigilar a todos los municipios de su jurisdicción.",
+    "B. No, porque cada municipio tiene su propia contraloría que ejerce exclusivamente la vigilancia fiscal.",
+    "C. Sí, pero solo si media un convenio de delegación entre la Contraloría Departamental y la Municipal."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "Las contralorías departamentales ejercen vigilancia fiscal sobre los municipios de su departamento (Ley 42 de 1993, Art. 6), sin perjuicio de las competencias de las contralorías municipales en los municipios donde existan."
+},{
+  "id": 56,
+  "caso": "El Alcalde de Cajicá suscribe un convenio con la Alcaldía de Zipaquirá para compartir servicios de nube computing y reducir costos en infraestructura tecnológica.",
+  "enunciado": "¿Qué figura de la organización territorial ampara este tipo de acuerdos interadministrativos?",
+  "opciones": [
+    "A. La asociación de municipios, que requiere aprobación de los concejos municipales.",
+    "B. Los convenios interadministrativos, que pueden ser celebrados directamente por los alcaldes.",
+    "C. Las áreas metropolitanas, que requieren aprobación del departamento y la nación."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Los convenios interadministrativos están amparados en el principio de colaboración armónica (Art. 289 CP) y pueden ser celebrados directamente por los alcaldes para optimizar recursos y mejorar la eficiencia en la prestación de servicios."
+},{
+  "id": 57,
+  "caso": "El Presidente de la República emite un decreto que ordena la fusión de las secretarías de TIC de todos los municipios con más de 100.000 habitantes, argumentando eficiencia administrativa.",
+  "enunciado": "¿Esta medida es constitucionalmente válida?",
+  "opciones": [
+    "A. Sí, porque el Presidente tiene facultad para reorganizar la administración territorial en casos de emergencia económica.",
+    "B. No, porque viola la autonomía de las entidades territoriales para organizar su administración interna.",
+    "C. Sí, porque la Nación puede intervenir en la organización municipal cuando se afecta la eficiencia del Estado."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La autonomía de las entidades territoriales (Art. 287 CP) incluye la facultad de determinar su estructura administrativa. La Nación no puede ordenar directamente la fusión de dependencias municipales, aunque puede establecer incentivos o lineamientos generales."
+},{
+  "id": 58,
+  "caso": "El Concejo Municipal de Cajicá expide un acuerdo mediante el cual establece impuestos a la instalación de antenas de telecomunicaciones en el municipio.",
+  "enunciado": "¿Esta competencia corresponde al Concejo Municipal según el marco de la organización territorial?",
+  "opciones": [
+    "A. Sí, porque los concejos municipales tienen autonomía para crear impuestos sobre actividades económicas en su territorio.",
+    "B. No, porque la potestad tributaria sobre telecomunicaciones es exclusiva de la Nación.",
+    "C. Sí, pero solo si el departamento autoriza previamente este tipo de tributos municipales."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La potestad tributaria sobre servicios de telecomunicaciones es exclusiva de la Nación (Art. 150-12 CP). Los municipios solo pueden establecer impuestos dentro de las materias expresamente autorizadas por la ley (Ley 14 de 1983)."
+},{
+  "id": 59,
+  "caso": "La Superintendencia de Industria y Comercio impone una multa a la Alcaldía de Cajicá por deficiencies en la protección de datos personales en su portal de trámites en línea.",
+  "enunciado": "¿Esta actuación es conforme al esquema de competencias territoriales?",
+  "opciones": [
+    "A. No, porque las entidades territoriales solo están sujetas al control de sus propias contralorías.",
+    "B. Sí, porque la SIC tiene competencia nacional para imponer sanciones por violación de normas de protección de datos.",
+    "C. Sí, pero solo si media una queja formal de los ciudadanos afectados por el mal manejo de datos."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La Superintendencia de Industria y Comercio tiene competencia nacional para imponer sanciones por violación de la Ley 1581 de 2012 de protección de datos, incluyendo a las entidades territoriales, pues se trata de una materia de orden nacional."
+},{
+  "id": 60,
+  "caso": "El Gobernador de Cundinamarca ordena la intervención de la Alcaldía de Cajicá por presuntas irregularidades en la contratación de servicios de tecnología, nombrando un administrador provisional.",
+  "enunciado": "¿Bajo qué circunstancias el Gobernador puede legalmente tomar esta medida?",
+  "opciones": [
+    "A. Cuando el Alcalde haya sido suspendido por decisión judicial y previo concepto del Procurador General.",
+    "B. Cuando se presente ineficiencia administrativa comprobada que afecte servicios esenciales.",
+    "C. Cuando el Concejo Municipal así lo solicite por mayoría calificada de sus miembros."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "La intervención de municipios por parte del departamento está regulada estrictamente en el Art. 315 CP y requiere que el Alcalde haya sido suspendido o destituido, previo concepto del Procurador General de la Nación."
+},{
+  "id": 61,
+  "caso": "El Alcalde de Cajicá crea mediante decreto la figura del 'Gerente de Gobierno Digital' como cargo de libre nombramiento y remoción, asignándole funciones de coordinación de todas las TIC municipales.",
+  "enunciado": "¿Esta creación de cargo es conforme al esquema de organización territorial?",
+  "opciones": [
+    "A. Sí, porque los alcaldes tienen autonomía para crear cargos de libre nombramiento y remoción.",
+    "B. No, porque todos los cargos deben estar previamente establecidos en la planta de personal aprobada por el Concejo.",
+    "C. Sí, pero solo si el departamento autoriza la creación de nuevos cargos en el municipio."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La creación de cargos y la planta de personal municipal debe ser aprobada por el Concejo Municipal mediante acuerdo (Ley 136 de 1994, Art. 13). El Alcalde no puede crear cargos por decreto."
+},{
+  "id": 62,
+  "caso": "El Ministerio de Tecnologías de la Información establece estándares técnicos obligatorios para todos los sistemas informáticos de las alcaldías municipales.",
+  "enunciado": "¿Esta facultad del Ministerio se deriva de qué principio de la organización territorial?",
+  "opciones": [
+    "A. Del principio de autonomía, que permite a la Nación uniformar procedimientos técnicos.",
+    "B. Del principio de coordinación, que faculta a la Nación para establecer políticas nacionales.",
+    "C. Del principio de supremacía nacional, que subordina lo técnico a las decisiones del nivel central."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El principio de coordinación (Art. 288 CP) permite a la Nación establecer políticas, estándares y lineamientos generales para asegurar la eficiencia y compatibilidad de los sistemas en todo el territorio nacional."
+},{
+  "id": 63,
+  "caso": "La Asamblea Departamental de Cundinamarca expide una ordenanza que regula el espectro electromagnético en todo el departamento, incluyendo los municipios.",
+  "enunciado": "¿Esta ordenanza es válida según el esquema de competencias territoriales?",
+  "opciones": [
+    "A. Sí, porque los departamentos tienen competencia para regular materias técnicas en su jurisdicción.",
+    "B. No, porque la regulación del espectro electromagnético es competencia exclusiva de la Nación.",
+    "C. Sí, pero solo para los municipios que autoricen expresamente esta regulación departamental."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La regulación del espectro electromagnético es competencia exclusiva de la Nación (Art. 150-23 CP), por lo que los departamentos no pueden expedir normas sobre esta materia."
+},{
+  "id": 64,
+  "caso": "El Concejo Municipal de Cajicá expide un acuerdo mediante el cual exige a todos los proveedores de software de la alcaldía tener domicilio en el municipio.",
+  "enunciado": "¿Esta medida es conforme a los principios de la organización territorial?",
+  "opciones": [
+    "A. Sí, porque los municipios pueden establecer requisitos para contratistas que presten servicios en su territorio.",
+    "B. No, porque viola el principio de libre circulación de servicios en el territorio nacional.",
+    "C. Sí, pero solo para contratos de valor inferior a los establecido por la ley de contratación."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Los municipios no pueden establecer requisitos de domicilio que restrinjan la libre circulación de servicios en el territorio nacional (Art. 333 CP). Esto constituiría una medida proteccionista local prohibida."
+},{
+  "id": 65,
+  "caso": "La Procuraduría Regional de Cundinamarca abre investigación disciplinaria al Secretario de TIC de Cajicá por presuntas irregularidades en la adquisición de equipos de computación.",
+  "enunciado": "¿Esta actuación es conforme al esquema de control disciplinario en la organización territorial?",
+  "opciones": [
+    "A. No, porque el control disciplinario de servidores municipales corresponde exclusivamente a la Procuraduría Municipal.",
+    "B. Sí, porque las procuradurías regionales ejercen control disciplinario sobre servidores de municipios de su jurisdicción.",
+    "C. Sí, pero solo si el Alcalde solicita expresamente la intervención de la Procuraduría Regional."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Las procuradurías regionales ejercen control disciplinario sobre los servidores públicos de los municipios de su jurisdicción (Ley 201 de 1995, Art. 3), sin perjuicio de las competencias de las procuradurías municipales donde existan."
+},{
+  "id": 66,
+  "caso": "El Alcalde de Cajicá celebra un contrato de concesión con una empresa privada para que opere y administre toda la infraestructura tecnológica del municipio por 20 años.",
+  "enunciado": "¿Qué requisito esencial de la organización territorial debe cumplir este contrato?",
+  "opciones": [
+    "A. Debe ser aprobado previamente por el Concejo Municipal mediante acuerdo.",
+    "B. Debe contar con la autorización del Ministerio de Tecnologías de la Información.",
+    "C. Debe ser sometido a consulta popular para obtener la aprobación ciudadana."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "Los contratos de concesión de servicios públicos deben ser aprobados previamente por el Concejo Municipal mediante acuerdo (Ley 80 de 1993, Art. 14), ya que comprometen largos plazos y recursos municipales."
+},{
+  "id": 67,
+  "caso": "El Departamento Nacional de Planeación exige a la Alcaldía de Cajicá modificar su Plan de Desarrollo para incluir metas específicas de gobierno digital.",
+  "enunciado": "¿Esta exigencia es conforme al principio de autonomía de las entidades territoriales?",
+  "opciones": [
+    "A. No, porque los planes de desarrollo son expresión de la autonomía municipal y no pueden ser modificados por la Nación.",
+    "B. Sí, porque la Nación puede establecer directrices generales que deben ser incorporadas en los planes de desarrollo territorial.",
+    "C. Sí, pero solo si el municipio recibe transferencias específicas para cumplir estas metas."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La Nación puede establecer políticas y directrices generales que deben ser incorporadas en los planes de desarrollo territorial (Ley 152 de 1994), sin que esto vulnere la autonomía municipal en la definición de sus prioridades."
+},{
+  "id": 68,
+  "caso": "La Contraloría Municipal de Cajicá encuentra vicios de procedimiento en la contratación de servicios de cloud computing y recomienda al Alcalde declarar la nulidad del proceso.",
+  "enunciado": "¿El Alcalde está obligado a acoger esta recomendación?",
+  "opciones": [
+    "A. Sí, porque las recomendaciones de las contralorías son vinculantes para los alcaldes.",
+    "B. No, porque el Alcalde tiene autonomía para decidir sobre la legalidad de los actos administrativos.",
+    "C. No, pero debe responder por escrito las razones por las cuales no acoge la recomendación."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "Las recomendaciones de las contralorías no son vinculantes, pero el Alcalde debe responder por escrito las razones por las cuales no las acoge (Ley 42 de 1993, Art. 35). Si persiste el desacuerdo, la contraloría puede acudir a la jurisdicción contencioso-administrativa."
+},{
+  "id": 69,
+  "caso": "El Concejo Municipal de Cajicá expide un acuerdo mediante el cual elimina la Secretaría de TIC y traslada sus funciones a la Oficina de Planeación.",
+  "enunciado": "¿Esta decisión es conforme al esquema de organización territorial?",
+  "opciones": [
+    "A. Sí, porque el Concejo Municipal tiene competencia para modificar la estructura administrativa del municipio.",
+    "B. No, porque la creación y supresión de secretarías es facultad exclusiva del Alcalde.",
+    "C. Sí, pero requiere aprobación previa del departamento por tratarse de cambios estructurales."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "El Concejo Municipal tiene competencia para determinar la estructura administrativa del municipio mediante acuerdos (Ley 136 de 1994, Art. 13), incluyendo la creación, modificación o supresión de secretarías."
+},{
+  "id": 70,
+  "caso": "El Alcalde de Cajicá se niega a implementar una política de gobierno digital ordenada por el Gobernador de Cundinamarca, argumentando que viola la autonomía municipal.",
+  "enunciado": "¿El Alcalde tiene fundamento jurídico para su negativa?",
+  "opciones": [
+    "A. Sí, porque los alcaldes no están subordinados jerárquicamente a los gobernadores.",
+    "B. No, porque los gobernadores ejercen control de tutela sobre los municipios de su departamento.",
+    "C. Depende de si la política fue concertada previamente con los municipios del departamento."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "Los alcaldes no están subordinados jerárquicamente a los gobernadores (Art. 287 CP). Las relaciones entre departamentos y municipios se basan en principios de coordinación y concurrencia, no de subordinación."
+},{
+  "id": 71,
+  "caso": "La Alcaldía de Cajicá crea una empresa industrial y comercial del municipio para prestar servicios de internet en las zonas rurales.",
+  "enunciado": "¿Qué requisito esencial debe cumplir esta creación según la organización territorial?",
+  "opciones": [
+    "A. Debe ser aprobada por el Concejo Municipal mediante acuerdo y autorizada por la Superintendencia de Servicios Públicos.",
+    "B. Debe contar con aprobación del Ministerio de Tecnologías de la Información y el departamento.",
+    "C. Debe ser sometida a referendo municipal para obtener la aprobación de los ciudadanos."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "La creación de empresas industriales y comerciales del municipio debe ser aprobada por el Concejo Municipal mediante acuerdo (Ley 136 de 1994, Art. 13) y requiere autorización de la Superintendencia de Servicios Públicos cuando prestan servicios públicos domiciliarios."
+},{
+  "id": 72,
+  "caso": "El Ministerio de las TIC ordena a la Alcaldía de Cajicá suspender un proyecto de wifi gratuito en espacios públicos porque interferiría con redes nacionales.",
+  "enunciado": "¿Esta orden ministerial es conforme al esquema de competencias territoriales?",
+  "opciones": [
+    "A. Sí, porque la Nación tiene competencia exclusiva sobre el espectro electromagnético y las telecomunicaciones.",
+    "B. No, porque los municipios tienen autonomía para prestar servicios de comunicaciones en su territorio.",
+    "C. Sí, pero solo si demuestra técnicamente la interferencia y media un proceso de concertación con el municipio."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "La Nación tiene competencia exclusiva sobre el espectro electromagnético y las telecomunicaciones (Art. 150-23 CP), por lo que puede ordenar la suspensión de proyectos municipales que interfieran con redes nacionales."
+},{
+  "id": 73,
+  "caso": "El Concejo Municipal de Cajicá expide un acuerdo que establece beneficios tributarios para empresas de tecnología que se establezcan en el municipio.",
+  "enunciado": "¿Esta medida es válida según el esquema de competencias tributarias territoriales?",
+  "opciones": [
+    "A. Sí, porque los municipios tienen autonomía para crear incentivos tributarios para el desarrollo económico local.",
+    "B. No, porque la creación de beneficios tributarios es competencia exclusiva del Congreso de la República.",
+    "C. Sí, pero solo para pequeños contribuyentes y con autorización del departamento."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La potestad tributaria para crear exenciones, descuentos o beneficios fiscales es competencia exclusiva del Congreso de la República (Art. 150-12 CP). Los municipios solo pueden administrar los tributos creados por la ley."
+},{
+  "id": 74,
+  "caso": "La Alcaldía de Cajicá suscribe un convenio con una universidad extranjera para transferencia de tecnología en sistemas de información geográfica.",
+  "enunciado": "¿Qué requisito esencial debe cumplir este convenio según la organización territorial?",
+  "opciones": [
+    "A. Debe ser aprobado previamente por el Ministerio de Relaciones Exteriores por tratarse de una entidad extranjera.",
+    "B. Debe ser autorizado por el departamento por tratarse de transferencia tecnológica con impacto regional.",
+    "C. Debe ser aprobado por el Concejo Municipal cuando comprometa recursos del municipio."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "Los convenios que comprometan recursos del municipio deben ser aprobados previamente por el Concejo Municipal (Ley 136 de 1994, Art. 13), independientemente de que se trate de entidades nacionales o extranjeras."
+},{
+  "id": 75,
+  "caso": "El Alcalde de Cajicá emite un decreto mediante el cual reglamenta el uso de drones en el espacio aéreo del municipio por razones de seguridad y privacidad.",
+  "enunciado": "¿Esta regulación municipal es válida según el esquema de competencias territoriales?",
+  "opciones": [
+    "A. Sí, porque los municipios pueden regular el uso de su espacio aéreo para proteger derechos fundamentales.",
+    "B. No, porque la regulación del espacio aéreo es competencia exclusiva de la Aeronáutica Civil.",
+    "C. Sí, pero solo para drones de menos de 2 kilogramos de peso y uso no comercial."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La regulación del espacio aéreo es competencia exclusiva de la Aeronáutica Civil como autoridad nacional (Decreto 1070 de 2015). Los municipios no pueden emitir regulaciones sobre esta materia."
+},
+
+
+{
+    "id": 76,
+    "caso": "La Gobernación de Cundinamarca solicita a la Alcaldía de Cajicá la formulación de un proyecto TIC que debe alinearse con los lineamientos departamentales y nacionales.",
+    "enunciado": "¿Qué principio de la organización territorial regula la coordinación entre Nación, departamento y municipio?",
+    "opciones": [
+        "A. Autonomía territorial.",
+        "B. Coordinación, concurrencia y subsidiariedad.",
+        "C. Participación democrática."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El artículo 288 de la Constitución establece los principios de coordinación, concurrencia y subsidiariedad entre Nación y entidades territoriales."
+},
+
+{
+    "id": 77,
+    "caso": "Un municipio decide implementar una plataforma de trámites en línea sin consultar con el MinTIC ni articularse con el Plan Nacional de Desarrollo.",
+    "enunciado": "¿Qué error comete el municipio frente a la organización territorial?",
+    "opciones": [
+        "A. No respetar la autonomía municipal.",
+        "B. Desconocer los principios de concurrencia y coordinación.",
+        "C. Ejercer competencias en exceso de sus atribuciones."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "Los municipios tienen autonomía, pero deben coordinar sus acciones con Nación y departamentos para garantizar coherencia en la planeación territorial."
+},
+
+{
+    "id": 78,
+    "caso": "Un concejal de Cajicá argumenta que la Alcaldía no tiene autonomía para formular políticas digitales, ya que estas dependen exclusivamente del MinTIC.",
+    "enunciado": "¿Qué respuesta es jurídicamente correcta?",
+    "opciones": [
+        "A. Los municipios tienen autonomía para formular políticas locales, siempre que se articulen con las nacionales.",
+        "B. La Alcaldía carece de autonomía porque las políticas TIC son exclusivas del nivel central.",
+        "C. Solo los departamentos pueden formular políticas TIC autónomas."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El artículo 287 de la Constitución reconoce autonomía territorial a municipios, incluyendo la facultad de desarrollar políticas locales, respetando lineamientos nacionales."
+},
+
+{
+    "id": 79,
+    "caso": "La Alcaldía de Cajicá quiere crear un impuesto municipal para financiar un centro de innovación digital.",
+    "enunciado": "¿Cuál es el límite de esta decisión?",
+    "opciones": [
+        "A. Solo puede hacerlo si el Congreso lo autoriza mediante ley.",
+        "B. Puede hacerlo libremente porque el municipio es autónomo.",
+        "C. Solo si el departamento da su autorización."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La Constitución establece que los municipios solo pueden crear tributos autorizados por ley (artículo 338)."
+},
+
+{
+    "id": 80,
+    "caso": "El Alcalde ordena implementar un programa de alfabetización digital en coordinación con la Gobernación de Cundinamarca.",
+    "enunciado": "¿Qué principio se aplica en este caso?",
+    "opciones": [
+        "A. Descentralización política.",
+        "B. Subsidiariedad.",
+        "C. Centralización administrativa."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La subsidiariedad permite que niveles superiores apoyen a los municipios cuando estos no pueden cumplir plenamente con sus competencias."
+},
+
+{
+    "id": 81,
+    "caso": "Un ciudadano presenta una queja porque la Alcaldía de Cajicá no permite acceso a la información pública sobre un contrato TIC.",
+    "enunciado": "¿Qué norma respalda el derecho de acceso a la información?",
+    "opciones": [
+        "A. La Ley 1712 de 2014 de Transparencia y Acceso a la Información Pública.",
+        "B. La Ley 136 de 1994 sobre régimen municipal.",
+        "C. La Ley 1551 de 2012 sobre fortalecimiento municipal."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La Ley 1712 de 2014 garantiza el derecho fundamental de acceso a la información pública."
+},
+
+{
+    "id": 82,
+    "caso": "La Alcaldía de Cajicá adopta un Plan Estratégico de Tecnologías de la Información (PETI) sin consultarlo con el Concejo Municipal.",
+    "enunciado": "¿Es válida esta decisión?",
+    "opciones": [
+        "A. Sí, porque los planes estratégicos TIC son de competencia exclusiva del ejecutivo.",
+        "B. No, porque debe articularse con el Plan de Desarrollo Municipal aprobado por el Concejo.",
+        "C. Sí, siempre que se publique en la página web institucional."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI debe estar articulado con el Plan de Desarrollo Municipal, aprobado por el Concejo como máxima autoridad de planeación local."
+},
+
+{
+    "id": 83,
+    "caso": "En un municipio pequeño, la Gobernación asume temporalmente la gestión de los servicios de conectividad porque la Alcaldía no cuenta con la capacidad técnica.",
+    "enunciado": "¿Qué principio de la organización territorial aplica?",
+    "opciones": [
+        "A. Subsidiariedad.",
+        "B. Autonomía territorial.",
+        "C. Centralización absoluta."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La subsidiariedad implica que los niveles superiores apoyan a los municipios cuando estos no pueden ejercer plenamente sus competencias."
+},
+
+{
+    "id": 84,
+    "caso": "La Alcaldía de Cajicá organiza audiencias públicas para que la comunidad opine sobre la implementación de plataformas digitales.",
+    "enunciado": "¿Qué principio se está fortaleciendo?",
+    "opciones": [
+        "A. Participación democrática.",
+        "B. Concurrencia normativa.",
+        "C. Jerarquía administrativa."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La participación democrática es un principio esencial de la organización territorial que garantiza la intervención ciudadana en decisiones públicas."
+},
+
+{
+    "id": 85,
+    "caso": "Un municipio decide prohibir el uso de una red social específica como medio de información institucional.",
+    "enunciado": "¿Esta decisión respeta la organización territorial?",
+    "opciones": [
+        "A. Sí, porque cada municipio regula libremente sus canales de comunicación.",
+        "B. No, porque limita derechos constitucionales como la libertad de información.",
+        "C. Sí, porque la autonomía territorial permite restricciones tecnológicas."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La autonomía territorial no puede vulnerar derechos fundamentales como el acceso a la información y la libertad de expresión."
+},
+
+{
+    "id": 86,
+    "caso": "El MinTIC exige a todos los municipios adoptar un estándar nacional de interoperabilidad de datos.",
+    "enunciado": "¿Qué efecto tiene esta exigencia en la organización territorial?",
+    "opciones": [
+        "A. Fortalece la coordinación entre Nación y municipios.",
+        "B. Anula la autonomía municipal en TIC.",
+        "C. Refuerza la centralización administrativa."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los estándares nacionales permiten armonizar sistemas de información sin eliminar la autonomía local."
+},
+
+{
+    "id": 87,
+    "caso": "El Concejo Municipal de Cajicá aprueba un Plan de Desarrollo que no incluye proyectos de Gobierno Digital.",
+    "enunciado": "¿Qué problema puede generar esta decisión?",
+    "opciones": [
+        "A. Incumplir la Ley 1551 de 2012 que exige modernización y fortalecimiento municipal.",
+        "B. Desconocer el principio de jerarquía normativa.",
+        "C. Afectar la autonomía territorial del municipio."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La Ley 1551 de 2012 obliga a los municipios a implementar acciones de modernización, incluyendo las TIC."
+},
+
+{
+    "id": 88,
+    "caso": "La Alcaldía de Cajicá implementa un sistema de datos abiertos para mejorar la transparencia.",
+    "enunciado": "¿Qué principio constitucional se refuerza?",
+    "opciones": [
+        "A. Participación democrática y control ciudadano.",
+        "B. Exclusividad de competencias del nivel central.",
+        "C. Subsidiariedad."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los datos abiertos fortalecen la participación ciudadana y el control social sobre la gestión pública."
+},
+
+{
+    "id": 89,
+    "caso": "El Alcalde firma un convenio con otro municipio vecino para compartir infraestructura tecnológica.",
+    "enunciado": "¿Qué figura se está aplicando?",
+    "opciones": [
+        "A. Región Administrativa y de Planificación (RAP).",
+        "B. Esquema Asociativo Territorial.",
+        "C. Contrato de prestación de servicios."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "Los esquemas asociativos territoriales permiten a municipios unirse para gestionar proyectos comunes."
+},
+
+{
+    "id": 90,
+    "caso": "La comunidad solicita que las decisiones sobre el POT incluyan mecanismos digitales de consulta ciudadana.",
+    "enunciado": "¿Qué principio se aplica?",
+    "opciones": [
+        "A. Transparencia y participación democrática.",
+        "B. Jerarquía administrativa.",
+        "C. Subsidiariedad."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El POT debe formularse con participación ciudadana, y el uso de medios digitales fortalece la transparencia."
+},
+
+{
+    "id": 91,
+    "caso": "El Alcalde de Cajicá decide publicar todos los contratos TIC en la plataforma SECOP II.",
+    "enunciado": "¿Qué derecho ciudadano protege esta decisión?",
+    "opciones": [
+        "A. Derecho a la igualdad.",
+        "B. Derecho de acceso a la información pública.",
+        "C. Derecho a la participación electoral."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El SECOP II garantiza transparencia y acceso ciudadano a la información contractual del Estado."
+},
+
+{
+    "id": 92,
+    "caso": "La Nación transfiere recursos del Sistema General de Participaciones (SGP) al municipio de Cajicá.",
+    "enunciado": "¿Qué principio constitucional se materializa?",
+    "opciones": [
+        "A. Autonomía territorial.",
+        "B. Distribución de competencias y recursos.",
+        "C. Subsidiariedad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El SGP garantiza distribución de recursos a municipios para cumplir con competencias asignadas."
+},
+
+{
+    "id": 93,
+    "caso": "Un grupo de ciudadanos de Cajicá solicita realizar una consulta popular sobre la implementación de cámaras de videovigilancia digital.",
+    "enunciado": "¿Qué figura de participación ciudadana aplica?",
+    "opciones": [
+        "A. Cabildo abierto.",
+        "B. Consulta popular.",
+        "C. Referendo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La consulta popular permite que la ciudadanía decida directamente sobre un asunto de trascendencia municipal."
+},
+
+{
+    "id": 94,
+    "caso": "El Alcalde de Cajicá ordena la digitalización de archivos históricos del municipio.",
+    "enunciado": "¿Qué política pública fortalece esta acción?",
+    "opciones": [
+        "A. Gobierno Digital.",
+        "B. Centralización de la información.",
+        "C. Subsidiariedad."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La política de Gobierno Digital promueve la gestión documental electrónica y la preservación de archivos."
+},
+
+{
+    "id": 95,
+    "caso": "El Concejo de Cajicá aprueba una norma local que contradice la Ley Orgánica de Ordenamiento Territorial (LOOT).",
+    "enunciado": "¿Qué principio se vulnera?",
+    "opciones": [
+        "A. Jerarquía normativa.",
+        "B. Autonomía territorial.",
+        "C. Subsidiariedad."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Las normas locales no pueden contradecir las leyes nacionales, ya que rige la jerarquía normativa."
+},
+
+{
+    "id": 96,
+    "caso": "El Gobernador de Cundinamarca interviene en Cajicá para coordinar un proyecto de conectividad regional.",
+    "enunciado": "¿Qué tipo de descentralización se evidencia?",
+    "opciones": [
+        "A. Descentralización política.",
+        "B. Descentralización administrativa.",
+        "C. Descentralización fiscal."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La descentralización administrativa se refleja cuando departamentos y municipios ejecutan competencias específicas asignadas por la ley."
+},
+
+{
+    "id": 97,
+    "caso": "Un ciudadano de Cajicá presenta un derecho de petición digital solicitando información sobre el Plan de Ordenamiento Territorial.",
+    "enunciado": "¿Qué derecho está ejerciendo?",
+    "opciones": [
+        "A. Derecho de petición.",
+        "B. Derecho a la participación electoral.",
+        "C. Derecho a la igualdad."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El derecho de petición (art. 23 C.P.) garantiza que toda persona pueda solicitar información o documentos a las autoridades."
+},
+
+{
+    "id": 98,
+    "caso": "La Alcaldía de Cajicá decide asociarse con otros municipios para crear una Región Administrativa y de Planificación (RAP) enfocada en innovación digital.",
+    "enunciado": "¿Qué norma respalda esta figura?",
+    "opciones": [
+        "A. La Ley 1454 de 2011, Ley Orgánica de Ordenamiento Territorial.",
+        "B. La Ley 136 de 1994 sobre régimen municipal.",
+        "C. La Ley 617 de 2000 sobre ajuste fiscal."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La Ley 1454 de 2011 establece las RAP como esquemas de integración regional."
+},
+
+{
+    "id": 99,
+    "caso": "La Alcaldía de Cajicá formula su Plan de Desarrollo sin incluir indicadores de conectividad ni modernización TIC.",
+    "enunciado": "¿Qué riesgo genera esta omisión?",
+    "opciones": [
+        "A. Incumplir con la política de Gobierno Digital del MinTIC.",
+        "B. Afectar el principio de subsidiariedad.",
+        "C. Exceder las competencias municipales."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los municipios deben incluir en su planificación acciones alineadas con la Estrategia de Gobierno Digital nacional."
+},
+
+{
+    "id": 100,
+    "caso": "El Alcalde de Cajicá solicita al Concejo autorización para endeudarse y financiar un sistema de ciberseguridad municipal.",
+    "enunciado": "¿Qué principio constitucional respalda la necesidad de control del Concejo?",
+    "opciones": [
+        "A. Principio de autonomía territorial.",
+        "B. Principio de control político y separación de funciones.",
+        "C. Principio de subsidiariedad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El Concejo ejerce control político y aprueba decisiones de endeudamiento, garantizando equilibrio de poderes en el nivel municipal."
+}
+
+
+]

@@ -1,0 +1,1749 @@
+[
+    {
+        "id": 1,
+        "caso": "La Secretaría TIC de la Alcaldía de Cajicá necesita formular un proyecto para digitalizar el proceso de solicitudes de licencias de construcción. La iniciativa surge para reducir el tiempo de respuesta y la carga administrativa. ",
+        "enunciado": "¿Qué paso de la metodología de formulación se está llevando a cabo en este escenario?",
+        "opciones": [
+            "A. El análisis de viabilidad, para justificar la inversión del proyecto.",
+            "B. La identificación del problema, que busca detectar una necesidad interna o externa que justifique el proyecto.",
+            "C. El diseño del proyecto, que busca especificar el cronograma y el presupuesto."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El primer paso en la formulación de un proyecto es la 'identificación del problema'. En este caso, la necesidad de digitalizar el proceso surge de la necesidad de reducir el tiempo de respuesta y la carga administrativa, lo que justifica la iniciativa."
+    },
+    {
+        "id": 2,
+        "caso": "El proyecto de digitalización de licencias de construcción de la Alcaldía de Cajicá está en la fase de formulación. El equipo técnico debe analizar si el proyecto es factible desde el punto de vista técnico, financiero y operativo. ",
+        "enunciado": "La acción del equipo técnico se relaciona directamente con el principio de formulación de:",
+        "opciones": [
+            "A. Viabilidad, que busca analizar la factibilidad técnica, operativa y económica del proyecto.",
+            "B. Integralidad, que busca integrar el análisis técnico, financiero, social, ambiental y legal.",
+            "C. Participación, que busca involucrar a todos los actores relevantes."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "El 'análisis de viabilidad' es uno de los principios clave de la formulación de proyectos. Este principio se enfoca en evaluar la factibilidad técnica, financiera, legal y operativa del proyecto para asegurar que sea realizable y que la inversión esté justificada."
+    },
+    {
+        "id": 3,
+        "caso": "El PETI de la Alcaldía de Cajicá establece una meta para 'automatizar el 50% de los trámites de la entidad'. La Secretaría TIC decide crear un 'Programa de Gobierno en Línea' que incluye varios proyectos interrelacionados para alcanzar esta meta. ",
+        "enunciado": "La relación entre el 'Programa de Gobierno en Línea' y los proyectos que lo componen se basa en el concepto de:",
+        "opciones": [
+            "A. Cartera, que es la colección de todos los proyectos de la entidad.",
+            "B. Programa, que es un conjunto de proyectos interrelacionados que buscan alcanzar un objetivo estratégico más amplio.",
+            "C. Proyecto, que es una iniciativa temporal que tiene un objetivo único y un resultado específico."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "Un 'programa' es un conjunto de proyectos interrelacionados que buscan alcanzar un objetivo estratégico más amplio. En este caso, el 'Programa de Gobierno en Línea' incluye varios proyectos que buscan alcanzar el objetivo estratégico de 'automatizar el 50% de los trámites de la entidad', que está definido en el PETI."
+    },
+    {
+        "id": 4,
+        "caso": "El proyecto de digitalización de licencias de construcción de la Alcaldía de Cajicá debe ser formulado con la 'Metodología General Ajustada (MGA)' del DNP. El primer paso de la MGA es la 'identificación del problema'. ",
+        "enunciado": "La formulación del problema, según la MGA, se debe hacer a través de un:",
+        "opciones": [
+            "A. Análisis de viabilidad, para justificar la inversión del proyecto.",
+            "B. Árbol de problemas, que formula el problema central y sus causas y efectos.",
+            "C. Diseño del proyecto, que busca especificar el cronograma y el presupuesto."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'Metodología General Ajustada (MGA)' es la metodología oficial para formular proyectos de inversión pública en Colombia. La formulación del problema se hace a través de un 'árbol de problemas', que formula el problema central, sus causas y sus efectos, lo que permite una comprensión clara de la necesidad que el proyecto busca resolver."
+    },
+    {
+        "id": 5,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar una plataforma de datos abiertos. El proyecto debe estar alineado con la Política de Gobierno Digital (PGD) y con los habilitadores de la PGD. ",
+        "enunciado": "La alineación del proyecto con la PGD se relaciona directamente con el componente de:",
+        "opciones": [
+            "A. Arquitectura, que define la estructura de los sistemas de la entidad.",
+            "B. Servicios Ciudadanos Digitales (SCD), que estandarizan la interacción entre el Estado y el ciudadano.",
+            "C. Gobierno Digital, que es el conjunto de políticas, planes y estrategias para el uso de las TIC."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La 'Política de Gobierno Digital (PGD)' es el marco de referencia principal para la formulación de cualquier proyecto informático en el sector público. La alineación del proyecto con la PGD garantiza que el proyecto contribuya a la misión de la Alcaldía y cumpla con los principios de la gestión pública."
+    },
+    {
+        "id": 6,
+        "caso": "Un proyecto del portafolio del PETI de la Alcaldía de Cajicá busca implementar un sistema de autenticación de dos factores (MFA) para el acceso a la red de la entidad. ",
+        "enunciado": "La formulación de este proyecto se enmarca en el habilitador de la PGD de:",
+        "opciones": [
+            "A. Seguridad y Privacidad de la Información, que busca proteger los activos de la entidad.",
+            "B. Servicios Ciudadanos Digitales (SCD), que estandarizan la interacción entre el Estado y el ciudadano.",
+            "C. Arquitectura, que define la estructura de los sistemas de la entidad."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La 'Seguridad y Privacidad de la Información' es un habilitador transversal de la Política de Gobierno Digital (PGD). La implementación de un sistema de autenticación de dos factores (MFA) es un control técnico que se alinea directamente con este habilitador, ya que busca proteger la identidad de los funcionarios y la seguridad de la información."
+    },
+    {
+        "id": 7,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+        "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+        "opciones": [
+            "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+            "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+            "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+    },
+    {
+        "id": 8,
+        "caso": "Un proyecto del portafolio del PETI de la Alcaldía de Cajicá busca implementar una plataforma de trámites digitales para la ciudadanía. Para su diseño, el equipo técnico debe asegurar que los diferentes sistemas de la entidad puedan comunicarse entre sí. ",
+        "enunciado": "La acción del equipo técnico se relaciona directamente con el habilitador de la PGD de:",
+        "opciones": [
+            "A. Arquitectura de TI, que es el modelo que describe la estructura de los sistemas de la entidad.",
+            "B. Servicios Ciudadanos Digitales (SCD), ya que la plataforma de trámites es un servicio digital para la ciudadanía.",
+            "C. Seguridad y Privacidad de la Información, ya que se debe proteger la información del ciudadano."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La 'Arquitectura Empresarial de TI' es un modelo que describe la estructura de la entidad y sus sistemas de información. El proyecto de la plataforma de trámites digitales debe estar alineado con este modelo para garantizar la interoperabilidad de los sistemas, es decir, la capacidad de los sistemas para comunicarse entre sí y compartir información de forma fluida."
+    },
+    {
+        "id": 9,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de información para la gestión de recursos humanos. El proyecto debe integrarse con el SIGEP, una plataforma nacional de gestión del empleo público. ",
+        "enunciado": "La integración del sistema con el SIGEP se relaciona directamente con el componente de la arquitectura de TI de:",
+        "opciones": [
+            "A. La capa de negocio, que define los procesos de la entidad.",
+            "B. La capa de datos, que define la estructura de las bases de datos.",
+            "C. La capa de integración e interoperabilidad, que define la estructura de los sistemas para comunicarse entre sí."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La 'capa de integración e interoperabilidad' es un componente de la arquitectura de TI que define la estructura de los sistemas para comunicarse entre sí. La integración del sistema de gestión de recursos humanos con el SIGEP se relaciona directamente con esta capa, ya que la interoperabilidad es clave para el intercambio de información entre diferentes entidades."
+    },
+    {
+        "id": 10,
+        "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá te pide que elabores un informe para la alta dirección sobre el avance de los proyectos del PETI. ",
+        "enunciado": "La elaboración de este informe se enmarca en la fase de la metodología oficial de formulación de proyectos de:",
+        "opciones": [
+            "A. 'Conocer', ya que se está diagnosticando la situación de la entidad.",
+            "B. 'Planear', ya que se está definiendo la estrategia y el portafolio de proyectos.",
+            "C. 'Medir', ya que se están evaluando los resultados del plan y su impacto en la entidad."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El ciclo de vida de la formulación de proyectos, según la metodología oficial, incluye la fase de 'Medir y mejorar'. En esta etapa, se monitorean y evalúan los resultados de los proyectos para asegurar que se están logrando los objetivos estratégicos de la entidad. La elaboración del informe se enmarca en esta fase."
+    },
+    {
+        "id": 11,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto de inversión para la adquisición de equipos de cómputo para los funcionarios. El proyecto debe ser registrado en el DNP.",
+        "enunciado": "La metodología oficial para la formulación de este proyecto de inversión pública es la:",
+        "opciones": [
+            "A. Metodología General Ajustada (MGA), que integra la identificación del problema, las alternativas y los costos.",
+            "B. Política de Gobierno Digital (PGD), que define los lineamientos generales para el uso de las TIC.",
+            "C. Marco de Referencia de Arquitectura Empresarial (MRAE), que define la estructura de los sistemas de la entidad."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La 'Metodología General Ajustada (MGA)' es la metodología oficial para formular proyectos de inversión pública en Colombia. La MGA integra la identificación del problema, las alternativas de solución, los costos, los riesgos y el seguimiento, todo alineado con los planes de desarrollo."
+    },
+    {
+        "id": 12,
+        "caso": "El proyecto de digitalización de licencias de construcción de la Alcaldía de Cajicá está en la fase de formulación. El equipo técnico debe identificar los posibles riesgos que podrían afectar el proyecto, como el incumplimiento de los plazos o el sobrecosto. ",
+        "enunciado": "La identificación de estos riesgos se enmarca en la práctica de:",
+        "opciones": [
+            "A. Gestión de Riesgos, que busca identificar, analizar y tratar los riesgos que podrían afectar el proyecto.",
+            "B. Gestión de Adquisiciones, que busca especificar los requisitos para la adquisición de hardware y software.",
+            "C. Gestión de la Información, que busca proteger la información del proyecto."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La 'Gestión de Riesgos' es una práctica de formulación de proyectos que busca identificar, analizar y tratar los posibles riesgos que podrían afectar el proyecto. La identificación de los riesgos es un paso clave para establecer planes de mitigación que minimicen su impacto."
+    },
+    {
+        "id": 13,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de autenticación de dos factores (MFA) para el acceso a la red de la entidad. El proyecto debe estar alineado con los habilitadores de la Política de Gobierno Digital (PGD). ",
+        "enunciado": "La implementación de este proyecto se relaciona directamente con el habilitador de la PGD de:",
+        "opciones": [
+            "A. Arquitectura, que define la estructura de los sistemas de la entidad.",
+            "B. Servicios Ciudadanos Digitales (SCD), que estandarizan la interacción entre el Estado y el ciudadano.",
+            "C. Seguridad y Privacidad de la Información, que busca proteger los activos de la entidad."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La 'Arquitectura' es un habilitador transversal de la Política de Gobierno Digital (PGD). El proyecto de la plataforma de trámites digitales debe estar alineado con este modelo para garantizar la interoperabilidad de los sistemas, es decir, la capacidad de los sistemas para comunicarse entre sí y compartir información de forma fluida."
+    },
+    {
+        "id": 14,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto de inversión para la adquisición de equipos de cómputo para los funcionarios. El proyecto debe ser registrado en el DNP.",
+        "enunciado": "La metodología oficial para la formulación de este proyecto de inversión pública es la:",
+        "opciones": [
+            "A. Metodología General Ajustada (MGA), que integra la identificación del problema, las alternativas y los costos.",
+            "B. Política de Gobierno Digital (PGD), que define los lineamientos generales para el uso de las TIC.",
+            "C. Marco de Referencia de Arquitectura Empresarial (MRAE), que define la estructura de los sistemas de la entidad."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La 'Metodología General Ajustada (MGA)' es la metodología oficial para formular proyectos de inversión pública en Colombia. La MGA integra la identificación del problema, las alternativas de solución, los costos, los riesgos y el seguimiento, todo alineado con los planes de desarrollo."
+    },
+    {
+        "id": 15,
+        "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá te pide que elabores un informe para la alta dirección sobre el avance de los proyectos del PETI.",
+        "enunciado": "La elaboración de este informe se enmarca en la fase de la metodología oficial de formulación de proyectos de:",
+        "opciones": [
+            "A. 'Conocer', ya que se está diagnosticando la situación de la entidad.",
+            "B. 'Planear', ya que se está definiendo la estrategia y el portafolio de proyectos.",
+            "C. 'Medir', ya que se están evaluando los resultados del plan y su impacto en la entidad."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El ciclo de vida de la formulación de proyectos, según la metodología oficial, incluye la fase de 'Medir y mejorar'. En esta etapa, se monitorean y evalúan los resultados de los proyectos para asegurar que se están logrando los objetivos estratégicos de la entidad. La elaboración del informe se enmarca en esta fase."
+    },
+    {
+        "id": 16,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar una plataforma de datos abiertos. El proyecto debe estar alineado con la Política de Gobierno Digital (PGD) y con los habilitadores de la PGD. ",
+        "enunciado": "La alineación del proyecto con la PGD se relaciona directamente con el componente de:",
+        "opciones": [
+            "A. Arquitectura, que define la estructura de los sistemas de la entidad.",
+            "B. Servicios Ciudadanos Digitales (SCD), que estandarizan la interacción entre el Estado y el ciudadano.",
+            "C. Gobierno Digital, que es el conjunto de políticas, planes y estrategias para el uso de las TIC."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La 'Política de Gobierno Digital (PGD)' es el marco de referencia principal para la formulación de cualquier proyecto informático en el sector público. La alineación del proyecto con la PGD garantiza que el proyecto contribuya a la misión de la Alcaldía y cumpla con los principios de la gestión pública."
+    },
+    {
+        "id": 17,
+        "caso": "Un proyecto del portafolio del PETI de la Alcaldía de Cajicá busca implementar una plataforma de trámites digitales para la ciudadanía. Para su diseño, el equipo técnico debe asegurar que los diferentes sistemas de la entidad puedan comunicarse entre sí. ",
+        "enunciado": "La acción del equipo técnico se relaciona directamente con el habilitador de la PGD de:",
+        "opciones": [
+            "A. Arquitectura de TI, que es el modelo que describe la estructura de los sistemas de la entidad.",
+            "B. Servicios Ciudadanos Digitales (SCD), ya que la plataforma de trámites es un servicio digital para la ciudadanía.",
+            "C. Seguridad y Privacidad de la Información, ya que se debe proteger la información del ciudadano."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La 'Arquitectura Empresarial de TI' es un modelo que describe la estructura de la entidad y sus sistemas de información. El proyecto de la plataforma de trámites digitales debe estar alineado con este modelo para garantizar la interoperabilidad de los sistemas, es decir, la capacidad de los sistemas para comunicarse entre sí y compartir información de forma fluida."
+    },
+    {
+        "id": 18,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de autenticación de dos factores (MFA) para el acceso a la red de la entidad. El proyecto debe estar alineado con los habilitadores de la Política de Gobierno Digital (PGD). ",
+        "enunciado": "La implementación de este proyecto se relaciona directamente con el habilitador de la PGD de:",
+        "opciones": [
+            "A. Arquitectura, que define la estructura de los sistemas de la entidad.",
+            "B. Servicios Ciudadanos Digitales (SCD), que estandarizan la interacción entre el Estado y el ciudadano.",
+            "C. Seguridad y Privacidad de la Información, que busca proteger los activos de la entidad."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La 'Seguridad y Privacidad de la Información' es un habilitador transversal de la Política de Gobierno Digital (PGD). La implementación de un sistema de autenticación de dos factores (MFA) es un control técnico que se alinea directamente con este habilitador, ya que busca proteger la identidad de los funcionarios y la seguridad de la información."
+    },
+    {
+        "id": 19,
+        "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá te pide que elabores un informe para la alta dirección sobre el avance de los proyectos del PETI. ",
+        "enunciado": "La elaboración de este informe se enmarca en la fase de la metodología oficial de formulación de proyectos de:",
+        "opciones": [
+            "A. 'Conocer', ya que se está diagnosticando la situación de la entidad.",
+            "B. 'Planear', ya que se está definiendo la estrategia y el portafolio de proyectos.",
+            "C. 'Medir', ya que se están evaluando los resultados del plan y su impacto en la entidad."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El ciclo de vida de la formulación de proyectos, según la metodología oficial, incluye la fase de 'Medir y mejorar'. En esta etapa, se monitorean y evalúan los resultados de los proyectos para asegurar que se están logrando los objetivos estratégicos de la entidad. La elaboración del informe se enmarca en esta fase."
+    },
+    {
+        "id": 20,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+        "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+        "opciones": [
+            "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+            "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+            "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+    },
+
+    {
+"id": 21,
+"caso": "Durante la formulación de un programa de interoperabilidad, la Secretaría TIC de Cajicá identifica que cada dependencia envía datos en formatos distintos y sin estándares definidos. El comité solicita definir cómo se integrará este proyecto al marco institucional.",
+"enunciado": "¿Qué decisión asegura coherencia en la formulación del proyecto?",
+"opciones": [
+"A. Diseñar el programa bajo los lineamientos de interoperabilidad de los Servicios Ciudadanos Digitales y el Manual de Gobierno Digital.",
+"B. Permitir que cada dependencia continúe enviando datos en su propio formato para no generar cambios.",
+"C. Posponer la definición de estándares hasta después de implementar el sistema."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación de proyectos de interoperabilidad debe basarse en los lineamientos de los SCD y del Manual de Gobierno Digital, que garantizan uniformidad, seguridad y valor público."
+},
+{
+"id": 22,
+"caso": "La Alcaldía planea un programa de capacitación en competencias digitales para funcionarios. El equipo TIC debe decidir cómo justificar el proyecto para su aprobación.",
+"enunciado": "¿Qué aspecto debe destacarse en la formulación?",
+"opciones": [
+"A. La necesidad de fortalecer las capacidades humanas para asegurar sostenibilidad de los proyectos TIC.",
+"B. Que cada funcionario decida por sí mismo si desea capacitarse.",
+"C. Que la capacitación solo se ofrezca al personal directivo."
+],
+"respuesta_correcta": "A",
+"explicacion": "En la formulación de programas informáticos, la capacitación es clave para la sostenibilidad y debe justificarse como parte de la estrategia institucional."
+},
+{
+"id": 23,
+"caso": "Un proyecto de trámites en línea se propone con un alcance muy amplio y costos elevados. En la formulación, algunos sugieren fragmentarlo en fases para reducir riesgos.",
+"enunciado": "¿Qué principio de gestión de proyectos se aplica en este caso?",
+"opciones": [
+"A. Desglose en fases con entregables progresivos, asegurando control y reducción de riesgos.",
+"B. Ejecutar todo de manera simultánea para mostrar resultados inmediatos.",
+"C. Cancelar el proyecto por ser demasiado ambicioso."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación correcta de proyectos informáticos recomienda dividir el alcance en fases para controlar riesgos y facilitar la ejecución gradual."
+},
+{
+"id": 24,
+"caso": "La Secretaría TIC presenta un proyecto de digitalización de expedientes. El análisis costo-beneficio muestra que, aunque costoso, reducirá en un 70% el tiempo de atención ciudadana.",
+"enunciado": "¿Qué criterio prevalece en la formulación del proyecto?",
+"opciones": [
+"A. El valor público generado por la reducción significativa en los tiempos de atención.",
+"B. La resistencia de algunos funcionarios a usar nuevas tecnologías.",
+"C. La preferencia por proyectos más baratos aunque no aporten valor."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación debe priorizar el valor público generado, incluso si los costos iniciales son altos, ya que el beneficio social es mayor."
+},
+{
+"id": 25,
+"caso": "En el proceso de formulación de proyectos TIC, se identifica que varias dependencias ya han iniciado iniciativas propias sin coordinación. El comité TIC debe decidir cómo integrarlas.",
+"enunciado": "¿Qué acción asegura coherencia?",
+"opciones": [
+"A. Consolidar las iniciativas en un portafolio único alineado al PETI y al Plan de Desarrollo.",
+"B. Permitir que cada dependencia continúe con sus proyectos independientes.",
+"C. Cancelar todos los proyectos y esperar a nuevas directrices."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación de planes y proyectos informáticos exige consolidar las iniciativas en un portafolio que garantice coherencia institucional y valor público."
+},
+{
+"id": 26,
+"caso": "Un programa de modernización de infraestructura tecnológica busca renovar todo el hardware en un año. Finanzas advierte que el presupuesto no es suficiente.",
+"enunciado": "¿Qué decisión corresponde en la formulación?",
+"opciones": [
+"A. Plantear una ejecución por fases, priorizando los sistemas críticos según el análisis de riesgos.",
+"B. Cancelar todo el programa por falta de presupuesto.",
+"C. Comprar equipos de bajo costo sin considerar desempeño."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación debe prever fases y priorización según criticidad y riesgo, asegurando sostenibilidad financiera y técnica."
+},
+{
+"id": 27,
+"caso": "En la formulación de un proyecto de interoperabilidad, se discute si incluir indicadores de uso ciudadano o solo métricas técnicas.",
+"enunciado": "¿Qué debe contener el proyecto?",
+"opciones": [
+"A. Indicadores de valor público como satisfacción ciudadana y reducción de tiempos de trámite.",
+"B. Solo métricas técnicas de red y servidores.",
+"C. Ningún indicador para simplificar la formulación."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación de proyectos informáticos debe incluir indicadores de valor público, no únicamente métricas técnicas."
+},
+{
+"id": 28,
+"caso": "Una dependencia propone digitalizar un trámite sin coordinar con el sistema de autenticación nacional. El equipo TIC revisa la propuesta.",
+"enunciado": "¿Qué decisión asegura cumplimiento?",
+"opciones": [
+"A. Exigir la integración con Autenticación Digital como componente obligatorio de los Servicios Ciudadanos Digitales.",
+"B. Aceptar la propuesta para ahorrar tiempo.",
+"C. Implementar el trámite sin medidas de autenticación."
+],
+"respuesta_correcta": "A",
+"explicacion": "Todo trámite digital debe integrarse con los Servicios Ciudadanos Digitales, especialmente con Autenticación Digital."
+},
+{
+"id": 29,
+"caso": "La Alcaldía recibe recursos del FUTIC para un programa de conectividad rural. El comité TIC plantea destinar los fondos a la compra de computadores para la sede central.",
+"enunciado": "¿Qué uso es correcto según la formulación del proyecto?",
+"opciones": [
+"A. Invertir en conectividad rural y acceso universal, conforme a la finalidad del FUTIC.",
+"B. Redirigir los recursos a gastos de oficina urbana.",
+"C. Ahorrar los fondos para otros proyectos sin relación."
+],
+"respuesta_correcta": "A",
+"explicacion": "El FUTIC financia proyectos de conectividad y acceso universal; usarlos en otra cosa sería indebido en la formulación."
+},
+{
+"id": 30,
+"caso": "En la formulación de un proyecto de servicios en la nube, el proveedor ofrece contrato sin cláusulas de seguridad ni plan de salida.",
+"enunciado": "¿Qué debe incluir la formulación del proyecto?",
+"opciones": [
+"A. Cláusulas contractuales sobre seguridad, residencia de datos, niveles de servicio y plan de salida.",
+"B. Aceptar el contrato estándar sin ajustes.",
+"C. Ignorar las exigencias normativas para ganar tiempo."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación debe garantizar contratos que contemplen seguridad, residencia de datos, SLA y plan de salida, en línea con la PGD."
+},
+{
+"id": 31,
+"caso": "Un programa de capacitación digital para ciudadanos busca aumentar el uso de la Carpeta Ciudadana Digital. Algunos proponen no medir resultados.",
+"enunciado": "¿Qué debe incluirse en la formulación?",
+"opciones": [
+"A. Indicadores de adopción de la Carpeta y satisfacción ciudadana.",
+"B. Solo una lista de asistentes sin evaluar impacto.",
+"C. Ninguna métrica para reducir carga."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación debe definir indicadores de adopción y satisfacción, alineados al valor público."
+},
+{
+"id": 32,
+"caso": "La Secretaría TIC formula un plan para modernizar los trámites. Se debate si debe incluir gestión de riesgos.",
+"enunciado": "¿Qué exige la formulación?",
+"opciones": [
+"A. Un análisis de riesgos y plan de tratamiento para asegurar continuidad y seguridad.",
+"B. Ningún análisis de riesgos porque retrasa.",
+"C. Confiar en que no habrá problemas."
+],
+"respuesta_correcta": "A",
+"explicacion": "Todo plan o proyecto informático debe incluir gestión de riesgos como parte de la formulación."
+},
+{
+"id": 33,
+"caso": "En la formulación del PETI, algunos proponen excluir a los Servicios Ciudadanos Digitales para centrarse en hardware.",
+"enunciado": "¿Qué decisión es correcta?",
+"opciones": [
+"A. Integrar Autenticación, Interoperabilidad y Carpeta Ciudadana Digital como componentes obligatorios.",
+"B. Excluir SCD porque son complejos.",
+"C. Priorizar solo la compra de hardware."
+],
+"respuesta_correcta": "A",
+"explicacion": "Los SCD son habilitadores obligatorios de la PGD; la formulación debe incluirlos siempre."
+},
+{
+"id": 34,
+"caso": "Un concejal pide aprobar un programa TIC sin diagnóstico ni análisis de alternativas. El comité TIC debe decidir.",
+"enunciado": "¿Qué principio de formulación se aplica?",
+"opciones": [
+"A. La MGA exige diagnóstico, análisis de problemas y alternativas antes de aprobar proyectos.",
+"B. Los proyectos se pueden aprobar sin diagnóstico.",
+"C. La aprobación política basta."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación de proyectos en el Estado sigue la MGA, que exige diagnóstico, árbol de problemas y análisis de alternativas."
+},
+{
+"id": 35,
+"caso": "El comité TIC formula un programa de datos abiertos. Se propone publicar datasets sin revisar si contienen información personal.",
+"enunciado": "¿Qué medida debe contemplarse?",
+"opciones": [
+"A. Anonimizar o retirar datos personales antes de publicación, conforme a la Ley 1581.",
+"B. Publicar todo sin filtros para mayor transparencia.",
+"C. Dejar que los ciudadanos detecten datos sensibles."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación debe cumplir con transparencia y protección de datos personales, asegurando anonimización previa."
+},
+{
+"id": 36,
+"caso": "Un programa TIC de Cajicá incluye indicadores de inventario técnico pero no mide reducción de tiempos de atención ciudadana.",
+"enunciado": "¿Qué ajuste debe hacerse?",
+"opciones": [
+"A. Incorporar indicadores de valor público y satisfacción ciudadana.",
+"B. Mantener solo métricas internas.",
+"C. Eliminar indicadores por simplicidad."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación debe medir valor público, no solo métricas internas."
+},
+{
+"id": 37,
+"caso": "En la formulación de un proyecto de autenticación digital, algunos proponen usar contraseñas simples para no complicar al usuario.",
+"enunciado": "¿Qué exige la formulación correcta?",
+"opciones": [
+"A. Incluir mecanismos robustos como MFA y alineación al servicio de Autenticación Digital nacional.",
+"B. Aceptar contraseñas simples.",
+"C. Ignorar lineamientos de seguridad."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación debe garantizar seguridad mediante MFA y alineación al servicio de Autenticación Digital."
+},
+{
+"id": 38,
+"caso": "La Secretaría TIC plantea un proyecto de migración a nube. En la formulación, algunos funcionarios dicen que basta con considerar velocidad de acceso.",
+"enunciado": "¿Qué otros elementos debe incluirse?",
+"opciones": [
+"A. Residencia de datos, cláusulas de seguridad, SLA y plan de salida.",
+"B. Solo la velocidad de acceso.",
+"C. Copiar las políticas de otro municipio."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación de proyectos en nube debe contemplar residencia de datos, seguridad, SLA y plan de salida."
+},
+{
+"id": 39,
+"caso": "La Alcaldía formula un programa de alfabetización digital. El plan no incluye mecanismos de seguimiento.",
+"enunciado": "¿Qué ajuste es necesario?",
+"opciones": [
+"A. Incorporar indicadores de seguimiento y evaluación alineados al MIPG.",
+"B. Mantenerlo sin métricas para simplificar.",
+"C. Dejar que cada formador reporte informalmente."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación debe incluir indicadores y seguimiento para evaluar impacto, en línea con el MIPG."
+},
+{
+"id": 40,
+"caso": "Un proyecto TIC busca digitalizar pagos municipales. En la formulación se omite evaluar riesgos de ciberseguridad.",
+"enunciado": "¿Qué debe corregirse?",
+"opciones": [
+"A. Incluir un análisis de riesgos de ciberseguridad y plan de tratamiento en la formulación.",
+"B. Omitir riesgos porque aumentan la complejidad.",
+"C. Confiar en que el proveedor gestione riesgos sin contrato."
+],
+"respuesta_correcta": "A",
+"explicacion": "Todo proyecto TIC debe incluir riesgos de ciberseguridad y planes de tratamiento en la formulación."
+},
+{
+"id": 41,
+"caso": "El comité formula un programa para trámites electrónicos. Proponen no considerar interoperabilidad porque implica más tiempo.",
+"enunciado": "¿Qué exige la formulación?",
+"opciones": [
+"A. Incluir interoperabilidad con plataformas nacionales como parte de los SCD.",
+"B. Omitir interoperabilidad por practicidad.",
+"C. Implementar trámites aislados."
+],
+"respuesta_correcta": "A",
+"explicacion": "La interoperabilidad es obligatoria en la formulación de trámites digitales, como parte de los SCD."
+},
+{
+"id": 42,
+"caso": "La Secretaría TIC recibe presión para formular proyectos TIC con base en modas tecnológicas. El comité debe decidir.",
+"enunciado": "¿Qué criterio debe guiar la formulación?",
+"opciones": [
+"A. La alineación al Plan de Desarrollo, PETI y valor público generado.",
+"B. Las tendencias tecnológicas globales sin análisis.",
+"C. La presión política sin justificación técnica."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación de proyectos TIC se guía por alineación estratégica y valor público, no por modas o presiones."
+},
+{
+"id": 43,
+"caso": "Un proyecto de trámites digitales es formulado sin contemplar capacitación ciudadana. El comité detecta la omisión.",
+"enunciado": "¿Qué debe ajustarse?",
+"opciones": [
+"A. Incluir un plan de capacitación y apropiación ciudadana para garantizar uso y adopción.",
+"B. Omitir capacitación porque no es esencial.",
+"C. Confiar en que los ciudadanos se adapten solos."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación debe contemplar apropiación ciudadana, garantizando uso y adopción de trámites digitales."
+},
+{
+"id": 44,
+"caso": "En la formulación del PETI, se discute si incluir un plan de gobernanza de datos. Algunos dicen que no es necesario.",
+"enunciado": "¿Qué decisión es correcta?",
+"opciones": [
+"A. Incluir un plan de gobernanza de datos con roles y estándares definidos.",
+"B. Omitirlo por considerarlo secundario.",
+"C. Dejar que cada dependencia maneje datos sin lineamientos."
+],
+"respuesta_correcta": "A",
+"explicacion": "La gobernanza de datos es parte esencial de la formulación de planes y proyectos informáticos."
+},
+{
+"id": 45,
+"caso": "La Alcaldía formula un programa de gobierno digital. Algunos sugieren no incluir mecanismos de comunicación de avances a la ciudadanía.",
+"enunciado": "¿Qué debe hacer la formulación?",
+"opciones": [
+"A. Incluir estrategias de comunicación y socialización de avances como parte del plan.",
+"B. Guardar el plan en reserva para evitar críticas.",
+"C. Limitar la comunicación a reportes internos."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación debe garantizar comunicación y socialización, fortaleciendo transparencia y confianza ciudadana."
+},
+
+{
+"id": 46,
+"caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+"enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+"opciones": [
+"A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+"B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+"C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+],
+"respuesta_correcta": "B",
+"explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+"id": 47,
+"caso": "El equipo de tecnología de la Alcaldía detecta que algunos procesos del sistema actual son ineficientes y proponen un nuevo programa para mejorar el flujo de información entre dependencias.",
+"enunciado": "Para formular correctamente este programa, se debe iniciar con:",
+"opciones": [
+"A. Definir los objetivos claros que el programa busca alcanzar.",
+"B. Adquirir inmediatamente el software necesario para la implementación.",
+"C. Ignorar el contexto organizacional y ejecutar el cambio con rapidez."
+],
+"respuesta_correcta": "A",
+"explicacion": "Una formulación adecuada requiere establecer primero los objetivos y metas claras, para luego definir recursos y acciones alineadas."
+},
+{
+"id": 48,
+"caso": "En la planificación de nuevos proyectos informáticos, la Alcaldía debe garantizar la inclusión y participación de usuarios finales para el diseño de las soluciones.",
+"enunciado": "Esta práctica corresponde a:",
+"opciones": [
+"A. Evaluación de riesgos técnicos del proyecto.",
+"B. Metodología participativa esencial en la formulación de proyectos.",
+"C. La fase final de implementación de proyectos."
+],
+"respuesta_correcta": "B",
+"explicacion": "Incluir a los usuarios desde la formulación asegura que las soluciones respondan a necesidades reales y facilite la adopción."
+},
+{
+"id": 49,
+"caso": "Al presentar el proyecto TIC para la atención en línea de ciudadanos, se debe incluir un análisis claro respecto a los recursos humanos, técnicos y financieros necesarios para su ejecución.",
+"enunciado": "Este análisis corresponde a:",
+"opciones": [
+"A. Estudio de factibilidad integral, para evaluar viabilidad del proyecto.",
+"B. Informe de auditoría financiera independiente.",
+"C. Revisión legal sin análisis económico."
+],
+"respuesta_correcta": "A",
+"explicacion": "El estudio de factibilidad de un proyecto debe considerar los recursos y capacidad para su implementación exitosa."
+},
+{
+"id": 50,
+"caso": "Un proyecto de la Alcaldía propone migrar datos a una plataforma cloud, pero debe cumplir con normas nacionales de protección y seguridad de la información.",
+"enunciado": "En la formulación, se debe priorizar:",
+"opciones": [
+"A. Verificar el cumplimiento normativo en seguridad y privacidad de datos.",
+"B. Elegir la plataforma más barata sin considerar regulaciones.",
+"C. Realizar la migración sin consultar expertos."
+],
+"respuesta_correcta": "A",
+"explicacion": "La conformidad con normas vigentes protege la integridad y confidencialidad de la información pública."
+},
+{
+"id": 51,
+"caso": "Durante la elaboración del plan, se detecta que existen riesgos tecnológicos y sociales que podrían afectar el éxito del proyecto informático.",
+"enunciado": "¿Cuál es el paso siguiente en la formulación?",
+"opciones": [
+"A. Diseñar un plan de gestión de riesgos con estrategias de mitigación.",
+"B. Cancelar el proyecto sin más análisis.",
+"C. Ejecutar el proyecto y corregir problemas al final."
+],
+"respuesta_correcta": "A",
+"explicacion": "Es fundamental identificar y planear acciones para manejar riesgos durante la formulación para garantizar viabilidad."
+},
+{
+"id": 52,
+"caso": "La Alcaldía busca mejorar la eficiencia mediante la implementación de nuevos programas informáticos para agilizar trámites ciudadanos.",
+"enunciado": "Para validar el éxito potencial del proyecto, se deben definir indicadores de:",
+"opciones": [
+"A. Desempeño y resultados que permitan medir avances y beneficios esperados.",
+"B. Popularidad del software entre el público general.",
+"C. Costos únicamente, sin medir resultados."
+],
+"respuesta_correcta": "A",
+"explicacion": "Definir indicadores claros es esencial para evaluar impacto y orientar la gestión del proyecto hacia objetivos concretos."
+},
+{
+"id": 53,
+"caso": "En la formulación de un proyecto para implementar un nuevo sistema de comunicación interna digital, se incluye una propuesta de capacitación para los usuarios finales.",
+"enunciado": "Esta propuesta se relaciona con:",
+"opciones": [
+"A. Uso y apropiación tecnológica, fundamental para la adopción exitosa.",
+"B. Mantenimiento técnico exclusivamente.",
+"C. Desarrollo de infraestructura sin capacitación."
+],
+"respuesta_correcta": "A",
+"explicacion": "La capacitación facilita la apropiación y uso eficiente de la nueva tecnología implementada."
+},
+{
+"id": 54,
+"caso": "Se formula un proyecto TIC de desarrollo de plataforma para gestión ambiental, sin embargo, el alcance no está definido claramente y aparece ambiguo en el documento.",
+"enunciado": "¿Cuál puede ser la consecuencia más probable?",
+"opciones": [
+"A. Fallas en la ejecución y resultados poco claros debido a falta de enfoque.",
+"B. Ejecución exitosa sin necesidad de definiciones claras.",
+"C. Que el proyecto se realice sin problemas."
+],
+"respuesta_correcta": "A",
+"explicacion": "La falta de un alcance claro puede causar desviaciones, retrasos y resultados que no satisfacen requerimientos."
+},
+{
+"id": 55,
+"caso": "La administración asigna un presupuesto considerable para la adquisición de tecnología, pero sin vincularlo a un plan o proyecto formalmente formulado.",
+"enunciado": "¿Cuál es el problema principal de esta práctica?",
+"opciones": [
+"A. Desalineación con la estrategia institucional y posible uso ineficiente de recursos.",
+"B. Mejores resultados sin necesidad de formalidad.",
+"C. Reducción del control financiero."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación asegura que las inversiones están alineadas a objetivos y optimiza el uso de recursos públicos."
+},
+{
+"id": 56,
+"caso": "Durante la definición de actividades de un proyecto TIC, se detecta la necesidad de coordinar tareas entre departamentos con agendas y prioridades distintas.",
+"enunciado": "La mejor recomendación para la gestión de esta situación es:",
+"opciones": [
+"A. Establecer un comité de coordinación con representación de todas las áreas involucradas.",
+"B. Que cada departamento ejecute sin coordinación.",
+"C. Impedir la participación de algunos departamentos."
+],
+"respuesta_correcta": "A",
+"explicacion": "La coordinación transversal es clave para lograr resultados integrales y evitar duplicidad o conflictos."
+},
+{
+"id": 57,
+"caso": "El proyecto TIC planteado incluye metas de reducción de tiempos en procesos administrativos.",
+"enunciado": "¿Qué tipo de indicadores es mejor incluir para evaluar este objetivo?",
+"opciones": [
+"A. Indicadores de eficiencia basados en tiempos de proceso y atención.",
+"B. Solo indicadores financieros.",
+"C. Indicadores de satisfacción únicamente."
+],
+"respuesta_correcta": "A",
+"explicacion": "Los indicadores de eficiencia permiten medir mejoras en procesos y validan el impacto del proyecto."
+},
+{
+"id": 58,
+"caso": "El equipo de formulación incluye un plan de comunicación para informar a la ciudadanía sobre los beneficios del nuevo sistema informático.",
+"enunciado": "Esta acción corresponde a:",
+"opciones": [
+"A. Estrategia de cambio y gestión social dentro del proyecto, clave para su adopción.",
+"B. Actividades sin importancia para el proyecto.",
+"C. Exclusión del público para evitar interferencia."
+],
+"respuesta_correcta": "A",
+"explicacion": "Una comunicación adecuada ayuda a preparar a los usuarios y reduce resistencias."
+},
+{
+"id": 59,
+"caso": "Se propone un sistema para mejorar la gestión documental con controles estrictos de acceso y auditoría digital.",
+"enunciado": "¿Qué debe incluir el plan para garantizar la seguridad de la información?",
+"opciones": [
+"A. Políticas claras de privacidad, cifrado, gestión de usuarios y respaldo.",
+"B. No aplicar controles para facilitar acceso masivo.",
+"C. Solamente capacitación de usuarios sin controles técnicos."
+],
+"respuesta_correcta": "A",
+"explicacion": "La seguridad es responsabilidad de políticas, tecnología y formación coordinadas para proteger activos."
+},
+{
+"id": 60,
+"caso": "Durante la formulación, se identifican varios riesgos tecnológicos como obsolescencia, ataques informáticos y fallas operativas.",
+"enunciado": "El plan debe incluir medidas para mitigar estos riesgos, tales como:",
+"opciones": [
+"A. Actualización constante, protocolos de contingencia y formación continua.",
+"B. Ignorar los riesgos en la planificación.",
+"C. Dejar la gestión de riesgos para la ejecución."
+],
+"respuesta_correcta": "A",
+"explicacion": "La gestión proactiva de riesgos en la etapa de formulación reduce impactos negativos futuros."
+},
+{
+"id": 61,
+"caso": "La Alcaldía quiere garantizar que el proyecto contribuya a la transformación digital en el municipio.",
+"enunciado": "La alineación con la política de gobierno digital implica:",
+"opciones": [
+"A. Incorporar estándares, interoperabilidad, seguridad y enfoque al usuario en el proyecto.",
+"B. Desarrollar el proyecto de forma aislada sin criterios digitales.",
+"C. Priorizar infraestructuras físicas únicamente."
+],
+"respuesta_correcta": "A",
+"explicacion": "La transformación digital requiere estándares y un enfoque integral centrado en el ciudadano."
+},
+{
+"id": 62,
+"caso": "En la formulación de un proyecto se incluyen actividades claras para seguimiento, control y evaluación por parte del equipo técnico y directivos.",
+"enunciado": "¿Qué características son esenciales en esta fase?",
+"opciones": [
+"A. Definir roles, frecuencias de reporte y métricas de control para medir el avance.",
+"B. Delegar el seguimiento al azar.",
+"C. Recoger datos sin análisis."
+],
+"respuesta_correcta": "A",
+"explicacion": "Un seguimiento sistemático con roles asignados y medición concreta garantiza el éxito y aprendizaje del proyecto."
+},
+{
+"id": 63,
+"caso": "El equipo de formulación propone incluir la compra de licencias de software, equipo y capacitación para la implementación.",
+"enunciado": "¿Por qué es importante detallar estos aspectos en el proyecto?",
+"opciones": [
+"A. Para garantizar la disponibilidad de recursos y la capacidad técnica necesaria para la ejecución.",
+"B. Para aumentar el presupuesto sin justificación.",
+"C. Para simplificar la planificación."
+],
+"respuesta_correcta": "A",
+"explicacion": "El presupuesto y recursos bien detallados aseguran la factibilidad y éxito del proyecto."
+},
+{
+"id": 64,
+"caso": "Durante la formulación, surge la necesidad de establecer acuerdos formales con proveedores para garantizar calidad y soporte.",
+"enunciado": "¿Cuál es la razón principal para incluir esta gestión contractual?",
+"opciones": [
+"A. Proteger el interés público asegurando cumplimiento y continuidad del servicio.",
+"B. Evitar las responsabilidades del área TIC.",
+"C. Delegar todo el proyecto al proveedor."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formalización contractual asegura calidad y reduce riesgos legales y técnicos."
+},
+{
+"id": 65,
+"caso": "En el proyecto se busca implementar un sistema interoperable con otras plataformas de entidades regionales y nacionales.",
+"enunciado": "El proyecto debe considerar en su formulación:",
+"opciones": [
+"A. Estándares abiertos, protocolos y normatividad de interoperabilidad oficiales.",
+"B. Sistemas propietarios no compatibles con integración.",
+"C. Política de aislamiento tecnológico."
+],
+"respuesta_correcta": "A",
+"explicacion": "La interoperabilidad requiere el cumplimiento de estándares para comunicación y colaboración efectiva."
+},
+
+{
+    "id": 66,
+    "caso": "La Alcaldía de Cajicá, en su Plan de Desarrollo Municipal, ha definido el objetivo de 'mejorar la transparencia y la participación ciudadana'. Para lograrlo, la Secretaría TIC ha identificado la necesidad de un nuevo proyecto informático que permita la creación de un portal de datos abiertos. Usted, como profesional, debe formular la propuesta de este proyecto para su posterior inclusión en el Plan Estratégico de Tecnologías de la Información (PETI).",
+    "enunciado": "La acción más crítica y estratégica en la fase inicial de formulación de este proyecto es:",
+    "opciones": [
+        "A. Definir la arquitectura tecnológica de la plataforma de datos abiertos, especificando los servidores y el software a utilizar.",
+        "B. Justificar la viabilidad técnica y económica del proyecto, demostrando que contribuye directamente al objetivo de transparencia del Plan de Desarrollo.",
+        "C. Elaborar el cronograma de ejecución y asignar los recursos presupuestales para la contratación del proveedor encargado de desarrollar el portal."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La formulación de un proyecto informático en el sector público debe estar, en primer lugar, alineada con los objetivos estratégicos de la entidad. Justificar la viabilidad y la contribución al Plan de Desarrollo es el paso más crítico para asegurar que el proyecto genere valor público y tenga un sustento sólido para su aprobación."
+},
+{
+    "id": 67,
+    "caso": "En una mesa de trabajo para la formulación del PETI, la Dirección de la Alcaldía de Cajicá ha solicitado que se priorice un proyecto de un sistema de gestión de trámites en línea. Sin embargo, en el análisis de viabilidad, se ha detectado que el proyecto podría generar un sobrecosto significativo y retrasos en el cronograma. Un grupo de funcionarios sugiere ignorar los hallazgos para no contradecir a la dirección, mientras que otro grupo propone detener la iniciativa para evitar riesgos financieros y de reputación.",
+    "enunciado": "La mejor acción que usted debe tomar, en línea con una correcta 'formulación de proyectos informáticos', es:",
+    "opciones": [
+        "A. Proponer un plan de mitigación de riesgos que aborde el sobrecosto y el retraso, y presentar los hallazgos de forma transparente al Subcomité de Sistemas de Información.",
+        "B. Recomendar la cancelación del proyecto de forma inmediata, basándose en los hallazgos del análisis de viabilidad para evitar un impacto negativo en la entidad.",
+        "C. Replantear la formulación del proyecto para que se ajuste al presupuesto original, sin importar si se reducen las funcionalidades o se aumenta la duración del proyecto."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La formulación de un proyecto informático no termina con la identificación de riesgos. La acción más profesional es proponer un plan de mitigación de riesgos que aborde los hallazgos del análisis de viabilidad, y presentar los resultados de forma transparente a la dirección para que se tome una decisión informada."
+},
+{
+    "id": 68,
+    "caso": "La Alcaldía de Cajicá ha definido la 'interoperabilidad' como un principio fundamental para la modernización de sus sistemas de información. Usted, como profesional, debe liderar la formulación de un proyecto para la implementación de una plataforma que conecte los sistemas de gestión documental, de peticiones y de trámites. Un experto externo contratado para el proyecto sugiere adquirir un software genérico que, aunque es más económico, no se integra con la 'arquitectura de sistemas' existente de la entidad, lo que podría generar problemas a largo plazo.",
+    "enunciado": "La decisión más adecuada en la 'formulación del proyecto', para garantizar la coherencia con la estrategia de la Alcaldía, es:",
+    "opciones": [
+        "A. Aceptar la recomendación del experto externo para reducir costos, ya que el software genérico puede ser adaptado a la 'arquitectura de sistemas' en el futuro.",
+        "B. Rechazar la propuesta del experto externo y reformular el proyecto con un software que se ajuste a la 'arquitectura de sistemas' de la entidad, incluso si esto implica un mayor costo inicial.",
+        "C. Suspender el proyecto hasta que se pueda encontrar una solución que sea económica y que se integre con la 'arquitectura de sistemas' de la entidad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'arquitectura de sistemas' es un componente clave del PETI. La acción más estratégica es 'rechazar la propuesta del experto externo y reformular el proyecto', ya que se alinea con la 'arquitectura de sistemas' de la entidad y garantiza la 'interoperabilidad' y la eficiencia a largo plazo, que son principios fundamentales de la gestión pública territorial."
+},
+{
+    "id": 69,
+    "caso": "La Alcaldía de Cajicá está formulando el Plan Estratégico de Tecnologías de la Información (PETI), que incluye la creación de un 'Portafolio de Proyectos de TI' para la vigencia actual. La oficina de Planeación ha solicitado que el portafolio incluya una matriz de riesgos detallada para cada proyecto, incluyendo la probabilidad y el impacto de los riesgos identificados. El jefe de la Secretaría TIC considera que la matriz de riesgos es un documento innecesario y que solo retrasa la aprobación del PETI.",
+    "enunciado": "La acción más profesional y en línea con la 'formulación de proyectos informáticos' es:",
+    "opciones": [
+        "A. Omitir la matriz de riesgos del 'Portafolio de Proyectos de TI', para no retrasar la aprobación del PETI y evitar un conflicto con el jefe de la Secretaría TIC.",
+        "B. Presentar una matriz de riesgos que identifique los riesgos más comunes, sin detallar la probabilidad y el impacto, para cumplir con el requisito de la oficina de Planeación.",
+        "C. Incluir una matriz de riesgos detallada en el 'Portafolio de Proyectos de TI', y explicar al jefe de la Secretaría TIC que es un componente clave para la 'gestión de riesgos' y la 'instrumentación de decisiones'."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La 'gestión de riesgos' es un componente clave de la formulación de proyectos informáticos. La opción C, 'incluir una matriz de riesgos detallada', es la que mejor se alinea con este principio, ya que busca una solución de manera colaborativa y proactiva, y demuestra el valor de la 'gestión de riesgos' en la gestión pública."
+},
+{
+    "id": 70,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 71,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Inteligencia Artificial' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Inteligencia Artificial' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 72,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 73,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 74,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 75,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 76,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 77,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 78,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 79,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 80,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 81,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 82,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 83,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 84,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 85,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 86,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 87,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 88,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 89,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 90,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 91,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 92,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 93,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 94,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 95,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 96,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 97,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 98,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 99,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada. El jefe de la dependencia le ha instruido que el análisis debe ser imparcial y centrado en los beneficios para la entidad.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 100,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 101,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 102,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 103,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 104,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 105,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 106,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 107,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 108,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 109,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 110,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 111,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 112,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 113,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 114,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 115,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 116,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 117,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 118,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 119,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 120,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 121,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 122,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 123,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 124,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 125,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 126,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 127,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 128,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 129,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 130,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 131,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 132,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 133,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 134,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 135,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 136,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 137,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 138,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 139,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 140,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 141,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 142,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 143,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 144,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+},
+{
+    "id": 145,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un sistema de gestión documental. El proyecto debe ser evaluado para su inclusión en el PETI.",
+    "enunciado": "La evaluación del proyecto para su inclusión en el PETI se debe basar en el criterio de:",
+    "opciones": [
+        "A. La popularidad del software en el mercado, ya que la Alcaldía debe usar la tecnología más avanzada.",
+        "B. La alineación con los objetivos estratégicos del Plan de Desarrollo Municipal y la Política de Gobierno Digital.",
+        "C. El costo total de la implementación, ya que la Alcaldía debe priorizar los proyectos más económicos."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El PETI es una herramienta de gestión estratégica que busca alinear las inversiones en tecnología con los objetivos de la entidad. La evaluación de un proyecto para su inclusión en el PETI debe basarse en la alineación con los objetivos estratégicos del Plan de Desarrollo y la Política de Gobierno Digital para asegurar que genere valor público."
+}
+
+
+
+
+]

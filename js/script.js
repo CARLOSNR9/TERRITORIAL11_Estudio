@@ -90,6 +90,8 @@ const mostrarHistorialResumen = () => {
     renderizarResumen('historial-soporte-tecnico', 'simulacro_soporte_tecnico');
     renderizarResumen('historial-seguridad-informatica', 'simulacro_seguridad_informatica');
     renderizarResumen('historial-tecnologias-informacion-comunicaciones', 'simulacro_tecnologias_informacion_comunicaciones');
+    renderizarResumen('historial-plan-estrategico-peti', 'simulacro_plan_estrategico_peti');
+    renderizarResumen('historial-formulacion-proyectos-informaticos', 'simulacro_formulacion_proyectos_informaticos');
 };
 
 // Ejecutar la función al cargar la página

@@ -88,6 +88,8 @@ const mostrarHistorialResumen = () => {
     renderizarResumen('historial-gestion-publica', 'simulacro_gestion_publica');
     renderizarResumen('historial-infraestructura-tic', 'simulacro_infraestructura_tic');
     renderizarResumen('historial-soporte-tecnico', 'simulacro_soporte_tecnico');
+    renderizarResumen('historial-seguridad-informatica', 'simulacro_seguridad_informatica');
+    renderizarResumen('historial-tecnologias-informacion-comunicaciones', 'simulacro_tecnologias_informacion_comunicaciones');
 };
 
 // Ejecutar la función al cargar la página

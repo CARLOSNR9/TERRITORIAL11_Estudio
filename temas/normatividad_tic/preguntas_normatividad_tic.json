@@ -1,0 +1,1206 @@
+[
+    {
+        "id": 1,
+        "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá te pide que elabores un informe sobre el cumplimiento de la Ley de Transparencia. El informe debe incluir un listado de la información que debe ser publicada de forma proactiva en el portal web de la entidad. ",
+        "enunciado": "¿Qué ley es el principal soporte normativo para la elaboración de este informe?",
+        "opciones": [
+            "A. Ley 1341 de 2009, que regula el acceso a los servicios de telecomunicación.",
+            "B. Ley 1712 de 2014, que regula el derecho de acceso a la información pública y la transparencia.",
+            "C. Ley 1581 de 2012, que regula la protección de datos personales."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 1712 de 2014, conocida como la 'Ley de Transparencia', regula el derecho fundamental de acceso a la información pública y obliga a las entidades a publicar de forma proactiva información relevante para la ciudadanía[cite: 1, 3]. "
+    },
+    {
+        "id": 2,
+        "caso": "Un proyecto del Plan Estratégico de Tecnologías de la Información (PETI) de la Alcaldía de Cajicá busca implementar un sistema de autenticación de dos factores (MFA) para el acceso a la red de la entidad. El proyecto debe estar alineado con la Política de Gobierno Digital (PGD). ",
+        "enunciado": "La implementación de este proyecto se enmarca en la regulación de los 'Servicios Ciudadanos Digitales' de:",
+        "opciones": [
+            "A. El Decreto 1078 de 2015, que compila toda la normativa del sector TIC.",
+            "B. El Decreto 620 de 2020, que regula los lineamientos para la implementación de los Servicios Ciudadanos Digitales (SCD).",
+            "C. El Decreto 767 de 2022, que es el eje de la Política de Gobierno Digital (PGD)."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El Decreto 620 de 2020 regula los lineamientos para la implementación y operación de los 'Servicios Ciudadanos Digitales (SCD)', que incluyen la autenticación digital. El proyecto de la Alcaldía se alinea con esta regulación para estandarizar la interacción entre el Estado y el ciudadano."
+    },
+    {
+        "id": 3,
+        "caso": "La Secretaría TIC de la Alcaldía de Cajicá está elaborando un informe para el Subcomité Municipal de Sistemas de Información sobre el cumplimiento del 'Modelo de Seguridad y Privacidad de la Información' (MSPI). ",
+        "enunciado": "¿Qué decreto reglamenta el 'Modelo de Seguridad y Privacidad de la Información'?",
+        "opciones": [
+            "A. El Decreto 1078 de 2015, que compila toda la normativa del sector TIC.",
+            "B. El Decreto 2573 de 2014, que establece las políticas de seguridad digital.",
+            "C. El Decreto 815 de 2018, que establece las competencias comportamentales de los servidores públicos."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El Decreto 2573 de 2014 establece las políticas de seguridad digital en Colombia y reglamenta el 'Modelo de Seguridad y Privacidad de la Información' (MSPI)[cite: 3]. El informe de la Secretaría TIC debe basarse en este decreto para evaluar el cumplimiento del modelo."
+    },
+    {
+        "id": 4,
+        "caso": "Un funcionario de la Alcaldía de Cajicá solicita acceso a una base de datos que contiene información personal de ciudadanos. Para acceder a la base de datos, el funcionario debe contar con la autorización del titular de la información. ",
+        "enunciado": "¿Qué ley es el principal soporte normativo para la protección de los datos personales?",
+        "opciones": [
+            "A. Ley 1273 de 2009, que tipifica los delitos informáticos.",
+            "B. Ley 1581 de 2012, que regula el tratamiento y protección de la privacidad en bases de datos.",
+            "C. Ley 1712 de 2014, que regula el derecho de acceso a la información pública y la transparencia."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 1581 de 2012, conocida como la Ley de Protección de Datos Personales, establece el régimen de habeas data y las obligaciones de protección de información sensible. La autorización del titular de la información es un requisito fundamental de esta ley."
+    },
+    {
+        "id": 5,
+        "caso": "La Alcaldía de Cajicá decide implementar un portal de datos abiertos para publicar información sobre los contratos, presupuestos y planes de acción de la entidad. ",
+        "enunciado": "La implementación de este portal se relaciona con los principios regulatorios de:",
+        "opciones": [
+            "A. Acceso Universal y Servicio Esencial, que buscan que todos los ciudadanos tengan oportunidades iguales de conectividad.",
+            "B. Protección de la Información y Privacidad, que buscan proteger los datos personales de la ciudadanía.",
+            "C. Transparencia, Datos Abiertos y Ciudadanía Digital, que buscan facilitar el acceso público a la información[cite: 2]."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La implementación de un portal de datos abiertos se relaciona con los principios regulatorios de Transparencia, Datos Abiertos y Ciudadanía Digital. Las entidades deben facilitar el acceso público a la información para fomentar la transparencia y la rendición de cuentas."
+    },
+    {
+        "id": 6,
+        "caso": "Un proyecto del Plan Estratégico de Tecnologías de la Información (PETI) de la Alcaldía de Cajicá busca implementar un sistema de autenticación de dos factores (MFA) para el acceso a la red de la entidad. ",
+        "enunciado": "De acuerdo con el Decreto 767 de 2022, la implementación de este proyecto se alinea con la política de:",
+        "opciones": [
+            "A. Gobierno Digital, que es el marco de referencia para la transformación digital del Estado colombiano.",
+            "B. Seguridad Digital, que es el conjunto de prácticas y tecnologías para proteger la información.",
+            "C. Normatividad de TIC, que es el conjunto de leyes, decretos y regulaciones que rigen el uso de la tecnología."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "El Decreto 767 de 2022 es el eje de la Política de Gobierno Digital, que es el marco de referencia para la transformación digital del Estado colombiano[cite: 2]. La implementación de un sistema de autenticación de dos factores (MFA) es una acción que se alinea directamente con esta política, ya que busca fortalecer la seguridad digital y la confianza de la ciudadanía en el Estado."
+    },
+    {
+        "id": 7,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para llevar conectividad a zonas rurales del municipio. El proyecto debe estar alineado con el principio de 'Acceso Universal y Servicio Esencial'. ",
+        "enunciado": "¿Qué ley declara el acceso a Internet como un servicio esencial y universal en Colombia?",
+        "opciones": [
+            "A. Ley 1341 de 2009, que define el marco de organización para el sector TIC.",
+            "B. Ley 2108 de 2021, que declara el acceso a Internet un servicio esencial y universal en Colombia.",
+            "C. Ley 1978 de 2019, que moderniza la gestión pública mediante TIC."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 2108 de 2021 declara el acceso a Internet un servicio esencial y universal en Colombia, lo que obliga a las entidades públicas a garantizar que todos los ciudadanos tengan acceso a la conectividad y al uso de las tecnologías de la información y las comunicaciones (TIC)."
+    },
+    {
+        "id": 8,
+        "caso": "Un funcionario de la Alcaldía de Cajicá se encarga de la gestión de un proyecto de software para la gestión de trámites. El funcionario debe asegurarse de que el software cumpla con la normatividad de protección de datos personales. ",
+        "enunciado": "¿Qué ley es el principal soporte normativo para la protección de los datos personales?",
+        "opciones": [
+            "A. Ley 1273 de 2009, que tipifica los delitos informáticos.",
+            "B. Ley 1581 de 2012, que regula el tratamiento y protección de la privacidad en bases de datos.",
+            "C. Ley 1712 de 2014, que regula el derecho de acceso a la información pública y la transparencia."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 1581 de 2012, conocida como la Ley de Protección de Datos Personales, establece el régimen de habeas data y las obligaciones de protección de información sensible. El funcionario debe asegurarse de que el software cumpla con los requisitos de esta ley para proteger la información personal de los ciudadanos."
+    },
+    {
+        "id": 9,
+        "caso": "Un proyecto del Plan Estratégico de Tecnologías de la Información (PETI) de la Alcaldía de Cajicá busca implementar un sistema de autenticación digital para los ciudadanos que desean realizar trámites en línea. ",
+        "enunciado": "La implementación de este sistema se enmarca en la regulación de los 'Servicios Ciudadanos Digitales' de:",
+        "opciones": [
+            "A. El Decreto 1078 de 2015, que compila toda la normativa del sector TIC.",
+            "B. El Decreto 620 de 2020, que regula los lineamientos para la implementación de los Servicios Ciudadanos Digitales (SCD).",
+            "C. El Decreto 767 de 2022, que es el eje de la Política de Gobierno Digital (PGD)."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El Decreto 620 de 2020 regula los lineamientos para la implementación y operación de los 'Servicios Ciudadanos Digitales (SCD)', que incluyen la autenticación digital. El proyecto de la Alcaldía se alinea con esta regulación para estandarizar la interacción entre el Estado y el ciudadano."
+    },
+    {
+        "id": 10,
+        "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá te pide que elabores un informe sobre el cumplimiento del 'Modelo de Seguridad y Privacidad de la Información' (MSPI). ",
+        "enunciado": "¿Qué decreto reglamenta el 'Modelo de Seguridad y Privacidad de la Información'?",
+        "opciones": [
+            "A. El Decreto 1078 de 2015, que compila toda la normativa del sector TIC.",
+            "B. El Decreto 2573 de 2014, que establece las políticas de seguridad digital.",
+            "C. El Decreto 815 de 2018, que establece las competencias comportamentales de los servidores públicos."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El Decreto 2573 de 2014 establece las políticas de seguridad digital en Colombia y reglamenta el 'Modelo de Seguridad y Privacidad de la Información' (MSPI)[cite: 3]. El informe de la Secretaría TIC debe basarse en este decreto para evaluar el cumplimiento del modelo."
+    },
+    {
+        "id": 11,
+        "caso": "Un funcionario de la Alcaldía de Cajicá se encarga de la gestión de un proyecto de software para la gestión de trámites. El funcionario debe asegurarse de que el software cumpla con la normatividad de protección de datos personales. ",
+        "enunciado": "¿Qué ley es el principal soporte normativo para la protección de los datos personales?",
+        "opciones": [
+            "A. Ley 1273 de 2009, que tipifica los delitos informáticos.",
+            "B. Ley 1581 de 2012, que regula el tratamiento y protección de la privacidad en bases de datos.",
+            "C. Ley 1712 de 2014, que regula el derecho de acceso a la información pública y la transparencia."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 1581 de 2012, conocida como la Ley de Protección de Datos Personales, establece el régimen de habeas data y las obligaciones de protección de información sensible. El funcionario debe asegurarse de que el software cumpla con los requisitos de esta ley para proteger la información personal de los ciudadanos."
+    },
+    {
+        "id": 12,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para llevar conectividad a zonas rurales del municipio. El proyecto debe estar alineado con el principio de 'Acceso Universal y Servicio Esencial'. ",
+        "enunciado": "¿Qué ley declara el acceso a Internet como un servicio esencial y universal en Colombia?",
+        "opciones": [
+            "A. Ley 1341 de 2009, que define el marco de organización para el sector TIC.",
+            "B. Ley 2108 de 2021, que declara el acceso a Internet un servicio esencial y universal en Colombia.",
+            "C. Ley 1978 de 2019, que moderniza la gestión pública mediante TIC."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 2108 de 2021 declara el acceso a Internet un servicio esencial y universal en Colombia, lo que obliga a las entidades públicas a garantizar que todos los ciudadanos tengan acceso a la conectividad y al uso de las tecnologías de la información y las comunicaciones (TIC)."
+    },
+    {
+        "id": 13,
+        "caso": "La Alcaldía de Cajicá decide implementar un portal de datos abiertos para publicar información sobre los contratos, presupuestos y planes de acción de la entidad. ",
+        "enunciado": "La implementación de este portal se relaciona con los principios regulatorios de:",
+        "opciones": [
+            "A. Acceso Universal y Servicio Esencial, que buscan que todos los ciudadanos tengan oportunidades iguales de conectividad.",
+            "B. Protección de la Información y Privacidad, que buscan proteger los datos personales de la ciudadanía.",
+            "C. Transparencia, Datos Abiertos y Ciudadanía Digital, que buscan facilitar el acceso público a la información[cite: 2]."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La implementación de un portal de datos abiertos se relaciona con los principios regulatorios de Transparencia, Datos Abiertos y Ciudadanía Digital. Las entidades deben facilitar el acceso público a la información para fomentar la transparencia y la rendición de cuentas."
+    },
+    {
+        "id": 14,
+        "caso": "Un proyecto del Plan Estratégico de Tecnologías de la Información (PETI) de la Alcaldía de Cajicá busca implementar un sistema de autenticación de dos factores (MFA) para el acceso a la red de la entidad. ",
+        "enunciado": "La implementación de este proyecto se enmarca en la regulación de los 'Servicios Ciudadanos Digitales' de:",
+        "opciones": [
+            "A. El Decreto 1078 de 2015, que compila toda la normativa del sector TIC.",
+            "B. El Decreto 620 de 2020, que regula los lineamientos para la implementación de los Servicios Ciudadanos Digitales (SCD).",
+            "C. El Decreto 767 de 2022, que es el eje de la Política de Gobierno Digital (PGD)."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El Decreto 620 de 2020 regula los lineamientos para la implementación y operación de los 'Servicios Ciudadanos Digitales (SCD)', que incluyen la autenticación digital. El proyecto de la Alcaldía se alinea con esta regulación para estandarizar la interacción entre el Estado y el ciudadano."
+    },
+    {
+        "id": 15,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para llevar conectividad a zonas rurales del municipio. El proyecto debe estar alineado con el principio de 'Acceso Universal y Servicio Esencial'. ",
+        "enunciado": "¿Qué ley declara el acceso a Internet como un servicio esencial y universal en Colombia?",
+        "opciones": [
+            "A. Ley 1341 de 2009, que define el marco de organización para el sector TIC.",
+            "B. Ley 2108 de 2021, que declara el acceso a Internet un servicio esencial y universal en Colombia.",
+            "C. Ley 1978 de 2019, que moderniza la gestión pública mediante TIC."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 2108 de 2021 declara el acceso a Internet un servicio esencial y universal en Colombia, lo que obliga a las entidades públicas a garantizar que todos los ciudadanos tengan acceso a la conectividad y al uso de las tecnologías de la información y las comunicaciones (TIC)."
+    },
+    {
+        "id": 16,
+        "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá te pide que elabores un informe sobre el cumplimiento de la Ley de Transparencia. El informe debe incluir un listado de la información que debe ser publicada de forma proactiva en el portal web de la entidad. ",
+        "enunciado": "¿Qué ley es el principal soporte normativo para la elaboración de este informe?",
+        "opciones": [
+            "A. Ley 1341 de 2009, que regula el acceso a los servicios de telecomunicación.",
+            "B. Ley 1712 de 2014, que regula el derecho de acceso a la información pública y la transparencia.",
+            "C. Ley 1581 de 2012, que regula la protección de datos personales."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 1712 de 2014, conocida como la 'Ley de Transparencia', regula el derecho fundamental de acceso a la información pública y obliga a las entidades a publicar de forma proactiva información relevante para la ciudadanía[cite: 1, 3]."
+    },
+    {
+        "id": 17,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para llevar conectividad a zonas rurales del municipio. El proyecto debe estar alineado con el principio de 'Acceso Universal y Servicio Esencial'. ",
+        "enunciado": "¿Qué ley declara el acceso a Internet como un servicio esencial y universal en Colombia?",
+        "opciones": [
+            "A. Ley 1341 de 2009, que define el marco de organización para el sector TIC.",
+            "B. Ley 2108 de 2021, que declara el acceso a Internet un servicio esencial y universal en Colombia.",
+            "C. Ley 1978 de 2019, que moderniza la gestión pública mediante TIC."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 2108 de 2021 declara el acceso a Internet un servicio esencial y universal en Colombia, lo que obliga a las entidades públicas a garantizar que todos los ciudadanos tengan acceso a la conectividad y al uso de las tecnologías de la información y las comunicaciones (TIC)."
+    },
+    {
+        "id": 18,
+        "caso": "La Alcaldía de Cajicá decide implementar un portal de datos abiertos para publicar información sobre los contratos, presupuestos y planes de acción de la entidad. ",
+        "enunciado": "La implementación de este portal se relaciona con los principios regulatorios de:",
+        "opciones": [
+            "A. Acceso Universal y Servicio Esencial, que buscan que todos los ciudadanos tengan oportunidades iguales de conectividad.",
+            "B. Protección de la Información y Privacidad, que buscan proteger los datos personales de la ciudadanía.",
+            "C. Transparencia, Datos Abiertos y Ciudadanía Digital, que buscan facilitar el acceso público a la información[cite: 2]."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La implementación de un portal de datos abiertos se relaciona con los principios regulatorios de Transparencia, Datos Abiertos y Ciudadanía Digital. Las entidades deben facilitar el acceso público a la información para fomentar la transparencia y la rendición de cuentas."
+    },
+    {
+        "id": 19,
+        "caso": "Un proyecto del Plan Estratégico de Tecnologías de la Información (PETI) de la Alcaldía de Cajicá busca implementar un sistema de autenticación de dos factores (MFA) para el acceso a la red de la entidad. ",
+        "enunciado": "De acuerdo con el Decreto 767 de 2022, la implementación de este proyecto se alinea con la política de:",
+        "opciones": [
+            "A. Gobierno Digital, que es el marco de referencia para la transformación digital del Estado colombiano.",
+            "B. Seguridad Digital, que es el conjunto de prácticas y tecnologías para proteger la información.",
+            "C. Normatividad de TIC, que es el conjunto de leyes, decretos y regulaciones que rigen el uso de la tecnología."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "El Decreto 767 de 2022 es el eje de la Política de Gobierno Digital, que es el marco de referencia para la transformación digital del Estado colombiano[cite: 2]. La implementación de un sistema de autenticación de dos factores (MFA) es una acción que se alinea directamente con esta política, ya que busca fortalecer la seguridad digital y la confianza de la ciudadanía en el Estado."
+    },
+    {
+        "id": 20,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para llevar conectividad a zonas rurales del municipio. El proyecto debe estar alineado con el principio de 'Acceso Universal y Servicio Esencial'. ",
+        "enunciado": "¿Qué ley declara el acceso a Internet como un servicio esencial y universal en Colombia?",
+        "opciones": [
+            "A. Ley 1341 de 2009, que define el marco de organización para el sector TIC.",
+            "B. Ley 2108 de 2021, que declara el acceso a Internet un servicio esencial y universal en Colombia.",
+            "C. Ley 1978 de 2019, que moderniza la gestión pública mediante TIC."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley 2108 de 2021 declara el acceso a Internet un servicio esencial y universal en Colombia, lo que obliga a las entidades públicas a garantizar que todos los ciudadanos tengan acceso a la conectividad y al uso de las tecnologías de la información y las comunicaciones (TIC)."
+    },
+
+    {
+    "id": 21,
+    "caso": "La Alcaldía de Cajicá está promoviendo una nueva política de 'Gobierno Digital' para mejorar la atención al ciudadano y la eficiencia administrativa. Para ello, se ha decidido implementar un nuevo sistema de gestión de trámites en línea. Sin embargo, en una mesa de trabajo, el jefe de la Oficina Jurídica manifiesta que la digitalización de los trámites debe cumplir con los principios de la 'Política de Gobierno Digital'.",
+    "enunciado": "La acción más estratégica, en línea con la normatividad de las TIC, para dar cumplimiento a la 'Política de Gobierno Digital' es:",
+    "opciones": [
+        "A. Acelerar la implementación del sistema de gestión de trámites, sin importar si no se cumplen con todos los requisitos de la 'Política de Gobierno Digital', ya que la modernización de la gestión pública es la prioridad.",
+        "B. Diseñar el sistema de gestión de trámites de forma que se ajuste a los componentes y habilitadores de la 'Política de Gobierno Digital', como la seguridad, la gestión de la información y los servicios digitales.",
+        "C. Ignorar la recomendación del jefe de la Oficina Jurídica, argumentando que la 'Política de Gobierno Digital' es una directriz del Gobierno Nacional y no se aplica en el ámbito territorial."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'Política de Gobierno Digital' es el marco de referencia para la transformación digital del Estado colombiano, y las entidades territoriales deben alinear sus acciones con ella. La acción más estratégica es 'diseñar el sistema de gestión de trámites de forma que se ajuste a los componentes y habilitadores de la 'Política de Gobierno Digital', lo que garantiza el cumplimiento de la normatividad y la eficiencia en la gestión pública."
+},
+{
+    "id": 22,
+    "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá le pide que elabore un informe para el Concejo Municipal sobre el avance de los proyectos de tecnologías de la información. El Concejo solicita que el informe incluya una sección sobre la protección de los datos personales de los ciudadanos y de los funcionarios, en línea con la 'Política de Seguridad y Privacidad de la Información'.",
+    "enunciado": "La ley que establece los principios y las obligaciones para el tratamiento de datos personales en el sector público es:",
+    "opciones": [
+        "A. Ley 1712 de 2014, que establece el derecho de acceso a la información pública.",
+        "B. Ley 909 de 2004, que regula el sistema de carrera administrativa.",
+        "C. Ley 1581 de 2012, que establece el régimen general de protección de datos personales en Colombia."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La Ley 1581 de 2012 es la norma que establece los principios y las obligaciones para el tratamiento de datos personales en Colombia. La elaboración del informe debe tener en cuenta esta ley, ya que es el marco legal para la protección de los datos personales de los ciudadanos y los funcionarios."
+},
+{
+    "id": 23,
+    "caso": "La Alcaldía de Cajicá está formulando el Plan Estratégico de Tecnologías de la Información (PETI). El plan debe incluir un 'Modelo de Seguridad y Privacidad de la Información' que se ajuste a la normatividad vigente. Un funcionario de la Alcaldía argumenta que la seguridad de la información es un gasto innecesario y que se debe priorizar la inversión en proyectos que generen un retorno económico a corto plazo.",
+    "enunciado": "La acción más profesional y estratégica, en línea con la normatividad de las TIC, para justificar la inversión en seguridad es:",
+    "opciones": [
+        "A. Argumentar que la inversión en seguridad es un requisito legal y que la Alcaldía podría enfrentar sanciones si no cumple con la normatividad.",
+        "B. Demostrar que la inversión en seguridad de la información protege los activos de la entidad, garantiza la 'disponibilidad' y 'confidencialidad' de los datos, y evita pérdidas financieras a largo plazo.",
+        "C. Ignorar la opinión del funcionario y proceder con la formulación del PETI, sin importar si no se cumple con la normatividad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La seguridad de la información no es solo un requisito legal, es un pilar de la gestión pública. La acción más profesional es 'demostrar que la inversión en seguridad de la información protege los activos de la entidad, garantiza la 'disponibilidad' y 'confidencialidad' de los datos, y evita pérdidas financieras a largo plazo', lo que se alinea con la 'gestión de riesgos' y el 'gobierno de la seguridad de la información'."
+},
+{
+    "id": 24,
+    "caso": "La Alcaldía de Cajicá ha recibido una solicitud de un ciudadano, a través de una petición formal, para que se entregue un informe detallado sobre los proyectos de tecnologías de la información que se han ejecutado en el último año. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto. Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública.",
+    "enunciado": "La ley que establece el derecho de acceso a la información pública y la obligación de las entidades de publicarla de forma proactiva es:",
+    "opciones": [
+        "A. Ley 1712 de 2014, que regula el derecho de acceso a la información pública.",
+        "B. Ley 1581 de 2012, que establece el régimen general de protección de datos personales.",
+        "C. Ley 909 de 2004, que regula el sistema de carrera administrativa."
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La Ley 1712 de 2014 es la norma que regula el derecho fundamental de acceso a la información pública. La elaboración del informe debe tener en cuenta esta ley, ya que es el marco legal para la transparencia y la rendición de cuentas."
+},
+{
+    "id": 25,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno en Línea' que busca garantizar la transparencia y el acceso a la información pública a través de plataformas digitales. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "La normatividad que establece el marco de referencia para la Política de Gobierno Digital en Colombia es:",
+    "opciones": [
+        "A. Ley 1712 de 2014, que establece el derecho de acceso a la información pública.",
+        "B. Decreto 1008 de 2018, que establece el marco de referencia para la Política de Gobierno Digital.",
+        "C. Ley 1581 de 2012, que establece el régimen general de protección de datos personales."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El Decreto 1008 de 2018 es la norma que establece el marco de referencia para la Política de Gobierno Digital en Colombia. La acción más adecuada es 'diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible', lo que se alinea con este decreto."
+},
+{
+    "id": 26,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 27,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 28,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 29,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 30,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 31,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 32,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 33,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 34,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 35,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 36,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 37,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 38,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 39,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 40,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 41,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 42,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 43,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 44,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 45,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+    },
+    {
+        "id": 46,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+    },
+    {
+        "id": 47,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+    },
+    {
+        "id": 48,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 49,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+    },
+    {
+        "id": 50,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+    },
+
+    {
+  "id": 51,
+  "caso": "Como profesional universitario de la Secretaría TIC de Cajicá, debes implementar un nuevo sistema de recaudo tributario que procesará datos personales de contribuyentes. El alcalde solicita agilizar el proceso omitiendo algunas medidas de seguridad.",
+  "enunciado": "¿Qué acción debe tomar según la normativa TIC colombiana?",
+  "opciones": [
+    "A. Implementar el sistema sin las medidas solicitadas para cumplir con los plazos establecidos por el alcalde.",
+    "B. Solicitar por escrito la dispensa de medidas de seguridad al Ministerio de Tecnologías de la Información y Comunicaciones.",
+    "C. Explicar al alcalde que la Ley 1581 de 2012 exige implementar medidas de seguridad obligatorias para protección de datos."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "La Ley 1581 de 2012 (Protección de Datos Personales) establece la obligatoriedad de implementar medidas de seguridad para el tratamiento de datos personales. Ninguna autoridad puede ordenar omitir estas medidas, ya que son de cumplimiento obligatorio para todas las entidades públicas."
+},
+{
+  "id": 52,
+  "caso": "La Alcaldía de Cajicá adquirió un software de gestión documental que requiere almacenar información en servidores ubicados fuera de Colombia. El proveedor asegura que cumple con todos los estándares internacionales de seguridad.",
+  "enunciado": "Según la normativa TIC colombiana, ¿qué debe verificar el profesional universitario antes de autorizar esta implementación?",
+  "opciones": [
+    "A. Verificar que el país destino tenga nivel adecuado de protección de datos según estándares internacionales.",
+    "B. Asegurarse de que el alcalde autorice expresamente la transferencia internacional de datos.",
+    "C. Confirmar que se cuente con autorización previa e informada de los titulares de los datos para la transferencia internacional."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "El artículo 26 de la Ley 1581 de 2012 establece que para la transferencia internacional de datos personales se requiere autorización previa e informada del titular, excepto en los casos excepcionales previstos en la ley. El nivel de protección del país destino es un factor adicional pero no sustituye la autorización del titular."
+},
+{
+  "id": 53,
+  "caso": "Un ciudadano solicita mediante derecho de petición toda la información relacionada con su expediente de licencia de construcción, incluyendo correos electrónicos internos entre funcionarios que contienen opiniones técnicas.",
+  "enunciado": "¿Cómo debe proceder según la Ley de Transparencia y Acceso a la Información Pública?",
+  "opciones": [
+    "A. Entregar toda la información solicitada incluyendo los correos electrónicos, ya que son parte del expediente.",
+    "B. Negar el acceso a los correos electrónicos por contener información de deliberaciones internas protegida por reserva legal.",
+    "C. Solicitar autorización al procurador para revelar los correos electrónicos por tratarse de documentación oficial."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El artículo 19 de la Ley 1712 de 2014 establece que tiene carácter reservado la información que corresponda a deliberaciones internas de las entidades públicas, siempre que su divulgación pueda afectar el proceso de toma de decisiones. Los correos con opiniones técnicas entran en esta categoría."
+},
+{
+  "id": 54,
+  "caso": "La Secretaría de Hacienda requiere compartir con la DIAN la base de datos de contribuyentes morosos de Cajicá para un operativo conjunto de recaudo.",
+  "enunciado": "¿Qué requisito normativo debe cumplirse para este tratamiento de datos?",
+  "opciones": [
+    "A. Obtener autorización previa de la Superintendencia de Industria y Comercio por tratarse de transferencia entre entidades públicas.",
+    "B. Verificar que el tratamiento cumpla una finalidad legal y se encuentre dentro de las excepciones de autorización prevista en la Ley 1581 de 2012.",
+    "C. Solicitar autorización expresa de cada uno de los contribuyentes morosos para compartir su información con la DIAN."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El artículo 10 de la Ley 1581 de 2012 establece que no se requiere autorización del titular cuando el tratamiento de datos cumpla una finalidad legal y sea realizado por entidades públicas en ejercicio de sus funciones legales. El recaudo tributario es una función legal de ambas entidades."
+},
+{
+  "id": 55,
+  "caso": "Durante una auditoría de seguridad, se identifica que un funcionario accedió indebidamente a historias clínicas del hospital municipal por curiosidad, sin causar daño aparente.",
+  "enunciado": "¿Qué medidas debe tomar el responsable del tratamiento de datos según la normativa vigente?",
+  "opciones": [
+    "A. Amonestar verbalmente al funcionario por tratarse de un acceso sin consecuencias graves.",
+    "B. Reportar el incidente ante la SIC y tomar medidas correctivas aunque no haya habido daño evidente.",
+    "C. Documentar el incidente internamente pero no reportarlo por no haber divulgación de información."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El Decreto 1074 de 2015 (Decreto Único del Sector Comercio) establece la obligación de reportar ante la SIC los incidentes de seguridad que afecten o puedan afectar la confidencialidad, integridad o disponibilidad de los datos personales, independientemente de si hubo daño efectivo."
+},
+{
+  "id": 56,
+  "caso": "La Alcaldía de Cajicá implementará un sistema de videovigilancia en espacios públicos para mejorar la seguridad. El sistema incluye reconocimiento facial.",
+  "enunciado": "¿Qué requisito específico establece la normativa TIC para este tipo de tratamiento de datos?",
+  "opciones": [
+    "A. Realizar una evaluación de impacto sobre la protección de datos y implementar medidas de seguridad reforzadas.",
+    "B. Obtener autorización previa del Ministerio de Defensa por tratarse de sistemas de seguridad nacional.",
+    "C. Limitar el tratamiento únicamente a horario nocturno cuando el riesgo delictivo es mayor."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "El artículo 2.2.2.25.3.3 del Decreto 1074 de 2015 establece que los tratamientos que utilicen tecnologías de vigilancia como reconocimiento facial requieren realizar una evaluación de impacto y implementar medidas de seguridad reforzadas, dado el alto riesgo para los derechos de los titulares."
+},
+{
+  "id": 57,
+  "caso": "Un ciudadano solicita la eliminación de sus datos personales del sistema de información de morosos de la Alcaldía, argumentando que ya pagó su deuda hace seis meses.",
+  "enunciado": "¿Cómo debe proceder la entidad según la normativa de protección de datos?",
+  "opciones": [
+    "A. Eliminar inmediatamente los datos por haber cumplido la finalidad del tratamiento.",
+    "B. Mantener los datos por cinco años más según las tablas de retención documental.",
+    "C. Bloquear los datos en el sistema pero conservarlos por el tiempo establecido en la ley."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "El artículo 9 de la Ley 1581 de 2012 establece el derecho del titular a solicitar la supresión de sus datos, pero las entidades públicas deben conservar la información por los plazos establecidos en las tablas de retención documental. La solución es bloquear los datos para que no sean accesibles pero conservarlos por el tiempo legal requerido."
+},
+{
+  "id": 58,
+  "caso": "La Secretaría de Planeación requiere publicar en datos abiertos información estadística sobre estratificación socioeconómica que incluye datos sensibles de sectores específicos.",
+  "enunciado": "¿Qué principio de la Ley 1712 de 2014 debe aplicarse en este caso?",
+  "opciones": [
+    "A. Principio de máxima publicidad, que obliga a publicar toda la información disponible.",
+    "B. Principio de divulgación proactiva, que prioriza la transparencia sobre otros derechos.",
+    "C. Principio de balance, que armoniza el acceso a la información con la protección de datos personales."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "El artículo 3 de la Ley 1712 de 2014 establece el principio de balance, que requiere armonizar el derecho de acceso a la información pública con los derechos fundamentales a la intimidad, privacidad y protección de datos personales. Los datos sensibles requieren tratamiento especial antes de su publicación."
+},
+{
+  "id": 59,
+  "caso": "El sistema de información catastral de la Alcaldía sufrió un ciberataque que comprometió datos personales de propietarios de predios. El incidente fue controlado en 2 horas.",
+  "enunciado": "¿Qué obligación tiene la entidad según el Esquema de Seguridad y Privacidad de la Información?",
+  "opciones": [
+    "A. Notificar inmediatamente a los titulares afectados y reportar el incidente a la SIC dentro de las 72 horas.",
+    "B. Realizar una investigación interna pero no notificar para no alarmar innecesariamente a los ciudadanos.",
+    "C. Documentar el incidente y reportarlo solo si se comprueba que hubo acceso no autorizado a los datos."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "El Decreto 1074 de 2015 establece la obligación de notificar a los titulares afectados y reportar a la SIC dentro de las 72 horas siguientes a la detección del incidente, independientemente de la magnitud del mismo o de si se comprobó acceso efectivo a los datos."
+},
+{
+  "id": 60,
+  "caso": "La Alcaldía implementará un chatbot con inteligencia artificial para atención al ciudadano que procesará datos personales para personalizar respuestas.",
+  "enunciado": "¿Qué requisito específico establece la Circular 002 de 2023 del MinTIC?",
+  "opciones": [
+    "A. Realizar pruebas de sesgo algorítmico y garantizar transparencia en el funcionamiento del sistema.",
+    "B. Obtener autorización previa de la Agencia Digital Nacional para implementar sistemas de IA.",
+    "C. Limitar el uso de IA a consultas generales sin tratamiento de datos personales."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "La Circular 002 de 2023 del MinTIC establece lineamientos para el uso de IA en el sector público, incluyendo la obligación de realizar pruebas de sesgo algorítmico, garantizar transparencia en el funcionamiento y implementar mecanismos de supervisión humana."
+},
+{
+  "id": 61,
+  "caso": "Un funcionario de la Secretaría de Gobierno envió por error un correo con datos personales de ciudadanos a una lista de distribución externa.",
+  "enunciado": "¿Qué procedimiento debe activar el oficial de seguridad de la información?",
+  "opciones": [
+    "A. Solicitar a todos los destinatarios que eliminen el correo y confirmar por escrito su cumplimiento.",
+    "B. Activar el protocolo de gestión de incidentes y reportar según los plazos establecidos en la normativa.",
+    "C. Realizar una investigación disciplinaria contra el funcionario antes de tomar cualquier otra medida."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El Esquema de Seguridad y Privacidad de la Información establece que ante cualquier incidente de seguridad que afecte datos personales se debe activar inmediatamente el protocolo de gestión de incidentes, which incluye el reporte a las autoridades competentes dentro de los plazos establecidos."
+},
+{
+  "id": 62,
+  "caso": "La Contraloría Municipal solicita acceso completo a los metadatos de correos electrónicos de funcionarios de la Secretaría TIC para una investigación.",
+  "enunciado": "¿Qué debe verificar el profesional universitario antes de proporcionar la información?",
+  "opciones": [
+    "A. Que la solicitud esté debidamente motivada y sea proporcional a los fines de la investigación.",
+    "B. Que el contralor municipal haya autorizado personalmente la solicitud de información.",
+    "C. Que se cuente con autorización previa de los funcionarios cuyos metadatos se solicitan."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "El artículo 18 de la Ley 1712 de 2014 establece que las solicitudes de acceso a información pública deben evaluarse considerando los principios de motivación, proporcionalidad y finalidad. Los metadatos de correos pueden contener información personal protegida, por lo que debe verificarse que la solicitud cumpla con estos principios."
+},
+{
+  "id": 63,
+  "caso": "La Alcaldía adquirió licencias de software mediante contrato directo, argumentando que solo un proveedor cumple con los requisitos técnicos específicos.",
+  "enunciado": "¿Qué excepción del Estatuto de Contratación aplica en este caso?",
+  "opciones": [
+    "A. La excepción por unión temporal para proyectos de alta complejidad técnica.",
+    "B. La excepción por ausencia de oferentes en procesos de licitación previos.",
+    "C. La excepción por necesidad técnica comprobada que justifique la contratación directa."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "El artículo 2.2.1.1.3 del Decreto 1082 de 2015 (Decreto Único de la Presidencia) establece que procede la contratación directa cuando se demuestra técnica y razonadamente que solo un proveedor cumple con las especificaciones técnicas requeridas para el software."
+},
+{
+  "id": 64,
+  "caso": "El Plan de Transformación Digital de la Alcaldía incluye la migración de todos los sistemas a la nube pública. El Personero cuestiona esta decisión por riesgos de seguridad.",
+  "enunciado": "¿Qué documento normativo debe consultarse para resolver esta controversia?",
+  "opciones": [
+    "A. El CONPES 3920 de 2018 que establece la política de cloud computing para el sector público.",
+    "B. La Ley 527 de 1999 que regula el comercio electrónico y las firmas digitales.",
+    "C. El Decreto 19 de 2012 que prohíbe el almacenamiento de datos públicos en nubes internacionales."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "El CONPES 3920 de 2018 establece la política para la adopción de computación en la nube en el sector público, incluyendo lineamientos de seguridad, estándares técnicos y condiciones para el uso de nubes públicas, lo que resuelve la controversia planteada."
+},
+{
+  "id": 65,
+  "caso": "Un ciudadano solicita copia de toda la información que la Alcaldía tiene sobre él, incluyendo registros de videovigilancia donde aparece.",
+  "enunciado": "¿Cómo debe proceder la entidad según el derecho de hábeas data?",
+  "opciones": [
+    "A. Entregar solo la información documental pero negar el acceso a registros de videovigilancia por seguridad.",
+    "B. Proporcionar toda la información solicitada incluyendo los registros donde aparece el ciudadano.",
+    "C. Solicitar autorización judicial previa para entregar registros de videovigilancia."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El artículo 15 de la Constitución y la Ley 1581 de 2012 garantizan el derecho de hábeas data, que incluye el acceso a toda la información personal que repose en bancos de datos, incluyendo registros de videovigilancia donde aparezca el titular de los datos."
+},
+{
+  "id": 66,
+  "caso": "La Secretaría de Salud implementará una historia clínica electrónica que compartirá información con EPS y IPS del municipio.",
+  "enunciado": "¿Qué principio de interoperabilidad debe garantizarse según el Marco de Referencia de Arquitectura Empresarial?",
+  "opciones": [
+    "A. Principio de seguridad sobre facilidad de uso, limitando el intercambio de información.",
+    "B. Principio de neutralidad tecnológica, evitando dependencia de proveedores específicos.",
+    "C. Principio de soberanía tecnológica, privilegiando soluciones nacionales."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El Marco de Referencia de Arquitectura Empresarial del MinTIC establece el principio de neutralidad tecnológica, que garantiza que las soluciones de interoperabilidad no creen dependencia de proveedores específicos y permitan el intercambio de información entre diferentes sistemas y entidades."
+},
+{
+  "id": 67,
+  "caso": "Durante una auditoría, se identifica que la Alcaldía no tiene actualizado el Registro Nacional de Bases de Datos ante la SIC.",
+  "enunciado": "¿Qué consecuencia legal puede enfrentar la entidad?",
+  "opciones": [
+    "A. Multas hasta por 2.000 SMLMV por incumplimiento del deber de registro.",
+    "B. Suspensión inmediata de todos los tratamientos de datos personales.",
+    "C. Investigación disciplinaria contra el alcalde por omisión en sus funciones."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "El artículo 23 de la Ley 1581 de 2012 establece sanciones por incumplimiento de los deberes previstos en la ley, incluyendo multas hasta por 2.000 SMLMV por no mantener actualizado el Registro Nacional de Bases de Datos ante la SIC."
+},
+{
+  "id": 68,
+  "caso": "La Alcaldía implementará un sistema de votación electrónica para consultas ciudadanas. Un grupo de veedores cuestiona la transparencia del sistema.",
+  "enunciado": "¿Qué exige la normativa colombiana para sistemas de votación electrónica?",
+  "opciones": [
+    "A. Auditoría externa previa y verificación ciudadana de los resultados.",
+    "B. Autorización previa del Consejo Nacional Electoral para su implementación.",
+    "C. Uso exclusivo de software desarrollado por la Registraduría Nacional."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La Ley 1475 de 2011 y el Decreto 2241 de 2016 establecen que los sistemas de votación electrónica requieren autorización previa del Consejo Nacional Electoral, que verifica el cumplimiento de estándares de seguridad, transparencia y auditabilidad."
+},
+{
+  "id": 69,
+  "caso": "Un funcionario utiliza software sin licencia en su equipo oficial argumentando que es para agilizar trámites ciudadanos.",
+  "enunciado": "¿Qué establece la normativa TIC sobre el uso de software legal en entidades públicas?",
+  "opciones": [
+    "A. Permite el uso de software sin licencia para fines oficiales bajo responsabilidad del funcionario.",
+    "B. Exige el uso exclusivo de software libre para garantizar la soberanía tecnológica.",
+    "C. Requiere el uso de software legalmente adquirido con licencias adecuadas para cada necesidad."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "La Directiva Presidencial 01 de 2018 sobre uso de software en entidades públicas establece la obligación de utilizar software legalmente adquirido con licencias adecuadas, prohibiendo expresamente el uso de software sin licencia independientemente de la finalidad."
+},
+{
+  "id": 70,
+  "caso": "La Alcaldía debe destruir documentos físicos que contienen datos personales después de digitalizarlos.",
+  "enunciado": "¿Qué método de destrucción garantiza el cumplimiento normativo?",
+  "opciones": [
+    "A. Entrega a empresa recicladora certificada que garantice la destrucción segura.",
+    "B. Destrucción interna con trituradora de papel que cumpla con estándares de seguridad.",
+    "C. Incineración controlada con acta de destrucción firmada por testigos."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "La Norma Técnica Colombiana NTC-ISO/IEC 21964 sobre destrucción segura de información establece que para documentos con datos personales se requiere entrega a empresa recicladora certificada que garantice la destrucción segura mediante métodos que impidan la reconstrucción de la información."
+},
+{
+  "id": 71,
+  "caso": "El sistema de información geográfica de la Alcaldía contiene datos de ubicación exacta de infraestructura crítica que podría ser vulnerable si se divulga.",
+  "enunciado": "¿Cómo debe manejarse esta información según el principio de seguridad nacional?",
+  "opciones": [
+    "A. Clasificarla como información reservada según los criterios de la Ley 1712 de 2014.",
+    "B. Divulgarla proactivamente como datos abiertos para transparencia en la gestión.",
+    "C. Eliminarla de los sistemas para prevenir cualquier riesgo de seguridad."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "El artículo 19 de la Ley 1712 de 2014 permite clasificar como reservada la información cuya divulgación pueda afectar la seguridad nacional o la seguridad pública. La ubicación exacta de infraestructura crítica entra en esta categoría."
+},
+{
+  "id": 72,
+  "caso": "La Alcaldía implementará firma digital avanzada para todos los actos administrativos. Algunos funcionarios se resisten por complejidad técnica.",
+  "enunciado": "¿Qué establece la Ley 527 de 1999 sobre el uso de firma digital en entidades públicas?",
+  "opciones": [
+    "A. Es obligatoria para todos los actos administrativos que requieran forma escrita.",
+    "B. Es opcional y depende de la decisión de cada dependencia según su presupuesto.",
+    "C. Es requerida solo para actos administrativos de especial trascendencia económica."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "La Ley 527 de 1999 y el Decreto 1062 de 2015 establecen la obligatoriedad del uso de firma digital avanzada para todos los actos administrativos que requieran forma escrita, con el fin de garantizar autenticidad, integridad y no repudio."
+},
+{
+  "id": 73,
+  "caso": "Un ciudadano solicita corrección de sus datos en el sistema de información catastral porque su predio fue erroneamente clasificado en estrato 4 instead of 3.",
+  "enunciado": "¿Qué plazo tiene la Alcaldía para responder esta solicitud?",
+  "opciones": [
+    "A. 10 días hábiles según el derecho de petición establecido en la Ley 1437 de 2011.",
+    "B. 15 días hábiles según el término para corrección de datos establecido en la Ley 1581 de 2012.",
+    "C. 30 días calendario por tratarse de información técnica que requiere verificación de campo."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El artículo 14 de la Ley 1581 de 2012 establece que las solicitudes de actualización, rectificación o supresión de datos personales deben ser respondidas en un plazo máximo de quince (15) días hábiles contados a partir de la fecha de recibo de la solicitud."
+},
+{
+  "id": 74,
+  "caso": "La Secretaría TIC quiere implementar software de monitoreo de productividad que captura pantallas de los funcionarios cada 5 minutos.",
+  "enunciado": "¿Qué requisito establece la normativa de protección de datos para este tratamiento?",
+  "opciones": [
+    "A. Notificar previamente a la Procuraduría General por tratarse de vigilancia a funcionarios públicos.",
+    "B. Realizar evaluación de impacto y obtener autorización expresa de los funcionarios afectados.",
+    "C. Limitar el monitoreo a áreas críticas y horarios específicos de alta productividad."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El artículo 7 del Decreto 1074 de 2015 establece que los tratamientos que impliquen vigilancia o monitoreo de empleados requieren evaluación de impacto previa y autorización expresa de los titulares, además de cumplir con el principio de finalidad y proporcionalidad."
+},
+{
+  "id": 75,
+  "caso": "La Alcaldía de Cajicá fue multada por la SIC por no reportar un incidente de seguridad. El alcalde solicifica apelar la decisión.",
+  "enunciado": "¿Qué recurso procede contra actos de la Superintendencia de Industria y Comercio?",
+  "opciones": [
+    "A. Recurso de reposición ante la misma Superintendencia de Industria y Comercio.",
+    "B. Recurso de apelación ante el Ministerio de Comercio, Industria y Turismo.",
+    "C. Recurso de apelación ante la Sala Jurisdiccional del Consejo de Estado."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "El artículo 25 de la Ley 1581 de 2012 establece que contra los actos de la Superintendencia de Industria y Comercio que impongan sanciones por incumplimiento a la ley procede el recurso de reposición, que debe interponerse ante la misma Superintendencia dentro de los cinco días hábiles siguientes a la notificación."
+},
+
+{
+"id": 76,
+"caso": "La Alcaldía de Cajicá sigue los lineamientos del Decreto 767 de 2022 para la implementación del gobierno digital, incluyendo la conformación de la estrategia digital y la interoperabilidad de sus sistemas.",
+"enunciado": "¿Cuál es el objetivo principal del Decreto 767 de 2022 dentro del sector TIC?",
+"opciones": [
+"A. Establecer las reglas para la contratación pública en bienes TIC.",
+"B. Reglamentar el marco de política de gobierno digital y habilitadores digitales.",
+"C. Regular la gestión financiera de proyectos tecnológicos."
+],
+"respuesta_correcta": "B",
+"explicacion": "El Decreto 767 de 2022 establece el marco normativo para la política de gobierno digital y los habilitadores digitales como la interoperabilidad y la autenticación digital, orientado a transformar la gestión pública."
+},
+{
+"id": 77,
+"caso": "Un nuevo sistema para atención al ciudadano requiere protección integral de datos personales, siguiendo la Ley 1581 de 2012.",
+"enunciado": "¿Cuál es un requisito fundamental que debe cumplir el sistema en materia de datos?",
+"opciones": [
+"A. Almacenamiento sin limitaciones de acceso y sin consentimiento.",
+"B. Garantizar consentimiento informado, seguridad y derecho de acceso a los datos.",
+"C. Permitir acceso a terceros sin restricciones."
+],
+"respuesta_correcta": "B",
+"explicacion": "La Ley 1581 protege los datos personales y exige consentimiento, medidas de seguridad y derechos para los titulares de la información."
+},
+{
+"id": 78,
+"caso": "El área de TIC de la Alcaldía publica información presupuestal en su portal web, atendiendo los principios de la Ley 1712 de 2014.",
+"enunciado": "¿Cuál de las siguientes acciones es correcta según la Ley 1712?",
+"opciones": [
+"A. Publicar documentos completos de forma abierta para facilitar la transparencia pública.",
+"B. Restringir el acceso a información presupuestal para evitar críticas.",
+"C. Limitar la divulgación solo a funcionarios autorizados."
+],
+"respuesta_correcta": "A",
+"explicacion": "La Ley 1712 promueve la transparencia mediante la publicación proactiva y directa de información pública relevante."
+},
+{
+"id": 79,
+"caso": "Como responsable de la gestión TIC en un municipio, debes garantizar que las compras de software cumplan con la normatividad vigente.",
+"enunciado": "¿Qué aspecto normativo es prioritario certificar en el proceso de compra?",
+"opciones": [
+"A. Que el software esté debidamente licenciado y cumpla estándares de interoperabilidad.",
+"B. Comprar el software más barato disponible.",
+"C. Seleccionar software sin certificación para agilizar la compra."
+],
+"respuesta_correcta": "A",
+"explicacion": "La normatividad exige asegurar licencias legales y compatibilidad para garantizar seguridad y eficiencia."
+},
+{
+"id": 80,
+"caso": "La Alcaldía implementa un sistema de autenticación digital para trámites en línea conforme a las directrices de MinTIC.",
+"enunciado": "¿Qué ley o decreto sustenta la validez jurídica de la firma digital en Colombia?",
+"opciones": [
+"A. Ley 527 de 1999, que regula la firma y comercio electrónico.",
+"B. Decreto 620 de 2020, que regula únicamente el correo electrónico.",
+"C. Ley 1437 de 2011, que regula sentencia judicial."
+],
+"respuesta_correcta": "A",
+"explicacion": "La Ley 527 establece el reconocimiento legal de la firma digital y el comercio electrónico."
+},
+{
+"id": 81,
+"caso": "Se detecta una posible vulneración de la seguridad informática en la base de datos de trámites, y debe responderse conforme a la normatividad vigente.",
+"enunciado": "¿Cuál es la legislación que regula el reporte y manejo de incidentes de seguridad en entidades públicas?",
+"opciones": [
+"A. Decreto 1089 de 2018, que establece la política de ciberseguridad.",
+"B. Ley 80 de 1993, sobre contratación pública.",
+"C. Decreto 1083 de 2015, que regula salarios públicos."
+],
+"respuesta_correcta": "A",
+"explicacion": "El Decreto 1089 define los lineamientos de ciberseguridad, incluyendo la gestión de incidentes en entidades públicas."
+},
+{
+"id": 82,
+"caso": "Un ciudadano realiza una petición electrónica solicitando información pública que debe ser respondida oportunamente según la normatividad.",
+"enunciado": "¿Qué ley garantiza el derecho a la información y define los tiempos para contestar en Colombia?",
+"opciones": [
+"A. Ley 1712 de 2014, que dicta disposiciones sobre transparencia y acceso a la información pública.",
+"B. Ley 1581 de 2012, enfocada en datos personales.",
+"C. Ley 23 de 1982, sobre propiedad intelectual."
+],
+"respuesta_correcta": "A",
+"explicacion": "La Ley 1712 establece el derecho de acceso a la información pública y obliga a las entidades a responder en los plazos establecidos."
+},
+{
+"id": 83,
+"caso": "Como gestor TIC, debes garantizar que la infraestructura cumpla con estándares técnicos nacionales para interoperabilidad.",
+"enunciado": "¿Cuál documento oficial define los estándares e indicadores obligatorios para la interoperabilidad en Colombia?",
+"opciones": [
+"A. Marco de interoperabilidad para el Estado Colombiano, expedido por MinTIC.",
+"B. Ley 1581 de 2012",
+"C. Decreto 2609 de 1991"
+],
+"respuesta_correcta": "A",
+"explicacion": "El Marco de interoperabilidad establecido por MinTIC detalla las reglas técnicas y administrativas para la conexión de sistemas estatales."
+},
+{
+"id": 84,
+"caso": "Debes diseñar un plan de capacitación de funcionarios en el uso seguro y responsable de las tecnologías de información.",
+"enunciado": "¿Qué normativa debe ser la base para este plan en cuanto a protección de datos y ciberseguridad?",
+"opciones": [
+"A. Ley 1581 de 2012 y Decreto 1089 de 2018.",
+"B. Ley 80 de 1993 y Decreto 1083 de 2015.",
+"C. Ley 527 de 1999 solamente."
+],
+"respuesta_correcta": "A",
+"explicacion": "La protección de datos y gestión de ciberseguridad se basa en estas normativas que regulan la seguridad y privacidad en TIC."
+},
+{
+"id": 85,
+"caso": "Al comprar hardware para la alcaldía, se presentan dudas sobre el cumplimiento de especificaciones técnicas y legales.",
+"enunciado": "¿Qué normativa o estándar debe guiar el proceso de adquisición y validación?",
+"opciones": [
+"A. Decreto 1083 de 2015 y documentos técnicos del MinTIC.",
+"B. Ley 1437 de 2011 para el procedimiento administrativo.",
+"C. Ley 23 de 1982."
+],
+"respuesta_correcta": "A",
+"explicacion": "El decreto y las especificaciones técnicas oficiales garantizan la legalidad y calidad del proceso y los productos."
+},
+{
+"id": 86,
+"caso": "Durante una auditoría, se descubre que datos personales de ciudadanos están siendo compartidos sin autorización.",
+"enunciado": "¿Qué ley protege estos datos y regula su tratamiento en Colombia?",
+"opciones": [
+"A. Ley 1581 de 2012, sobre protección de datos personales.",
+"B. Ley 1712 de 2014.",
+"C. Ley 527 de 1999."
+],
+"respuesta_correcta": "A",
+"explicacion": "La Ley 1581 es la norma que establece los derechos y deberes en relación con el manejo de datos personales."
+},
+{
+"id": 87,
+"caso": "Un funcionario solicita que se habilite un nuevo software para gestión interna en la alcaldía, pero no está incluido en el catálogo oficial de programas licenciados.",
+"enunciado": "De acuerdo con la normatividad vigente, ¿qué debe hacerse?",
+"opciones": [
+"A. Revisar el cumplimiento de licencias y estándares antes de autorizar la instalación.",
+"B. Instalar el software de todos modos para no retrasar procesos.",
+"C. Negar el software sin revisión alguna."
+],
+"respuesta_correcta": "A",
+"explicacion": "Legalmente se debe verificar licencias y compatibilidad para cumplir políticas de seguridad y propiedad intelectual."
+},
+{
+"id": 88,
+"caso": "El sistema de atención en línea requiere implementar autenticación digital estratificada para cumplir con leyes nacionales.",
+"enunciado": "¿Qué documento establece la validez y obligaciones en firma digital y autenticación?",
+"opciones": [
+"A. Ley 527 de 1999 y Decreto 620 de 2020.",
+"B. Ley 1581 de 2012.",
+"C. Decreto 1083 de 2015."
+],
+"respuesta_correcta": "A",
+"explicacion": "Estos regulan el uso de firmas electrónicas y mecanismos seguros de autenticación en procesos digitales."
+},
+{
+"id": 89,
+"caso": "La Alcaldía debe publicar periódicamente informes sobre avances en proyectos TIC y gobierno digital.",
+"enunciado": "¿Qué norma establece la obligación de publicar información pública de la gestión?",
+"opciones": [
+"A. Ley 1712 de 2014 sobre Transparencia y Acceso a la Información Pública.",
+"B. Ley 805 de 2003.",
+"C. Decreto 1083 de 2015."
+],
+"respuesta_correcta": "A",
+"explicacion": "La Ley 1712 obliga a las entidades a publicar información pública y rendir cuentas mediante medios digitales."
+},
+{
+"id": 90,
+"caso": "Se descubre un intento de acceso no autorizado al sistema central de la Alcaldía. Debe actuarse conforme a normativa.",
+"enunciado": "¿Qué reglamentación regula las respuestas ante incidentes de ciberseguridad en entidades públicas?",
+"opciones": [
+"A. Decreto 1089 de 2018 por MinTIC.",
+"B. Ley 80 de 1993.",
+"C. Ley 1273 de 2009."
+],
+"respuesta_correcta": "A",
+"explicacion": "Este decreto establece las políticas de seguridad y el manejo de incidentes para proteger las TIC del Estado."
+},
+{
+"id": 91,
+"caso": "La Alcaldía formula un plan para incorporar tecnologías de acceso universal y gobernanza de espectro.",
+"enunciado": "¿Qué ley ofrece el marco general para asegurar la banda ancha y servicios de telecomunicaciones en Colombia?",
+"opciones": [
+"A. Ley 1341 de 2009.",
+"B. Ley 1581 de 2012.",
+"C. Ley 1712 de 2014."
+],
+"respuesta_correcta": "A",
+"explicacion": "Es la norma base que define la política sectorial del servicio público de telecomunicaciones."
+},
+{
+"id": 92,
+"caso": "El jefe de informática debe garantizar que los sistemas tengan registro de acceso para auditorías y cumplimiento normativo.",
+"enunciado": "¿En qué normativa se establecen estos requerimientos?",
+"opciones": [
+"A. Decreto 620 de 2020 y Marco de interoperabilidad.",
+"B. Ley 2108 de 2021.",
+"C. Decreto 1083 de 2015."
+],
+"respuesta_correcta": "A",
+"explicacion": "Estos lineamientos establecen la obligatoriedad de registros sistematizados para asegurar transparencia y rastreabilidad."
+},
+{
+"id": 93,
+"caso": "La Alcaldía implementa Zonas Wi-Fi Públicas en la comunidad bajo lineamientos regulatorios nacionales.",
+"enunciado": "Según la normatividad, ¿qué principio debe garantizarse en la gestión de estas redes?",
+"opciones": [
+"A. Neutralidad en el uso del servicio y acceso universal gradual.",
+"B. Restricción total para salvaguardar recursos.",
+"C. Acceso exclusivo para funcionarios."
+],
+"respuesta_correcta": "A",
+"explicacion": "La neutralidad y expansión gradual de acceso son principios clave en la política pública sectorial."
+},
+{
+"id": 94,
+"caso": "La contratación de tecnología para la Alcaldía incluye requisitos legales de propiedad intelectual y garantías.",
+"enunciado": "¿Qué norma en Colombia regula estas obligaciones en adquisiciones TIC?",
+"opciones": [
+"A. Ley 1455 y Código de Propiedad Industrial.",
+"B. Ley 1273 de 2009.",
+"C. Ley 80 de 1993."
+],
+"respuesta_correcta": "C",
+"explicacion": "La Ley 80 regula la contratación pública y obliga al cumplimiento de los aspectos legales en adquisiciones."
+},
+{
+"id": 95,
+"caso": "Como gestor TIC, debes elaborar el Plan Estratégico de Tecnologías que cumpla requisitos normativos y estratégicos.",
+"enunciado": "¿Qué decreto especifica la obligatoriedad y contenido del PETI en entidades públicas?",
+"opciones": [
+"A. Decreto 767 de 2022.",
+"B. Decreto 620 de 2020.",
+"C. Decreto 1089 de 2018."
+],
+"respuesta_correcta": "A",
+"explicacion": "El Decreto 767 establece la exigencia de planes estratégicos TIC en alineación con la política de gobierno digital."
+},
+{
+"id": 96,
+"caso": "Se estipula la necesidad de implementar políticas de acceso y autenticación seguras para empleados y usuarios.",
+"enunciado": "¿Qué ley o decreto reglamenta la autenticación digital en Colombia?",
+"opciones": [
+"A. Ley 527 de 1999 y Decreto 620 de 2020.",
+"B. Ley 135 de 1994.",
+"C. Decreto 1083 de 2015."
+],
+"respuesta_correcta": "A",
+"explicacion": "Estos instrumentos regulan la autenticación digital y la validez jurídica de las firmas electrónicas."
+},
+{
+"id": 97,
+"caso": "La Alcaldía debe presentar reportes de avance del cumplimiento de la política de gobierno digital al MinTIC.",
+"enunciado": "¿Qué documento oficial define los indicadores para medir el cumplimiento en TIC?",
+"opciones": [
+"A. Cartilla de indicadores del MinTIC y la Política de Gobierno Digital.",
+"B. Ley 80 de 1993.",
+"C. Decreto 1083 de 2015."
+],
+"respuesta_correcta": "A",
+"explicacion": "El MinTIC publica indicadores para evaluar la gestión de TIC y transformación digital en entidades públicas."
+},
+{
+"id": 98,
+"caso": "Durante la reforma de la arquitectura de información se identifican nuevas amenazas y vulnerabilidades que requieren acción inmediata.",
+"enunciado": "¿Cuál es el marco normativo que debe orientar las medidas de seguridad adoptadas?",
+"opciones": [
+"A. Decreto 1089 de 2018 y lineamientos de MinTIC.",
+"B. Ley 1581 de 2012.",
+"C. Ley 1712 de 2014."
+],
+"respuesta_correcta": "A",
+"explicacion": "Este decreto establece protocolos para la gestión de riesgos y la protección efectiva de la infraestructura TIC."
+},
+{
+"id": 99,
+"caso": "El jefe de TIC realiza un inventario de software para verificar que todo tiene licencia válida de uso.",
+"enunciado": "¿Por qué es importante cumplir con la normatividad en licencias de software?",
+"opciones": [
+"A. Para evitar sanciones legales y garantizar legitimidad de las operaciones.",
+"B. Para reducir costos ignorando aspectos legales.",
+"C. Porque generalmente no tiene impacto en la gestión."
+],
+"respuesta_correcta": "A",
+"explicacion": "Cumplir con licencias evita riesgos legales, sanciones y mejora la gobernanza TIC."
+},
+{
+"id": 100,
+"caso": "La Alcaldía formula un plan para la gestión documental que debe cumplir con requisitos legales de conservación y acceso.",
+"enunciado": "¿Qué normativa regula la conservación y publicación de información documental en Colombia?",
+"opciones": [
+"A. Ley 594 de 2000 y Decreto 1083 de 2015.",
+"B. Ley 1712 de 2014.",
+"C. Ley 1581 de 2012."
+],
+"respuesta_correcta": "A",
+"explicacion": "La Ley 594 reglamenta la gestión archivística, conservación y acceso a los documentos públicos."
+}
+
+]

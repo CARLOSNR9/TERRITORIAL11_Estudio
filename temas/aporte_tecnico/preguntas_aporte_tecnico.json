@@ -1,0 +1,1087 @@
+[
+    {
+        "id": 1,
+        "caso": "El Alcalde de Cajicá te solicita que prepares un informe técnico sobre la viabilidad de implementar un nuevo sistema de gestión documental. El informe será la base para tomar una decisión de inversión de gran envergadura. ",
+        "enunciado": "La elaboración de este informe es un ejemplo de tu 'Aporte Técnico-Profesional'. ¿Qué componente de esta competencia estás demostrando?",
+        "opciones": [
+            "A. Solución de Problemas, ya que estás resolviendo una necesidad de la entidad.",
+            "B. Formulación y Planeación de Proyectos, ya que estás definiendo la viabilidad de un proyecto.",
+            "C. Asesoría y Asistencia Técnica, ya que estás usando tu experticia para influir positivamente en la toma de decisiones."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "Una de las formas más directas de tu 'Aporte Técnico-Profesional' es a través de la asesoría. Tu rol es 'proyectar informes y resolver consultas allegadas a la Dirección en relación con su área de conocimiento'[cite: 709, 741], lo que implica usar tu experticia para la toma de decisiones informadas."
+    },
+    {
+        "id": 2,
+        "caso": "Durante una reunión del Subcomité Municipal de Sistemas de Información, se presenta un problema de lentitud en la red de la Alcaldía. Los demás miembros del subcomité no tienen un conocimiento técnico profundo y te piden que propongas una solución. ",
+        "enunciado": "La acción de proponer una solución se enmarca en la dimensión del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. Análisis Técnico, ya que debes interpretar la información para diagnosticar el problema y proponer una solución.",
+            "B. Liderazgo, ya que estás tomando la iniciativa de proponer una solución.",
+            "C. Comunicación Efectiva, ya que debes explicar la solución de forma clara y concisa."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "El 'Análisis Técnico' es una dimensión del Aporte Técnico-Profesional que se enfoca en la capacidad de diagnóstico de problemas, la evaluación de alternativas técnicas y el análisis de viabilidad y riesgos. Tu rol es clave para 'desarrollar el soporte técnico en el Subcomité Municipal de Sistemas de Información'[cite: 710, 742], lo que implica el uso de tu capacidad analítica para resolver problemas."
+    },
+    {
+        "id": 3,
+        "caso": "Una de tus funciones es 'Establecer la formulación, implementación, seguimiento y actualización del Plan Estratégico de Tecnologías de la Información'[cite: 703, 735].",
+        "enunciado": "Esta función demuestra que tu aporte no se limita a la solución de problemas, sino que se extiende a:",
+        "opciones": [
+            "A. La implementación y el seguimiento de proyectos.",
+            "B. La formulación y la planeación de proyectos.",
+            "C. La solución de problemas complejos."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La función de 'Establecer la formulación, implementación, seguimiento y actualización del Plan Estratégico de Tecnologías de la Información' [cite: 703, 735] es un ejemplo claro de tu 'Aporte Técnico-Profesional' en la formulación y la planeación de proyectos. Tu conocimiento técnico es la base para la formulación de iniciativas estratégicas que generen valor público."
+    },
+    {
+        "id": 4,
+        "caso": "El jefe de la Secretaría TIC te pide que evalúes el desempeño de una nueva plataforma de trámites en línea. Te pide que identifiques los puntos de mejora y que propongas una solución para optimizar el servicio.",
+        "enunciado": "La acción de identificar los puntos de mejora y proponer una solución se enmarca en la dimensión del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. Solución de Problemas, ya que estás resolviendo una necesidad de la entidad.",
+            "B. Innovación y Mejora, ya que estás aplicando tu conocimiento para optimizar un proceso.",
+            "C. Análisis Técnico, ya que estás interpretando datos para diagnosticar un problema."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'Innovación y Mejora' es una dimensión del Aporte Técnico-Profesional que se enfoca en la aplicación de nuevas tecnologías y metodologías para la optimización de procesos y la generación de ideas de mejora continua. Tu rol es clave para la 'mejora continua y la calidad de los mismos'[cite: 713], lo que implica que debes utilizar tu conocimiento para optimizar la gestión de la entidad."
+    },
+    {
+        "id": 5,
+        "caso": "Una de tus funciones es 'desarrollar, implementar y hacer el seguimiento al Modelo de Seguridad y Privacidad de la Información para la Administración Municipal'[cite: 705, 737].",
+        "enunciado": "Esta función demuestra que tu 'Aporte Técnico-Profesional' es clave para:",
+        "opciones": [
+            "A. La planeación de proyectos, ya que el modelo de seguridad es un componente del PETI.",
+            "B. La implementación y el seguimiento de proyectos, ya que eres el responsable de llevar a cabo el modelo de seguridad.",
+            "C. La solución de problemas complejos, ya que el modelo de seguridad previene los ataques cibernéticos."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La función de 'desarrollar, implementar y hacer el seguimiento al Modelo de Seguridad y Privacidad de la Información para la Administración Municipal' [cite: 705, 737] es un ejemplo claro de tu 'Aporte Técnico-Profesional' en la implementación y el seguimiento de proyectos. Tu conocimiento técnico es la base para llevar a cabo el modelo de seguridad, medir su impacto y proponer mejoras."
+    },
+    {
+        "id": 6,
+        "caso": "Durante la formulación del Plan Estratégico de Tecnologías de la Información (PETI), el jefe de la Secretaría TIC te pide que le expliques la diferencia entre el 'Inventario Físico' y el 'Inventario Lógico' de la entidad.",
+        "enunciado": "La acción de explicar la diferencia entre los dos conceptos se enmarca en la dimensión del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. Conocimiento Especializado, ya que debes dominar los conceptos de tu disciplina profesional.",
+            "B. Solución de Problemas, ya que estás resolviendo una duda del jefe de la Secretaría TIC.",
+            "C. Comunicación Efectiva, ya que debes explicar un concepto técnico de forma clara y concisa."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "El 'Conocimiento Especializado' es una dimensión del Aporte Técnico-Profesional que se enfoca en el dominio de la disciplina profesional. Tu rol es el experto en el área de TIC, por lo que debes dominar los conceptos técnicos y normativos para 'proyectar informes y resolver consultas allegadas a la Dirección en relación con su área de conocimiento'[cite: 709, 741]."
+    },
+    {
+        "id": 7,
+        "caso": "El jefe de la Secretaría TIC te pide que elabores un informe sobre el desempeño de la infraestructura de la entidad. El informe debe incluir un análisis de la causa raíz de los problemas de la red y una propuesta de solución para optimizar el servicio.",
+        "enunciado": "La acción de elaborar el informe se enmarca en la dimensión del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. Análisis Técnico, ya que debes interpretar datos para diagnosticar un problema.",
+            "B. Solución de Problemas, ya que estás resolviendo una necesidad de la entidad.",
+            "C. Asesoría y Asistencia Técnica, ya que estás usando tu experticia para influir positivamente en la toma de decisiones."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'Solución de Problemas' es una dimensión del Aporte Técnico-Profesional que se enfoca en la identificación de causas raíces, el diseño de soluciones técnicas apropiadas y la implementación de acciones correctivas. El informe que debes elaborar es un ejemplo de esta dimensión, ya que busca resolver un problema de la infraestructura de la entidad."
+    },
+    {
+        "id": 8,
+        "caso": "Una de tus funciones es 'Establecer la formulación, implementación, seguimiento y actualización del Plan Estratégico de Tecnologías de la Información'[cite: 703, 735].",
+        "enunciado": "Esta función se relaciona directamente con el ámbito de aplicación del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. En la Formulación de Proyectos, ya que el PETI es el marco de referencia principal para la formulación de cualquier proyecto informático.",
+            "B. En la Implementación, ya que eres el responsable de llevar a cabo el PETI.",
+            "C. En la Evaluación, ya que debes medir el impacto del PETI en la entidad."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La función de 'Establecer la formulación, implementación, seguimiento y actualización del Plan Estratégico de Tecnologías de la Información' [cite: 703, 735] se relaciona directamente con el ámbito de aplicación de 'Formulación de Proyectos'. Tu conocimiento técnico es la base para la formulación de iniciativas estratégicas que generen valor público."
+    },
+    {
+        "id": 9,
+        "caso": "Durante una reunión del Subcomité Municipal de Sistemas de Información, se debate la adquisición de un nuevo software para la gestión de proyectos. El software debe ser compatible con los sistemas internos de la entidad para garantizar la interoperabilidad. ",
+        "enunciado": "Tu 'Aporte Técnico-Profesional' en este escenario se basa en el componente de:",
+        "opciones": [
+            "A. Solución de Problemas, ya que estás resolviendo una necesidad de la entidad.",
+            "B. Formulación y Planeación de Proyectos, ya que estás definiendo la viabilidad de un proyecto.",
+            "C. Asesoría y Asistencia Técnica, ya que tu opinión técnica es crucial para la 'instrumentación de decisiones'."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El 'Aporte Técnico-Profesional' se hace evidente a través de la 'Asesoría y Asistencia Técnica'. Al 'desarrollar el soporte técnico en el Subcomité Municipal de Sistemas de Información' [cite: 710, 742], tu opinión técnica es crucial para la 'instrumentación de decisiones' [cite: 726, 743] relacionadas con la adquisición de un nuevo software."
+    },
+    {
+        "id": 10,
+        "caso": "El jefe de la Secretaría TIC te pide que elabores un informe sobre el desempeño de una nueva plataforma de trámites en línea. Te pide que identifiques los puntos de mejora y que propongas una solución para optimizar el servicio.",
+        "enunciado": "La acción de identificar los puntos de mejora y proponer una solución se enmarca en la dimensión del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. Solución de Problemas, ya que estás resolviendo una necesidad de la entidad.",
+            "B. Innovación y Mejora, ya que estás aplicando tu conocimiento para optimizar un proceso.",
+            "C. Análisis Técnico, ya que estás interpretando datos para diagnosticar un problema."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'Innovación y Mejora' es una dimensión del Aporte Técnico-Profesional que se enfoca en la aplicación de nuevas tecnologías y metodologías para la optimización de procesos y la generación de ideas de mejora continua. Tu rol es clave para la 'mejora continua y la calidad de los mismos'[cite: 713], lo que implica que debes utilizar tu conocimiento para optimizar la gestión de la entidad."
+    },
+    {
+        "id": 11,
+        "caso": "Una de tus funciones es 'desarrollar, implementar y hacer el seguimiento al Modelo de Seguridad y Privacidad de la Información para la Administración Municipal'[cite: 705, 737].",
+        "enunciado": "Esta función demuestra que tu 'Aporte Técnico-Profesional' es clave para:",
+        "opciones": [
+            "A. La planeación de proyectos, ya que el modelo de seguridad es un componente del PETI.",
+            "B. La implementación y el seguimiento de proyectos, ya que eres el responsable de llevar a cabo el modelo de seguridad.",
+            "C. La solución de problemas complejos, ya que el modelo de seguridad previene los ataques cibernéticos."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La función de 'desarrollar, implementar y hacer el seguimiento al Modelo de Seguridad y Privacidad de la Información para la Administración Municipal' [cite: 705, 737] es un ejemplo claro de tu 'Aporte Técnico-Profesional' en la implementación y el seguimiento de proyectos. Tu conocimiento técnico es la base para llevar a cabo el modelo de seguridad, medir su impacto y proponer mejoras."
+    },
+    {
+        "id": 12,
+        "caso": "Durante la formulación del Plan Estratégico de Tecnologías de la Información (PETI), el jefe de la Secretaría TIC te pide que le expliques la diferencia entre el 'Inventario Físico' y el 'Inventario Lógico' de la entidad.",
+        "enunciado": "La acción de explicar la diferencia entre los dos conceptos se enmarca en la dimensión del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. Conocimiento Especializado, ya que debes dominar los conceptos de tu disciplina profesional.",
+            "B. Solución de Problemas, ya que estás resolviendo una duda del jefe de la Secretaría TIC.",
+            "C. Comunicación Efectiva, ya que debes explicar un concepto técnico de forma clara y concisa."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "El 'Conocimiento Especializado' es una dimensión del Aporte Técnico-Profesional que se enfoca en el dominio de la disciplina profesional. Tu rol es el experto en el área de TIC, por lo que debes dominar los conceptos técnicos y normativos para 'proyectar informes y resolver consultas allegadas a la Dirección en relación con su área de conocimiento'[cite: 709, 741]."
+    },
+    {
+        "id": 13,
+        "caso": "El jefe de la Secretaría TIC te pide que elabores un informe sobre el desempeño de la infraestructura de la entidad. El informe debe incluir un análisis de la causa raíz de los problemas de la red y una propuesta de solución para optimizar el servicio.",
+        "enunciado": "La acción de elaborar el informe se enmarca en la dimensión del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. Análisis Técnico, ya que debes interpretar datos para diagnosticar un problema.",
+            "B. Solución de Problemas, ya que estás resolviendo una necesidad de la entidad.",
+            "C. Asesoría y Asistencia Técnica, ya que estás usando tu experticia para influir positivamente en la toma de decisiones."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'Solución de Problemas' es una dimensión del Aporte Técnico-Profesional que se enfoca en la identificación de causas raíces, el diseño de soluciones técnicas apropiadas y la implementación de acciones correctivas. El informe que debes elaborar es un ejemplo de esta dimensión, ya que busca resolver un problema de la infraestructura de la entidad."
+    },
+    {
+        "id": 14,
+        "caso": "Una de tus funciones es 'Establecer la formulación, implementación, seguimiento y actualización del Plan Estratégico de Tecnologías de la Información'[cite: 703, 735].",
+        "enunciado": "Esta función se relaciona directamente con el ámbito de aplicación del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. En la Formulación de Proyectos, ya que el PETI es el marco de referencia principal para la formulación de cualquier proyecto informático.",
+            "B. En la Implementación, ya que eres el responsable de llevar a cabo el PETI.",
+            "C. En la Evaluación, ya que debes medir el impacto del PETI en la entidad."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La función de 'Establecer la formulación, implementación, seguimiento y actualización del Plan Estratégico de Tecnologías de la Información' [cite: 703, 735] se relaciona directamente con el ámbito de aplicación de 'Formulación de Proyectos'. Tu conocimiento técnico es la base para la formulación de iniciativas estratégicas que generen valor público."
+    },
+    {
+        "id": 15,
+        "caso": "Durante una reunión del Subcomité Municipal de Sistemas de Información, se debate la adquisición de un nuevo software para la gestión de proyectos. El software debe ser compatible con los sistemas internos de la entidad para garantizar la interoperabilidad. ",
+        "enunciado": "Tu 'Aporte Técnico-Profesional' en este escenario se basa en el componente de:",
+        "opciones": [
+            "A. Solución de Problemas, ya que estás resolviendo una necesidad de la entidad.",
+            "B. Formulación y Planeación de Proyectos, ya que estás definiendo la viabilidad de un proyecto.",
+            "C. Asesoría y Asistencia Técnica, ya que tu opinión técnica es crucial para la 'instrumentación de decisiones'."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El 'Aporte Técnico-Profesional' se hace evidente a través de la 'Asesoría y Asistencia Técnica'. Al 'desarrollar el soporte técnico en el Subcomité Municipal de Sistemas de Información' [cite: 710, 742], tu opinión técnica es crucial para la 'instrumentación de decisiones' [cite: 726, 743] relacionadas con la adquisición de un nuevo software."
+    },
+    {
+        "id": 16,
+        "caso": "El jefe de la Secretaría TIC te pide que elabores un informe sobre el desempeño de una nueva plataforma de trámites en línea. Te pide que identifiques los puntos de mejora y que propongas una solución para optimizar el servicio.",
+        "enunciado": "La acción de identificar los puntos de mejora y proponer una solución se enmarca en la dimensión del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. Solución de Problemas, ya que estás resolviendo una necesidad de la entidad.",
+            "B. Innovación y Mejora, ya que estás aplicando tu conocimiento para optimizar un proceso.",
+            "C. Análisis Técnico, ya que estás interpretando datos para diagnosticar un problema."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'Innovación y Mejora' es una dimensión del Aporte Técnico-Profesional que se enfoca en la aplicación de nuevas tecnologías y metodologías para la optimización de procesos y la generación de ideas de mejora continua. Tu rol es clave para la 'mejora continua y la calidad de los mismos'[cite: 713], lo que implica que debes utilizar tu conocimiento para optimizar la gestión de la entidad."
+    },
+    {
+        "id": 17,
+        "caso": "Una de tus funciones es 'desarrollar, implementar y hacer el seguimiento al Modelo de Seguridad y Privacidad de la Información para la Administración Municipal'[cite: 705, 737].",
+        "enunciado": "Esta función demuestra que tu 'Aporte Técnico-Profesional' es clave para:",
+        "opciones": [
+            "A. La planeación de proyectos, ya que el modelo de seguridad es un componente del PETI.",
+            "B. La implementación y el seguimiento de proyectos, ya que eres el responsable de llevar a cabo el modelo de seguridad.",
+            "C. La solución de problemas complejos, ya que el modelo de seguridad previene los ataques cibernéticos."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La función de 'desarrollar, implementar y hacer el seguimiento al Modelo de Seguridad y Privacidad de la Información para la Administración Municipal' [cite: 705, 737] es un ejemplo claro de tu 'Aporte Técnico-Profesional' en la implementación y el seguimiento de proyectos. Tu conocimiento técnico es la base para llevar a cabo el modelo de seguridad, medir su impacto y proponer mejoras."
+    },
+    {
+        "id": 18,
+        "caso": "Durante la formulación del Plan Estratégico de Tecnologías de la Información (PETI), el jefe de la Secretaría TIC te pide que le expliques la diferencia entre el 'Inventario Físico' y el 'Inventario Lógico' de la entidad.",
+        "enunciado": "La acción de explicar la diferencia entre los dos conceptos se enmarca en la dimensión del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. Conocimiento Especializado, ya que debes dominar los conceptos de tu disciplina profesional.",
+            "B. Solución de Problemas, ya que estás resolviendo una duda del jefe de la Secretaría TIC.",
+            "C. Comunicación Efectiva, ya que debes explicar un concepto técnico de forma clara y concisa."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "El 'Conocimiento Especializado' es una dimensión del Aporte Técnico-Profesional que se enfoca en el dominio de la disciplina profesional. Tu rol es el experto en el área de TIC, por lo que debes dominar los conceptos técnicos y normativos para 'proyectar informes y resolver consultas allegadas a la Dirección en relación con su área de conocimiento'[cite: 709, 741]."
+    },
+    {
+        "id": 19,
+        "caso": "El jefe de la Secretaría TIC te pide que elabores un informe sobre el desempeño de la infraestructura de la entidad. El informe debe incluir un análisis de la causa raíz de los problemas de la red y una propuesta de solución para optimizar el servicio.",
+        "enunciado": "La acción de elaborar el informe se enmarca en la dimensión del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. Análisis Técnico, ya que debes interpretar datos para diagnosticar un problema.",
+            "B. Solución de Problemas, ya que estás resolviendo una necesidad de la entidad.",
+            "C. Asesoría y Asistencia Técnica, ya que estás usando tu experticia para influir positivamente en la toma de decisiones."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'Solución de Problemas' es una dimensión del Aporte Técnico-Profesional que se enfoca en la identificación de causas raíces, el diseño de soluciones técnicas apropiadas y la implementación de acciones correctivas. El informe que debes elaborar es un ejemplo de esta dimensión, ya que busca resolver un problema de la infraestructura de la entidad."
+    },
+    {
+        "id": 20,
+        "caso": "Una de tus funciones es 'Establecer la formulación, implementación, seguimiento y actualización del Plan Estratégico de Tecnologías de la Información'[cite: 703, 735].",
+        "enunciado": "Esta función se relaciona directamente con el ámbito de aplicación del Aporte Técnico-Profesional de:",
+        "opciones": [
+            "A. En la Formulación de Proyectos, ya que el PETI es el marco de referencia principal para la formulación de cualquier proyecto informático.",
+            "B. En la Implementación, ya que eres el responsable de llevar a cabo el PETI.",
+            "C. En la Evaluación, ya que debes medir el impacto del PETI en la entidad."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La función de 'Establecer la formulación, implementación, seguimiento y actualización del Plan Estratégico de Tecnologías de la Información' [cite: 703, 735] se relaciona directamente con el ámbito de aplicación de 'Formulación de Proyectos'. Tu conocimiento técnico es la base para la formulación de iniciativas estratégicas que generen valor público."
+    },
+
+    {
+    "id": 21,
+    "caso": "La Alcaldía de Cajicá está considerando la implementación de un 'Portal de Trámites en Línea' para mejorar la atención al ciudadano y la eficiencia administrativa. El jefe de la Secretaría TIC le ha solicitado a usted que prepare una presentación para el Subcomité Municipal de Sistemas de Información que justifique la inversión en el proyecto. El subcomité está conformado por miembros que tienen un conocimiento limitado de la tecnología, por lo que la presentación debe ser clara y concisa.",
+    "enunciado": "La acción más estratégica y en línea con la competencia de 'Comunicación Efectiva' en el 'Aporte Técnico-Profesional' es:",
+    "opciones": [
+        "A. Elaborar una presentación con un alto nivel de detalle técnico, utilizando jerga especializada para demostrar su conocimiento en el tema.",
+        "B. Preparar una presentación que se enfoque en los beneficios del proyecto, como la reducción de costos y la mejora de la satisfacción del ciudadano, y que utilice un lenguaje claro y conciso.",
+        "C. Ignorar la necesidad de una presentación y simplemente enviar un informe técnico detallado por correo electrónico a los miembros del Subcomité."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'Comunicación Efectiva' es una competencia clave del 'Aporte Técnico-Profesional'. La acción más estratégica es 'preparar una presentación que se enfoque en los beneficios del proyecto' y que utilice un lenguaje claro y conciso, lo que garantiza que el mensaje sea comprendido por todos los miembros del Subcomité."
+},
+{
+    "id": 22,
+    "caso": "El jefe de la Secretaría de Hacienda ha solicitado su asesoría para la formulación de un nuevo proyecto informático que busca automatizar los procesos de gestión de impuestos. El proyecto tiene un alto impacto en los ingresos del municipio, por lo que el jefe de la Secretaría de Hacienda ha manifestado su preocupación por la seguridad de la información. Usted, como Profesional Universitario de la Secretaría TIC, ha sido asignado para liderar la formulación de este proyecto.",
+    "enunciado": "La acción más profesional y estratégica en la fase de 'Formulación y Planeación de Proyectos' es:",
+    "opciones": [
+        "A. Desarrollar un plan de trabajo que se enfoque únicamente en la automatización de los procesos, sin considerar la seguridad de la información, ya que es un tema que se debe abordar en la fase de implementación.",
+        "B. Formular el proyecto de forma que incluya un 'Plan de Seguridad y Privacidad de la Información' que se ajuste a la normatividad vigente y que garantice la confidencialidad, integridad y disponibilidad de los datos.",
+        "C. Recomendar que el proyecto sea desarrollado por un tercero sin la intervención de la Secretaría TIC, para no asumir la responsabilidad de la seguridad de la información."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El 'Aporte Técnico-Profesional' se hace evidente en la 'Formulación y Planeación de Proyectos'. La acción más profesional es 'formular el proyecto de forma que incluya un 'Plan de Seguridad y Privacidad de la Información', lo que demuestra tu capacidad para gestionar los riesgos y para garantizar la seguridad de la información de la entidad."
+},
+{
+    "id": 23,
+    "caso": "La Alcaldía de Cajicá, en un esfuerzo por mejorar la transparencia, ha implementado un nuevo 'Repositorio de Datos Abiertos'. Este repositorio permite a los ciudadanos acceder a información pública de la entidad, como presupuestos, contratos y licitaciones. Sin embargo, en una auditoría interna se ha detectado que la información del repositorio no se está actualizando de forma oportuna, lo que podría afectar la 'transparencia' y la 'rendición de cuentas'.",
+    "enunciado": "La acción más estratégica y en línea con el 'Aporte Técnico-Profesional' para solucionar este problema es:",
+    "opciones": [
+        "A. Reportar la situación al jefe de la Secretaría TIC, para que él se encargue de la sanción a las dependencias que no están actualizando la información de forma oportuna.",
+        "B. Diseñar un instructivo para la actualización de la información en el repositorio y socializarlo con las dependencias, y, en caso de ser necesario, automatizar el proceso de actualización para garantizar la 'transparencia'.",
+        "C. Ignorar la situación, ya que la responsabilidad de la actualización de la información es de cada dependencia."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El 'Aporte Técnico-Profesional' se enfoca en la 'gestión de procedimientos' y el 'aporte técnico'. La acción más estratégica es 'diseñar un instructivo para la actualización de la información en el repositorio y socializarlo con las dependencias, y, en caso de ser necesario, automatizar el proceso de actualización para garantizar la 'transparencia'."
+},
+{
+    "id": 24,
+    "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un 'Sistema de Información Geográfica' (SIG) para el ordenamiento territorial. El proyecto tiene como objetivo mejorar la toma de decisiones basada en datos geográficos, pero su implementación es compleja. La Secretaría de Planeación ha solicitado que el proyecto sea formulado con un alto nivel de detalle, mientras que la Secretaría de Hacienda ha solicitado que el presupuesto sea flexible para no afectar la gestión financiera de la entidad.",
+    "enunciado": "La acción más profesional y en línea con la competencia de 'Gestión de Procedimientos' en el 'Aporte Técnico-Profesional' es:",
+    "opciones": [
+        "A. Rechazar las solicitudes de ambas secretarías, ya que la formulación del proyecto debe ser imparcial y ajustarse a los lineamientos del PETI.",
+        "B. Proponer un plan de trabajo que incluya un alto nivel de detalle en las especificaciones técnicas del proyecto, y un presupuesto flexible que permita la gestión financiera de la entidad.",
+        "C. Priorizar las solicitudes de la Secretaría de Planeación, ya que la modernización de la gestión pública es el objetivo principal de la administración."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'Gestión de Procedimientos' se enfoca en la optimización de los procesos. La acción más profesional es 'proponer un plan de trabajo que incluya un alto nivel de detalle en las especificaciones técnicas del proyecto, y un presupuesto flexible que permita la gestión financiera de la entidad', que busca una solución conjunta a través de la colaboración entre las secretarías."
+},
+{
+    "id": 25,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 26,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 27,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 28,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 29,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 30,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 31,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 32,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 33,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 34,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 35,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 36,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 37,
+    "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+    "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+    "opciones": [
+        "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+        "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+        "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+},
+{
+    "id": 38,
+    "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+    "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+    "opciones": [
+        "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+        "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+        "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+},
+{
+    "id": 39,
+    "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+    "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+    "opciones": [
+        "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+        "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+        "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+},
+{
+    "id": 40,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+    "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+        "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+        "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+},
+{
+    "id": 41,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+    "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+        "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+        "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 42,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+    },
+    {
+        "id": 43,
+        "caso": "La Alcaldía de Cajicá está formulando el Plan Estratégico de Tecnologías de la Información (PETI) en el marco de la 'Política Pública de Gobierno Digital'. El plan debe incluir un 'Modelo de Arquitectura de Sistemas de Información' que garantice la 'interoperabilidad' de los sistemas de la entidad. Un líder de una dependencia se niega a que su sistema de información sea incluido en el modelo, argumentando que su sistema es 'especializado' y no debe ser modificado para la 'interoperabilidad'.",
+        "enunciado": "La acción más profesional y estratégica, en el marco de la 'arquitectura empresarial', es:",
+        "opciones": [
+            "A. Excluir el sistema de información del 'Modelo de Arquitectura de Sistemas de Información', para evitar un conflicto con la dependencia y no afectar el progreso del PETI.",
+            "B. Escalar el problema al jefe de la Secretaría para que él se encargue de la situación, ya que el problema es de gestión y no de tecnología.",
+            "C. Convocar a una reunión con el líder de la dependencia para explicarle cómo la 'interoperabilidad' facilitará el intercambio de información con otras dependencias y mejorará la atención al ciudadano."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La 'arquitectura empresarial' no es un concepto abstracto, es una herramienta para mejorar la gestión pública. La acción más profesional es 'explicar cómo la 'interoperabilidad' facilitará el intercambio de información con otras dependencias y mejorará la atención al ciudadano', lo que demuestra el valor público de la 'arquitectura empresarial' y fomenta el 'trabajo en equipo' y la 'comunicación efectiva'."
+    },
+    {
+        "id": 44,
+        "caso": "La Alcaldía de Cajicá, en un esfuerzo por mejorar la transparencia, ha implementado un nuevo 'Repositorio de Datos Abiertos'. Este repositorio permite a los ciudadanos acceder a información pública de la entidad, como presupuestos, contratos y licitaciones. Sin embargo, en una auditoría interna se ha detectado que la información del repositorio no se está actualizando de forma oportuna, lo que podría afectar la 'transparencia' y la 'rendición de cuentas'.",
+        "enunciado": "La acción más estratégica y en línea con el 'Aporte Técnico-Profesional' para solucionar este problema es:",
+        "opciones": [
+            "A. Reportar la situación al jefe de la Secretaría TIC, para que él se encargue de la sanción a las dependencias que no están actualizando la información de forma oportuna.",
+            "B. Diseñar un instructivo para la actualización de la información en el repositorio y socializarlo con las dependencias, y, en caso de ser necesario, automatizar el proceso de actualización para garantizar la 'transparencia'.",
+            "C. Ignorar la situación, ya que la responsabilidad de la actualización de la información es de cada dependencia."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'Aporte Técnico-Profesional' se enfoca en la 'gestión de procedimientos' y el 'aporte técnico'. La acción más estratégica es 'diseñar un instructivo para la actualización de la información en el repositorio y socializarlo con las dependencias, y, en caso de ser necesario, automatizar el proceso de actualización para garantizar la 'transparencia'."
+    },
+    {
+        "id": 45,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para implementar un 'Sistema de Información Geográfica' (SIG) para el ordenamiento territorial. El proyecto tiene como objetivo mejorar la toma de decisiones basada en datos geográficos, pero su implementación es compleja. La Secretaría de Planeación ha solicitado que el proyecto sea formulado con un alto nivel de detalle, mientras que la Secretaría de Hacienda ha solicitado que el presupuesto sea flexible para no afectar la gestión financiera de la entidad.",
+        "enunciado": "La acción más profesional y en línea con la competencia de 'Gestión de Procedimientos' en el 'Aporte Técnico-Profesional' es:",
+        "opciones": [
+            "A. Rechazar las solicitudes de ambas secretarías, ya que la formulación del proyecto debe ser imparcial y ajustarse a los lineamientos del PETI.",
+            "B. Proponer un plan de trabajo que incluya un alto nivel de detalle en las especificaciones técnicas del proyecto, y un presupuesto flexible que permita la gestión financiera de la entidad.",
+            "C. Priorizar las solicitudes de la Secretaría de Planeación, ya que la modernización de la gestión pública es el objetivo principal de la administración."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'Gestión de Procedimientos' se enfoca en la optimización de los procesos. La acción más profesional es 'proponer un plan de trabajo que incluya un alto nivel de detalle en las especificaciones técnicas del proyecto, y un presupuesto flexible que permita la gestión financiera de la entidad', que busca una solución conjunta a través de la colaboración entre las secretarías."
+    },
+    {
+        "id": 46,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+    },
+
+
+{
+  "id": 47,
+  "caso": "Como profesional universitario de la Secretaría TIC, debes recomendar la tecnología para implementar el gobierno digital en Cajicá. Tienes tres opciones: software propietario de alto costo pero con soporte 24/7, software libre con menor costo pero requiring capacitación, o una solución mixta.",
+  "enunciado": "¿Qué criterio técnico-profesional debe primar en tu recomendación?",
+  "opciones": [
+    "A. El costo inicial más bajo, priorizando el ahorro inmediato de recursos públicos.",
+    "B. La escalabilidad y sostenibilidad técnica a largo plazo, considerando el total cost of ownership.",
+    "C. La preferencia del Alcalde, ya que es la máxima autoridad y decide el rumbo tecnológico."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El aporte técnico-profesional debe basarse en criterios objetivos como la escalabilidad, sostenibilidad y total cost of ownership, no en preferencias subjetivas o solo costos iniciales. Un profesional técnico debe recomendar lo más conveniente técnicamente para la entidad, sustentando su posición con análisis rigurosos."
+},
+{
+  "id": 48,
+  "caso": "Debes diseñar la arquitectura de seguridad para el nuevo portal de trámites en línea. El proveedor recomienda implementar solo medidas básicas para reducir costos, pero tu análisis identifica riesgos significativos en protección de datos.",
+  "enunciado": "¿Cómo debe manifestarse tu aporte técnico-profesional en esta situación?",
+  "opciones": [
+    "A. Aceptar la recomendación del proveedor por ser el experto en costos y plazos de implementación.",
+    "B. Documentar técnicamente los riesgos y recomendar las medidas de seguridad necesarias despite el mayor costo.",
+    "C. Implementar solo las medidas básicas y planificar refuerzos de seguridad para una segunda fase."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El profesional técnico debe sustentar sus recomendaciones en análisis de riesgos y normativa vigente, priorizando la seguridad de la información sobre consideraciones económicas. Documentar técnicamente los riesgos y recomendar lo adecuado es una obligación ética y profesional, incluso si implica mayores costos."
+},
+{
+  "id": 49,
+  "caso": "El Alcalde solicita implementar un sistema de vigilancia con reconocimiento facial en espacios públicos. Tu análisis técnico identifica que la tecnología tiene alto porcentaje de error con ciertos grupos demográficos.",
+  "enunciado": "¿Cuál debe ser tu aporte técnico-profesional en este caso?",
+  "opciones": [
+    "A. Implementar el sistema como solicita el Alcalde, ya que la autoridad política decide las prioridades.",
+    "B. Recomendar no implementar el sistema hasta que la tecnología supere los sesgos identificados.",
+    "C. Implementar el sistema pero solo en áreas de baja sensibilidad para probar su efectividad."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El profesional técnico debe alertar sobre limitaciones técnicas y riesgos éticos, aunque contradigan preferencias políticas. Los sesgos algorítmicos pueden generar discriminación y afectar derechos fundamentales, por lo que técnicamente se debe recomendar no implementar hasta superar estas limitaciones."
+},
+{
+  "id": 50,
+  "caso": "Debes seleccionar el proveedor para la nube donde se alojarán los datos de los ciudadanos. Una empresa internacional ofrece mejor tecnología pero almacenamiento fuera de Colombia; una nacional cumple requisitos básicos pero con almacenamiento local.",
+  "enunciado": "¿Qué criterio técnico debe prevalecer en tu recomendación?",
+  "opciones": [
+    "A. La superioridad tecnológica, priorizando el mejor desempeño y funcionalidades.",
+    "B. El cumplimiento de la normativa de protección de datos y soberanía digital nacional.",
+    "C. El costo-beneficio, buscando el equilibrio entre calidad y precio."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El cumplimiento normativo prevalece sobre consideraciones técnicas o económicas. La Ley 1581 de 2012 y el Esquema de Seguridad Digital establecen requisitos para el almacenamiento y tratamiento de datos personales, que pueden restringir el almacenamiento fuera del territorio nacional."
+},
+{
+  "id": 51,
+  "caso": "Identificas que el actual sistema de bases de datos tiene graves problemas de escalabilidad que afectarán el crecimiento proyectado de trámites en línea. La migración sería costosa y compleja, pero necesaria.",
+  "enunciado": "¿Cómo presentarías este aporte técnico-profesional a la alta dirección?",
+  "opciones": [
+    "A. Ocultar la gravedad del problema para no alarmar y buscar soluciones parciales temporales.",
+    "B. Presentar un informe técnico detallado con evidencia del problema y roadmap de migración.",
+    "C. Solicitar la contratación de consultores externos para que sean ellos quienes deliver el mensaje difícil."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El profesional técnico debe comunicar con transparencia y fundamentación los problemas técnicos, aunque sean complejos o costosos de resolver. Presentar evidencia técnica y un plan de acción demuestra responsabilidad profesional y permite toma de decisiones informada."
+},
+{
+  "id": 52,
+  "caso": "Un funcionario de otra secretaría te pide 'agilizar' la aprobación técnica de un software que no cumple todos los estándares de seguridad, argumentando urgencia operativa.",
+  "enunciado": "¿Cómo debe ejercerse el aporte técnico-profesional en esta situación?",
+  "opciones": [
+    "A. Aprobar condicionalmente el software estableciendo un plan de cumplimiento posterior.",
+    "B. Mantener el rechazo técnico fundamentado en los estándares de seguridad no cumplidos.",
+    "C. Delegar la decisión en tu jefe inmediato para evitar conflictos interadministrativos."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El profesional técnico debe mantener estándares de calidad y seguridad, resistiendo presiones que comprometan la integridad técnica. Los estándares existen por razones técnicas y de riesgo, y ceder ante presiones puede generar vulnerabilidades graves."
+},
+{
+  "id": 53,
+  "caso": "Al revisar el código fuente de una aplicación desarrollada por un proveedor, identificas graves vulnerabilidades de seguridad. El proveedor argumenta que solucionarlas retrasaría la entrega y aumentaría costos.",
+  "enunciado": "¿Cuál debe ser tu posición técnico-profesional?",
+  "opciones": [
+    "A. Aceptar la entrega con vulnerabilidades y planificar parches en una siguiente fase.",
+    "B. Rechazar la entrega hasta que se solucionen todas las vulnerabilidades identificadas.",
+    "C. Aceptar la entrega pero retener el pago hasta que se solucionen las vulnerabilidades."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La seguridad no es negociable. Entregar software con vulnerabilidades conocidas expone a la entidad y ciudadanos a riesgos inaceptables. El profesional técnico debe ser firme en el cumplimiento de estándares de seguridad, aunque implique retrasos o costos adicionales."
+},
+{
+  "id": 54,
+  "caso": "Debes recomendar entre adoptar un estándar tecnológico emergente con mejor performance pero poco adoption, o un estándar establecido con menor performance pero mayor madurez.",
+  "enunciado": "¿Qué factores técnico-profesionales deben considerar en tu recomendación?",
+  "opciones": [
+    "A. Solo el desempeño técnico, ya que es lo que impacta directamente la experiencia del usuario.",
+    "B. El equilibrio entre innovación y estabilidad, considerando madurez, soporte y comunidad.",
+    "C. La popularidad del estándar, priorizando lo que usa la mayoría del mercado."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La recomendación técnica debe balancear múltiples factores: desempeño, madurez, soporte, comunidad, curva de aprendizaje y sostenibilidad a largo plazo. En gobierno digital, la estabilidad y soporte suelen pesar más que la innovación por sí sola."
+},
+{
+  "id": 55,
+  "caso": "Tu análisis identifica que la entidad gasta significativos recursos en licencias de software que podrían reemplazarse con alternativas de código abierto. Sin embargo, la migración requeriría capacitación y cambio de procesos.",
+  "enunciado": "¿Cómo fundamentarías técnicamente esta recomendación?",
+  "opciones": [
+    "A. Presentar solo el ahorro en licencias, omitiendo los costos de migración y capacitación.",
+    "B. Elaborar un análisis de costo total de propiedad que incluya todos los factores relevantes.",
+    "C. Recomendar la migración solo para software menos crítico para minimizar riesgos."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El análisis técnico-profesional debe ser integral y transparente. Un análisis de TCO (Total Cost of Ownership) que incluya licencias, implementación, capacitación, mantenimiento y riesgos permite una decisión informada y demuestra rigor profesional."
+},
+{
+  "id": 56,
+  "caso": "Debes diseñar el plan de continuidad operacional para sistemas críticos. Un consultor externo recomienda una solución costosa de alta disponibilidad, pero tu análisis indica que con redundancia geográfica básica se mitigan los riesgos principales.",
+  "enunciado": "¿Cómo debe ejercerse el criterio técnico-profesional?",
+  "opciones": [
+    "A. Recomendar la solución más costosa por ser la más segura y evitar posibles cuestionamientos.",
+    "B. Proponer la solución de redundancia geográfica sustentada en análisis de riesgo costo-beneficio.",
+    "C. Delegar la decisión en el área financiera ya que es una decisión principalmente económica."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El profesional técnico debe recomendar soluciones proporcionales al riesgo real, no sobre-dimensionadas por temor o influencias externas. Un análisis técnico riguroso que balancee seguridad y costo demuestra madurez profesional y optimización de recursos públicos."
+},
+{
+  "id": 57,
+  "caso": "Identificas que el actual protocolo de respaldos tiene graves deficiencias que podrían impedir la recuperación ante un desastre. Mejorarlo requerirá reasignar recursos de otros proyectos importantes.",
+  "enunciado": "¿Cómo comunicarías esta situación técnico-profesionalmente?",
+  "opciones": [
+    "A. Minimizar la gravedad para no afectar otros proyectos y buscar mejoras graduales.",
+    "B. Documentar el riesgo técnico con evidencia y recomendar priorizar la solución inmediatamente.",
+    "C. Solicitar la contratación de auditors externos para validar tu evaluación técnica."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Los riesgos técnicos graves deben comunicarse con transparencia y urgencia, sustentados con evidencia. El profesional técnico tiene la obligación de alertar sobre vulnerabilidades críticas, aunque implique reorientar recursos o afectar otros proyectos."
+},
+{
+  "id": 58,
+  "caso": "Un proveedor ofrece significante descuento si adoptas su tecnología propietaria exclusivamente. Técnicamente es una buena opción, pero crearía dependencia de un solo vendor.",
+  "enunciado": "¿Qué consideración técnico-profesional debe prevalecer?",
+  "opciones": [
+    "A. Aceptar la oferta por el ahorro inmediato y la calidad técnica demostrada.",
+    "B. Rechazar la oferta para mantener diversidad tecnológica y evitar vendor lock-in.",
+    "C. Negociar el descuento pero mantener alternativas para critical systems."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "El criterio técnico-profesional debe balancear beneficio económico con independencia tecnológica. Negociar descuentos manteniendo alternativas evita dependencia excesiva mientras se optimizan recursos. La diversificación tecnológica es un principio de buena gobernanza TI."
+},
+{
+  "id": 59,
+  "caso": "Tu equipo propone adoptar una nueva metodología de desarrollo ágil que mejoraría productividad, pero requiere cambiar procesos establecidos y capacitación.",
+  "enunciado": "¿Cómo evaluarías técnicamente esta propuesta?",
+  "opciones": [
+    "A. Rechazar por la disruption que generaría en los procesos actuales.",
+    "B. Aceptar inmediatamente por ser una práctica de vanguardia en el industry.",
+    "C. Evaluar mediante pilotos controlados que midan objectively beneficios y costos."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "El enfoque técnico-profesional valora la innovación pero la evalúa metódicamente. Pilotos controlados que generen data objective sobre beneficios reales versus costos de implementación demuestran rigor profesional y gestión del cambio responsable."
+},
+{
+  "id": 60,
+  "caso": "Descubres que el sistema de autenticación tiene una vulnerabilidad que expone datos sensibles. Parchearlo requiere downtime en horario laboral afectando servicios ciudadanos.",
+  "enunciado": "¿Cómo manejarías este dilema técnico-profesional?",
+  "opciones": [
+    "A. Postergar el parche hasta horario nocturno para no afectar servicios, asumiendo el riesgo temporal.",
+    "B. Aplicar inmediatamente el parche priorizando la seguridad sobre la disponibilidad del servicio.",
+    "C. Implementar medidas temporales de mitigación mientras se programa el parche para minimizar impactos."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "El profesional técnico debe balancear seguridad y continuidad operativa. Implementar mitigaciones temporales mientras se programa el parche en el menor tiempo posible demuestra gestión profesional de riesgos y consideration por el servicio al ciudadano."
+},
+{
+  "id": 61,
+  "caso": "Debes recomendar entre desarrollar internamente una solución específica o adquirir un software comercial. El desarrollo interno sería más adecuado técnicamente pero tomaría el doble de tiempo.",
+  "enunciado": "¿Qué factores debe considerar tu análisis técnico-profesional?",
+  "opciones": [
+    "A. Solo la adecuación técnica, priorizando la solución que mejor cumpla los requisitos.",
+    "B. El tiempo de implementación como factor decisivo por la urgencia de la necesidad.",
+    "C. Multiple factores: adecuación técnica, tiempo, costo, mantenimiento y flexibilidad futura."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "El análisis técnico-profesional debe ser multidimensional. Además de la adecuación técnica, deben considerarse plazos, costos totales, mantenimiento, escalabilidad y flexibilidad para cambios futuros. La integralidad del análisis demuestra competencia profesional."
+},
+{
+  "id": 62,
+  "caso": "Un colega sugiere reutilizar código de un proyecto anterior para ahorrar tiempo, pero identificas que tiene licencia restrictiva incompatible con software público.",
+  "enunciado": "¿Cómo debe manifestarse tu aporte técnico-profesional?",
+  "opciones": [
+    "A. Ignorar la licencia por tratarse de código interno y no comercial.",
+    "B. Alertar sobre el riesgo legal y recomendar no reutilizar ese código.",
+    "C. Utilizar el código pero modificándolo lo suficiente para evitar problemas de licencia."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El profesional técnico debe asegurar el cumplimiento legal y de licencias, especialmente en software público. Alertar sobre riesgos legales y recomendar alternativas éticas demuestra integridad profesional y prevención de problemas futuros."
+},
+{
+  "id": 63,
+  "caso": "El área de comunicaciones solicita integrar redes sociales al portal ciudadano, pero tu análisis identifica riesgos de privacidad y gestión de datos personales.",
+  "enunciado": "¿Cuál debe ser tu postura técnico-profesional?",
+  "opciones": [
+    "A. Implementar la integración pero con deslindamiento de responsabilidad por los riesgos.",
+    "B. Recomendar no implementar hasta diseñar safeguards técnicos y legales que mitiguen riesgos.",
+    "C. Implementar solo la integración con redes sociales que tengan políticas de privacidad robustas."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El profesional técnico debe priorizar la protección de datos personales y el cumplimiento normativo. Recomendar no implementar hasta tener salvaguardas adecuadas demuestra responsabilidad profesional y adherence al marco legal de protección de datos."
+},
+{
+  "id": 64,
+  "caso": "Identificas que la entidad está usando versión obsoleta de software crítico sin soporte ni parches de seguridad. La actualización requerirá significante esfuerzo y testing.",
+  "enunciado": "¿Cómo presentarías esta necesidad técnico-profesionalmente?",
+  "opciones": [
+    "A. Ocultar la urgencia para evitar sobrecargar al equipo con trabajo adicional.",
+    "B. Elaborar un plan de actualización con timeline, recursos needed y riesgos de no actuar.",
+    "C. Solicitar la extension del soporte al proveedor aunque tenga costo adicional."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Las vulnerabilidades por software obsoleto deben comunicarse con urgencia y plan de acción. Presentar un plan con recursos needed y consecuencias de inacción demuestra proactividad profesional y gestión responsable de riesgos técnicos."
+},
+{
+  "id": 65,
+  "caso": "Debes decidir entre dos arquitecturas de cloud: pública con mejor escalabilidad pero menos control, o privada con más control pero mayor costo y complejidad.",
+  "enunciado": "¿Qué criterio técnico-profesional debe guiar tu decisión?",
+  "opciones": [
+    "A. La escalabilidad, ya que es fundamental para el crecimiento proyectado de servicios digitales.",
+    "B. La criticidad y sensibilidad de los datos que se alojarán en cada ambiente.",
+    "C. El costo, priorizando la opción más económica dentro de parámetros técnicos aceptables."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La decisión técnica debe basarse primarily en la naturaleza de los datos y cargas de trabajo. Datos sensibles o críticos pueden requerir entornos privados con mayor control, mientras datos menos sensibles pueden aprovechar la escalabilidad de nube pública. La clasificación de datos guía la arquitectura."
+},
+{
+  "id": 66,
+  "caso": "Un funcionario senior te presiona para otorgarle acceso administrativo a sistemas críticos argumentando 'confianza y antigüedad'. Tu análisis indica que no necesita ese nivel de acceso para sus funciones.",
+  "enunciado": "¿Cómo aplicarías el principio técnico-profesional de mínimo privilegio?",
+  "opciones": [
+    "A. Otorgar el acceso solicitado por la jerarquía y antigüedad del funcionario.",
+    "B. Mantener el principio de mínimo privilegio otorgando solo el acceso estrictamente necesario.",
+    "C. Otorgar acceso temporal monitoreado para evaluar si realmente lo necesita."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El principio de mínimo privilegio es fundamental en seguridad y no debe vulnerarse por jerarquía o antigüedad. Mantener access controls basados en necesidades funcionales reales demuestra integridad profesional y compromiso con la seguridad institucional."
+},
+{
+  "id": 67,
+  "caso": "El equipo de desarrollo quiere adoptar un nuevo framework JavaScript de moda, pero tu evaluación identifica que tiene curva de aprendizaje empinada y comunidad pequeña.",
+  "enunciado": "¿Cómo debe ejercerse el liderazgo técnico-profesional en esta decisión?",
+  "opciones": [
+    "A. Permitir la adopción para mantener al equipo motivado con tecnología nueva.",
+    "B. Recomendar tecnologías más establecidas con mejor soporte y comunidad.",
+    "C. Dejar que el equipo decida democraticamente since son los principales usuarios."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El liderazgo técnico-profesional debe priorizar estabilidad, soporte y sostenibilidad sobre modas tecnológicas. Recomendar tecnologías con comunidades sólidas, documentación adecuada y curva de aprendizaje manejable demuestra visión técnica de largo plazo."
+},
+{
+  "id": 68,
+  "caso": "Descubres que el backup de la base de datos principal no se ha probado en 6 meses y podría no ser funcional. Probarlo requerirá downtime en horario crítico.",
+  "enunciado": "¿Cuál debe ser tu acción técnico-profesional inmediata?",
+  "opciones": [
+    "A. Programar la prueba para el próximo fin de semana para evitar impactar operaciones.",
+    "B. Realizar la prueba inmediatamente aunque genere downtime, priorizando la verificación de recuperación.",
+    "C. Asumir que el backup funciona y programar prueba en el próximo mantenimiento regular."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La verificacion de backups es crítica y no puede postergarse. Un backup no verificado es como no tener backup. El profesional técnico debe priorizar la confirmación de recuperabilidad aunque genere disruption temporal, demostrando comprensión de gestión de riesgos técnicos."
+},
+{
+  "id": 69,
+  "caso": "Debes diseñar la estrategia de retención de datos. Un área solicita retener datos indefinidamente 'por si acaso', pero esto tiene implicaciones de costo, seguridad y cumplimiento legal.",
+  "enunciado": "¿Cómo fundamentarías técnicamente una política de retención proporcional?",
+  "opciones": [
+    "A. Aceptar la retención indefinida para evitar conflictos con las áreas usuarias.",
+    "B. Establecer períodos de retención basados en análisis de valor business, requisitos legales y riesgo.",
+    "C. Delegar la decisión en legal ya que es primarily un tema de cumplimiento normativo."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La retención de datos debe basarse en análisis técnico-profesional que considere valor business, requisitos legales, costos de almacenamiento y riesgos de seguridad. Establecer políticas proporcionales demuestra gestión profesional de información y optimización de recursos."
+},
+{
+  "id": 70,
+  "caso": "Identificas que la entidad tiene 40% de servidores subutilizados consumiendo energía y licencias. La consolidación generaría ahorros pero requerirá reestructurar varios servicios.",
+  "enunciado": "¿Cómo presentarías esta oportunidad de optimización técnico-profesional?",
+  "opciones": [
+    "A. Omitir el tema para no generar trabajo adicional al equipo de operations.",
+    "B. Elaborar un plan de consolidación con análisis de ahorros, riesgos y roadmap de ejecución.",
+    "C. Sugerir gradualmente el apagado de servidores menos críticos para ir liberando capacidad."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Las oportunidades de optimización técnica deben comunicarse con análisis sólido y plan de acción. Presentar ahorros potenciales, riesgos mitigados y plan de ejecución demuestra visión estratégica y contribución profesional al uso eficiente de recursos públicos."
+},
+{
+  "id": 71,
+  "caso": "Un proveedor ofrece tecnología que resuelve inmediatamente un problema crítico, pero usando estándares propietarios que crearían dependencia a largo plazo.",
+  "enunciado": "¿Cómo balancearías la necesidad inmediata con la sostenibilidad técnica a largo plazo?",
+  "opciones": [
+    "A. Implementar la solución inmediata y preocuparse por la dependencia después.",
+    "B. Rechazar la solución y buscar alternativas estándar aunque tomen más tiempo.",
+    "C. Implementar con plan de migración a estándares abiertos en timeline definido."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "El profesional técnico debe balancear urgencia operativa con sostenibilidad a largo plazo. Implementar soluciones inmediatas con plan de transición a estándares abiertos demuestra pragmatismo técnico y visión estratégica, resolviendo lo urgente sin comprometer el futuro."
+},
+{
+"id": 72,
+"caso": "El equipo de TIC de la Alcaldía de Cajicá está desarrollando el Plan Estratégico de Tecnologías de la Información (PETI) para el bienio siguiente y requiere asegurar su alineación con las políticas institucionales y normativas nacionales.",
+"enunciado": "¿En qué ámbito del aporte técnico y profesional se ubica esta función?",
+"opciones": [
+"A. Formulación de proyectos, pues se establecen directrices estratégicas para orientar las iniciativas TIC.",
+"B. Implementación, porque se deben poner en marcha los proyectos del PETI.",
+"C. Evaluación, ya que se debe medir el impacto de las políticas nacionales en el plan."
+],
+"respuesta_correcta": "A",
+"explicacion": "La formulación de proyectos implica diseñar el PETI con base en las políticas y normativas para asegurar coherencia y alineación estratégica."
+},
+{
+"id": 73,
+"caso": "Al revisar un proyecto de implementación de software para gestión documental, se observa que no incluye análisis de riesgos ni planes de mitigación.",
+"enunciado": "Desde el aporte técnico-profesional, ¿cuál sería la recomendación más adecuada?",
+"opciones": [
+"A. Incluir un estudio de riesgos detallado para prevenir posibles contratiempos.",
+"B. Ignorar los riesgos y avanzar rápido para cumplir con los tiempos.",
+"C. Dejar que otro equipo se encargue de los riesgos sin supervisión."
+],
+"respuesta_correcta": "A",
+"explicacion": "El aporte profesional debe garantizar que todos los aspectos críticos, como riesgos y mitigaciones, estén contemplados para un éxito sostenible."
+},
+{
+"id": 74,
+"caso": "Durante la implementación de un sistema de atención al ciudadano, surgen problemas de interoperabilidad con otras plataformas regionales.",
+"enunciado": "¿Qué rol debe desempeñar el profesional TIC para resolver esta situación?",
+"opciones": [
+"A. Diagnosticar la causa, proponer soluciones técnicas basadas en estándares y coordinar ajustes.",
+"B. Aplazar la solución a una etapa posterior sin análisis.",
+"C. Cambiar todo el sistema sin considerar la interoperabilidad."
+],
+"respuesta_correcta": "A",
+"explicacion": "El aporte técnico consiste en identificar el problema, aplicar conocimientos especializados y coordinar acciones para resolverlo."
+},
+{
+"id": 75,
+"caso": "Un proyecto tecnológico busca optimizar los procesos administrativos, pero existe resistencia al cambio entre los funcionarios.",
+"enunciado": "¿Cómo puede apoyar el profesional TIC en este escenario?",
+"opciones": [
+"A. Proporcionando capacitación, soporte técnico y comunicación clara para facilitar la adopción.",
+"B. Ignorando la resistencia y enfocándose sólo en aspectos técnicos.",
+"C. Cancelando el proyecto para evitar conflictos."
+],
+"respuesta_correcta": "A",
+"explicacion": "El aporte profesional incluye acompañar el proceso de cambio y promover la apropiación tecnológica entre los usuarios."
+},
+{
+"id": 76,
+"caso": "Al elaborar un informe técnico para la alta dirección, el profesional TIC debe presentar los avances, riesgos y propuestas de mejora del portafolio de proyectos TIC.",
+"enunciado": "¿Cuál es la relevancia de este informe en el aporte técnico-profesional?",
+"opciones": [
+"A. Facilita la toma de decisiones basada en información precisa y actualizada.",
+"B. Es un trámite administrativo sin impacto real.",
+"C. Solemente cumple un requisito formal sin análisis."
+],
+"respuesta_correcta": "A",
+"explicacion": "El reporte técnico permite a la dirección evaluar la marcha de los proyectos y tomar decisiones estratégicas."
+},
+{
+"id": 77,
+"caso": "Se detecta una vulnerabilidad crítica en un sistema interno; el profesional TIC debe actuar antes que ocurran daños mayores.",
+"enunciado": "Desde el aporte profesional, ¿qué acciones debe priorizar?",
+"opciones": [
+"A. Inmediata aplicación de controles preventivos, seguimiento y reporte a la gerencia.",
+"B. Esperar a que el problema suceda para reaccionar.",
+"C. Ignorar el hallazgo para evitar alarma."
+],
+"respuesta_correcta": "A",
+"explicacion": "Prevenir riesgos y actuar con prontitud es una responsabilidad clave del profesional TIC competente."
+},
+{
+"id": 78,
+"caso": "Durante el diseño de una arquitectura tecnológica, se definen protocolos de seguridad, escalabilidad y recuperación ante desastres.",
+"enunciado": "¿A cuál función profesional corresponde esta actividad?",
+"opciones": [
+"A. Aporte técnico en diseño y planeación de infraestructura TIC.",
+"B. Solo labores operativas sin planificación.",
+"C. Excluye responsabilidades de seguridad."
+],
+"respuesta_correcta": "A",
+"explicacion": "El aporte profesional implica planificar arquitecturas técnicas que garanticen funcionalidad, seguridad y continuidad."
+},
+{
+"id": 79,
+"caso": "El profesional TIC debe recomendar un software para automatizar procesos, considerando usabilidad, costos, seguridad y alineación con normas.",
+"enunciado": "¿Cómo debe fundamentarse esta recomendación?",
+"opciones": [
+"A. Evaluando integralmente aspectos técnicos, legales y sociales para la mejor opción.",
+"B. Escogiendo el software más barato sin análisis.",
+"C. Seleccionando según preferencias personales."
+],
+"respuesta_correcta": "A",
+"explicacion": "Una recomendación profesional debe basarse en un análisis amplio y objetivo, considerando múltiples factores."
+},
+{
+"id": 80,
+"caso": "En la implementación de proyectos TIC, es común encontrarse con cambios frecuentes en requisitos y recursos limitados.",
+"enunciado": "¿Qué enfoque debe adoptar el profesional TIC para manejar estos retos?",
+"opciones": [
+"A. Aplicar metodologías flexibles y adaptativas, con comunicación continua con los stakeholders.",
+"B. Aplicar rígidamente el plan inicial sin adaptaciones.",
+"C. Suspender el proyecto por incertidumbre."
+],
+"respuesta_correcta": "A",
+"explicacion": "La flexibilidad y comunicación constante optimizan el manejo de cambios y entregan valor continúa."
+},
+{
+"id": 81,
+"caso": "El profesional TIC debe asegurar que en el desarrollo de un proyecto se respeten los plazos y se mantenga calidad técnica.",
+"enunciado": "¿Cuál es una herramienta clave para cumplir esta responsabilidad?",
+"opciones": [
+"A. Control de gestión mediante indicadores y seguimiento permanente.",
+"B. Dejar la gestión al azar esperando resultados.",
+"C. Centrar el esfuerzo sólo en la fase inicial."
+],
+"respuesta_correcta": "A",
+"explicacion": "El control con indicadores ayuda a detectar desviaciones y adoptar medidas correctivas oportunas."
+},
+{
+"id": 82,
+"caso": "Durante la fase de prueba, un sistema presenta errores recurrentes y falta de cumplimiento con especificaciones.",
+"enunciado": "¿Qué debe hacer el profesional TIC desde su aporte?",
+"opciones": [
+"A. Elaborar informes detallados, proponer correcciones y garantizar validación antes del lanzamiento.",
+"B. Ignorar los errores y proceder con la entrega.",
+"C. Cambiar el sistema por completo sin diagnóstico."
+],
+"respuesta_correcta": "A",
+"explicacion": "El seguimiento riguroso en pruebas es fundamental para asegurar calidad y funcionalidad."
+},
+{
+"id": 83,
+"caso": "El profesional TIC está en la tarea de capacitar a funcionarios acerca de las nuevas herramientas digitales adoptadas.",
+"enunciado": "¿Cuál es la importancia de esta función?",
+"opciones": [
+"A. Facilitar la apropiación tecnológica y mitigar resistencias.",
+"B. Evitar formación para ahorrar costos.",
+"C. Dejar que cada funcionario aprenda por su cuenta."
+],
+"respuesta_correcta": "A",
+"explicacion": "La capacitación es clave para asegurar el uso efectivo y aprovechamiento de la tecnología."
+},
+{
+"id": 84,
+"caso": "Un proyecto TIC requiere una inversión significativa; el profesional debe justificarla ante instancias directivas.",
+"enunciado": "¿Qué elementos debe incluir en su justificación para que sea sólida?",
+"opciones": [
+"A. Impacto esperado en procesos, mejora de servicios y alineación estratégica.",
+"B. Solo el costo como cifra global.",
+"C. Referencias a modas tecnológicas sin análisis."
+],
+"respuesta_correcta": "A",
+"explicacion": "La justificación debe basarse en beneficios concretos y coherencia con el plan institucional."
+},
+{
+"id": 85,
+"caso": "El equipo TIC evalúa la implementación de un sistema que implica integrar datos de varias dependencias.",
+"enunciado": "¿Qué aspecto técnico debe priorizar el profesional para garantizar éxito?",
+"opciones": [
+"A. Asegurar compatibilidad e interoperabilidad mediante estándares abiertos.",
+"B. Desarrollar sistemas aislados para cada dependencia.",
+"C. Evitar compartir datos por seguridad."
+],
+"respuesta_correcta": "A",
+"explicacion": "La interoperabilidad es esencial para que sistemas diversos trabajen eficientemente en conjunto."
+},
+{
+"id": 86,
+"caso": "Un profesional TIC detecta un aumento en incidentes de seguridad relacionados a accesos no autorizados.",
+"enunciado": "¿Qué medidas debe recomendar para reducir estos incidentes?",
+"opciones": [
+"A. Implementar controles de acceso robustos, monitoreo continuo y capacitación al personal.",
+"B. Eliminar todos los accesos para evitar riesgos.",
+"C. Ignorar los incidentes si no afectan aún."
+],
+"respuesta_correcta": "A",
+"explicacion": "Un enfoque integral de seguridad reduce vulnerabilidades y fortalece la defensa."
+},
+{
+"id": 87,
+"caso": "Durante la implementación, surge un conflicto entre las necesidades técnicas y las expectativas de los usuarios.",
+"enunciado": "¿Cómo debería abordar el profesional esta situación?",
+"opciones": [
+"A. Facilitar diálogo y negociación para lograr soluciones ajustadas a ambas partes.",
+"B. Imponer soluciones técnicas sin escuchar usuarios.",
+"C. Dejar que la disputa siga sin intervención."
+],
+"respuesta_correcta": "A",
+"explicacion": "La colaboración y comunicación efectiva permiten conciliar perspectivas y lograr aceptación."
+},
+{
+"id": 88,
+"caso": "El avance tecnológico exige actualización constante; un profesional TIC debe mantener su conocimiento al día.",
+"enunciado": "¿Cuál es la estrategia más efectiva para lograrlo?",
+"opciones": [
+"A. Participar en capacitaciones, seminarios, estudios y comunidades técnicas.",
+"B. Confiar solo en experiencia previa sin actualización.",
+"C. Delegar esa responsabilidad a otros."
+],
+"respuesta_correcta": "A",
+"explicacion": "La actualización continua es parte del aporte profesional para mantener la calidad y relevancia."
+},
+{
+"id": 89,
+"caso": "Un proyecto TIC requiere elaboración de documentos técnicos claros para diferentes públicos.",
+"enunciado": "¿Qué característica debe privilegiar el profesional al redactar estos documentos?",
+"opciones": [
+"A. Claridad, precisión y adecuación al nivel técnico de los usuarios.",
+"B. Uso exclusivo de lenguaje técnico ininteligible para usuarios comunes.",
+"C. Documentación mínima para ahorrar tiempo."
+],
+"respuesta_correcta": "A",
+"explicacion": "Los documentos deben comunicar efectivamente para respaldar adopción y uso de tecnologías."
+},
+{
+"id": 90,
+"caso": "Al analizar un proceso operativo, el profesional encuentra redundancias y pasos innecesarios que afectan la eficiencia.",
+"enunciado": "¿Cómo debería actuar para mejorar el proceso?",
+"opciones": [
+"A. Proponer simplificación y automatización con apoyo de tecnologías TIC.",
+"B. Dejar el proceso tal cual para evitar cambios.",
+"C. Añadir más controles sin análisis."
+],
+"respuesta_correcta": "A",
+"explicacion": "El aporte profesional incluye optimizar procesos para aumentar productividad y calidad del servicio."
+}
+
+
+]

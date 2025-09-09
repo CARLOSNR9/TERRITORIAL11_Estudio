@@ -1,0 +1,1447 @@
+[
+    {
+        "id": 1,
+        "caso": "La Secretaría TIC de la Alcaldía de Cajicá ha identificado la necesidad de adquirir 50 computadores nuevos para reemplazar equipos obsoletos. La adquisición debe estar alineada con la planeación de la entidad.",
+        "enunciado": "¿Qué documento de planificación debe guiar esta adquisición, de acuerdo con el ciclo de vida de los bienes muebles?",
+        "opciones": [
+            "A. El Plan Anual de Adquisiciones de la Alcaldía, para asegurar que la compra se realice según los plazos establecidos.",
+            "B. El Plan Estratégico de Tecnologías de la Información (PETI), para asegurar que la inversión en tecnología se alinee con los objetivos de la entidad.",
+            "C. El Estatuto General de Contratación de la Administración Pública (Ley 80 de 1993), que define el procedimiento de compra."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La primera etapa en el ciclo de vida de los bienes muebles es la planificación. En la Secretaría de TIC, esto implica prever la adquisición de nuevos equipos de cómputo, lo cual debe estar alineado con el Plan Estratégico de Tecnologías de la Información (PETI). Esto asegura que la inversión en tecnología contribuya a la misión de la Alcaldía."
+    },
+    {
+        "id": 2,
+        "caso": "El jefe de la Secretaría TIC te asigna un computador nuevo. El equipo tiene un código de barras y un número de serie único. Te pide que lo registres en el sistema de inventarios de la entidad.",
+        "enunciado": "La acción de registrar el bien en el inventario se enmarca en la etapa del ciclo de vida de los bienes muebles de:",
+        "opciones": [
+            "A. Adquisición, que se refiere al proceso de compra de los bienes.",
+            "B. Registro, que busca la incorporación del bien al inventario de la entidad para su control y seguimiento.",
+            "C. Uso y Mantenimiento, que se refiere a la utilización del bien y su conservación."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "Una vez adquiridos, los bienes deben ser registrados en el sistema de inventarios de la entidad. Esto incluye la asignación de un código de identificación y el registro de sus características, como marca, modelo y número de serie. El registro es clave para garantizar la transparencia y el control sobre los activos."
+    },
+    {
+        "id": 3,
+        "caso": "Un funcionario de la Alcaldía de Cajicá te pide que lo ayudes a instalar un software que no está aprobado por la entidad. El software es de uso personal y podría generar vulnerabilidades en la red.",
+        "enunciado": "¿Cómo debes proceder, de acuerdo con el régimen de responsabilidad de los funcionarios?",
+        "opciones": [
+            "A. Instalar el software, ya que es una solicitud de un funcionario y la Alcaldía debe garantizar la satisfacción del usuario.",
+            "B. Negar la instalación y explicar que la Alcaldía solo puede instalar software aprobado, de acuerdo con las políticas de seguridad y la responsabilidad fiscal sobre los bienes públicos.",
+            "C. Instalar el software y reportar la instalación al jefe de la Secretaría TIC para su aprobación posterior."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "Los funcionarios públicos tienen responsabilidad sobre el uso adecuado de los bienes públicos. El uso de software no autorizado puede generar vulnerabilidades en la red y es una violación de las políticas de seguridad. La acción correcta es negar la instalación y explicar la política de uso de software de la entidad."
+    },
+    {
+        "id": 4,
+        "caso": "La Alcaldía de Cajicá está elaborando un informe para la Contraloría sobre el inventario físico de la Secretaría TIC. El informe debe incluir un listado de todos los equipos de cómputo, impresoras y servidores de la entidad.",
+        "enunciado": "La elaboración del informe se relaciona directamente con el principio de:",
+        "opciones": [
+            "A. Oportunidad, ya que se debe registrar y actualizar la información en tiempo real.",
+            "B. Trazabilidad, ya que se debe hacer un seguimiento completo del ciclo de vida del bien.",
+            "C. Integridad, que asegura la inclusión de todos los bienes en el inventario para una información completa y precisa."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "El principio de integridad asegura que todos los bienes de la entidad estén registrados en el inventario para una información completa y precisa. La elaboración del informe para la Contraloría se relaciona directamente con este principio, ya que busca verificar que todos los bienes estén incluidos en el inventario."
+    },
+    {
+        "id": 5,
+        "caso": "El jefe de la Secretaría TIC te pide que realices una auditoría de las licencias de software de la entidad. Te pide que verifiques que el software utilizado sea legal y esté actualizado.",
+        "enunciado": "La acción de auditar las licencias de software se enmarca en la gestión de:",
+        "opciones": [
+            "A. Inventario físico, que controla los bienes tangibles.",
+            "B. Inventario lógico, que controla los bienes intangibles como las licencias de software.",
+            "C. Uso y Mantenimiento, que busca prolongar la vida útil de los bienes."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La gestión de inventario se divide en físico y lógico. El inventario lógico se refiere al control de los bienes intangibles, como las licencias de software. La auditoría de las licencias de software se enmarca en la gestión de inventario lógico, que busca evitar el uso de software pirata y garantizar que la entidad cumpla con sus obligaciones contractuales."
+    },
+    {
+        "id": 6,
+        "caso": "La Secretaría TIC de la Alcaldía de Cajicá ha adquirido 20 computadores nuevos para reemplazar equipos antiguos. Los equipos antiguos deben ser dados de baja.",
+        "enunciado": "La acción de dar de baja a los equipos antiguos se enmarca en la etapa del ciclo de vida de los bienes muebles de:",
+        "opciones": [
+            "A. Adquisición, que se refiere al proceso de compra de los bienes.",
+            "B. Uso y Mantenimiento, que busca prolongar la vida útil de los bienes.",
+            "C. Baja y Disposición Final, que se refiere a la salida de un bien del inventario de la entidad."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La 'baja y disposición final' es la etapa del ciclo de vida de los bienes muebles que se refiere a la salida de un bien del inventario de la entidad. Las causales de baja pueden ser el deterioro, la obsolescencia, el hurto o la pérdida."
+    },
+    {
+        "id": 7,
+        "caso": "Un funcionario de la Alcaldía de Cajicá pierde un computador portátil que le fue asignado para realizar sus funciones. La pérdida del computador es un hecho que debe ser reportado a las autoridades correspondientes.",
+        "enunciado": "La pérdida del computador genera una responsabilidad de tipo:",
+        "opciones": [
+            "A. Fiscal, ya que el funcionario es responsable del uso adecuado de los bienes públicos y la Contraloría fiscaliza la gestión de los bienes de las entidades públicas.",
+            "B. Disciplinaria, ya que el funcionario puede ser sancionado por el uso indebido o el daño de los bienes públicos.",
+            "C. Penal, ya que el hurto del computador es un delito contra el patrimonio público."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La responsabilidad fiscal se refiere a la obligación de los funcionarios de custodiar y usar adecuadamente los bienes públicos. La pérdida o hurto de un bien mueble genera una responsabilidad fiscal, ya que el funcionario debe responder por el daño causado al patrimonio público. La Contraloría General de la República fiscaliza la gestión de los bienes de las entidades públicas."
+    },
+    {
+        "id": 8,
+        "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá te pide que elabores un plan de mantenimiento preventivo para los equipos de cómputo de la entidad. El plan debe incluir las fechas y las acciones que se realizarán para prolongar la vida útil de los equipos.",
+        "enunciado": "La elaboración del plan se enmarca en la etapa del ciclo de vida de los bienes muebles de:",
+        "opciones": [
+            "A. Adquisición, ya que se está previendo la compra de nuevos equipos en el futuro.",
+            "B. Uso y Mantenimiento, que busca prolongar la vida útil de los bienes.",
+            "C. Baja y Disposición Final, que se refiere a la salida de un bien del inventario."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'uso y mantenimiento' es la etapa del ciclo de vida de los bienes muebles en la que se utilizan los bienes y se les da el mantenimiento necesario para prolongar su vida útil. La elaboración del plan de mantenimiento preventivo se enmarca en esta etapa, ya que busca garantizar que los equipos sean utilizados de forma eficiente y que su vida útil sea lo más larga posible."
+    },
+    {
+        "id": 9,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para la adquisición de equipos de cómputo para los funcionarios. El proyecto debe seguir los principios de la contratación pública, como la transparencia y la selección objetiva.",
+        "enunciado": "¿Qué ley es el principal soporte normativo para la adquisición de estos bienes?",
+        "opciones": [
+            "A. Ley 80 de 1993, Estatuto General de Contratación de la Administración Pública.",
+            "B. Ley 1474 de 2011, Estatuto Anticorrupción, que establece medidas de transparencia.",
+            "C. Ley 1753 de 2015, Plan Nacional de Desarrollo, que establece la planeación institucional."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La Ley 80 de 1993, conocida como el 'Estatuto General de Contratación de la Administración Pública', es la ley que regula el proceso de compra de bienes, servicios y obras por parte de las entidades públicas. La adquisición de equipos de cómputo debe seguir los principios y procedimientos establecidos en esta ley."
+    },
+    {
+        "id": 10,
+        "caso": "Un funcionario de la Alcaldía de Cajicá te pide que lo ayudes a dar de baja un computador obsoleto de su área. El computador debe ser dado de baja para que se le asigne uno nuevo.",
+        "enunciado": "¿Qué procedimiento se debe seguir para dar de baja el bien, de acuerdo con el ciclo de vida de los bienes muebles?",
+        "opciones": [
+            "A. El funcionario debe firmar una carta de baja y entregar el computador a la Secretaría de TIC.",
+            "B. La Secretaría de TIC debe realizar un avalúo técnico, un comité de bienes debe autorizar la baja y se debe emitir un acto administrativo.",
+            "C. El funcionario debe entregar el computador al almacén de la Alcaldía, que se encarga de darlo de baja."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El procedimiento de 'baja y disposición final' de un bien mueble debe seguir los procedimientos establecidos por la normatividad. El procedimiento incluye un avalúo técnico, la autorización de un comité de bienes y la emisión de un acto administrativo. Esto garantiza que la baja del bien sea transparente y se ajuste a la normativa vigente."
+    },
+    {
+        "id": 11,
+        "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá te pide que elabores un informe sobre el inventario lógico de la entidad. El informe debe incluir un listado de todas las licencias de software que utiliza la entidad.",
+        "enunciado": "La elaboración del informe se enmarca en la gestión de:",
+        "opciones": [
+            "A. Inventario físico, que controla los bienes tangibles.",
+            "B. Inventario lógico, que controla los bienes intangibles como las licencias de software.",
+            "C. Uso y Mantenimiento, que busca prolongar la vida útil de los bienes."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La gestión de inventario se divide en físico y lógico. El inventario lógico se refiere al control de los bienes intangibles, como las licencias de software. La elaboración del informe se enmarca en la gestión de inventario lógico, que busca evitar el uso de software pirata y garantizar que la entidad cumpla con sus obligaciones contractuales."
+    },
+    {
+        "id": 12,
+        "caso": "Un funcionario de la Alcaldía de Cajicá pierde un computador portátil que le fue asignado para realizar sus funciones. La pérdida del computador es un hecho que debe ser reportado a las autoridades correspondientes.",
+        "enunciado": "La pérdida del computador genera una responsabilidad de tipo:",
+        "opciones": [
+            "A. Fiscal, ya que el funcionario es responsable del uso adecuado de los bienes públicos y la Contraloría fiscaliza la gestión de los bienes de las entidades públicas.",
+            "B. Disciplinaria, ya que el funcionario puede ser sancionado por el uso indebido o el daño de los bienes públicos.",
+            "C. Penal, ya que el hurto del computador es un delito contra el patrimonio público."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La responsabilidad fiscal se refiere a la obligación de los funcionarios de custodiar y usar adecuadamente los bienes públicos. La pérdida o hurto de un bien mueble genera una responsabilidad fiscal, ya que el funcionario debe responder por el daño causado al patrimonio público. La Contraloría General de la República fiscaliza la gestión de los bienes de las entidades públicas."
+    },
+    {
+        "id": 13,
+        "caso": "La Secretaría TIC de la Alcaldía de Cajicá ha adquirido 20 computadores nuevos para reemplazar equipos antiguos. Los equipos antiguos deben ser dados de baja.",
+        "enunciado": "La acción de dar de baja a los equipos antiguos se enmarca en la etapa del ciclo de vida de los bienes muebles de:",
+        "opciones": [
+            "A. Adquisición, que se refiere al proceso de compra de los bienes.",
+            "B. Uso y Mantenimiento, que busca prolongar la vida útil de los bienes.",
+            "C. Baja y Disposición Final, que se refiere a la salida de un bien del inventario de la entidad."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La 'baja y disposición final' es la etapa del ciclo de vida de los bienes muebles que se refiere a la salida de un bien del inventario de la entidad. Las causales de baja pueden ser el deterioro, la obsolescencia, el hurto o la pérdida."
+    },
+    {
+        "id": 14,
+        "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá te pide que elabores un plan de mantenimiento preventivo para los equipos de cómputo de la entidad. El plan debe incluir las fechas y las acciones que se realizarán para prolongar la vida útil de los equipos.",
+        "enunciado": "La elaboración del plan se enmarca en la etapa del ciclo de vida de los bienes muebles de:",
+        "opciones": [
+            "A. Adquisición, ya que se está previendo la compra de nuevos equipos en el futuro.",
+            "B. Uso y Mantenimiento, que busca prolongar la vida útil de los bienes.",
+            "C. Baja y Disposición Final, que se refiere a la salida de un bien del inventario."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'uso y mantenimiento' es la etapa del ciclo de vida de los bienes muebles en la que se utilizan los bienes y se les da el mantenimiento necesario para prolongar su vida útil. La elaboración del plan de mantenimiento preventivo se enmarca en esta etapa, ya que busca garantizar que los equipos sean utilizados de forma eficiente y que su vida útil sea lo más larga posible."
+    },
+    {
+        "id": 15,
+        "caso": "La Alcaldía de Cajicá decide utilizar un sistema de códigos QR para la identificación de los equipos de cómputo de la entidad. El sistema permitirá el registro y seguimiento de los equipos en tiempo real.",
+        "enunciado": "La implementación de este sistema se enmarca en las buenas prácticas de:",
+        "opciones": [
+            "A. Trazabilidad, que busca el seguimiento completo del ciclo de vida del bien.",
+            "B. Oportunidad, que busca el registro y actualización en tiempo real de la información.",
+            "C. Integralidad, que busca la inclusión de todos los bienes en el inventario."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La implementación de un sistema de códigos QR para el registro y seguimiento de los equipos se enmarca en las buenas prácticas de oportunidad, que busca el registro y actualización en tiempo real de la información para un control más eficiente."
+    },
+    {
+        "id": 16,
+        "caso": "Un funcionario de la Alcaldía de Cajicá te pide que lo ayudes a dar de baja un computador obsoleto de su área. El computador debe ser dado de baja para que se le asigne uno nuevo.",
+        "enunciado": "¿Qué procedimiento se debe seguir para dar de baja el bien, de acuerdo con el ciclo de vida de los bienes muebles?",
+        "opciones": [
+            "A. El funcionario debe firmar una carta de baja y entregar el computador a la Secretaría de TIC.",
+            "B. La Secretaría de TIC debe realizar un avalúo técnico, un comité de bienes debe autorizar la baja y se debe emitir un acto administrativo.",
+            "C. El funcionario debe entregar el computador al almacén de la Alcaldía, que se encarga de darlo de baja."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El procedimiento de 'baja y disposición final' de un bien mueble debe seguir los procedimientos establecidos por la normatividad. El procedimiento incluye un avalúo técnico, la autorización de un comité de bienes y la emisión de un acto administrativo. Esto garantiza que la baja del bien sea transparente y se ajuste a la normativa vigente."
+    },
+    {
+        "id": 17,
+        "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá te pide que elabores un informe sobre el inventario lógico de la entidad. El informe debe incluir un listado de todas las licencias de software que utiliza la entidad.",
+        "enunciado": "La elaboración del informe se enmarca en la gestión de:",
+        "opciones": [
+            "A. Inventario físico, que controla los bienes tangibles.",
+            "B. Inventario lógico, que controla los bienes intangibles como las licencias de software.",
+            "C. Uso y Mantenimiento, que busca prolongar la vida útil de los bienes."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La gestión de inventario se divide en físico y lógico. El inventario lógico se refiere al control de los bienes intangibles, como las licencias de software. La elaboración del informe se enmarca en la gestión de inventario lógico, que busca evitar el uso de software pirata y garantizar que la entidad cumpla con sus obligaciones contractuales."
+    },
+    {
+        "id": 18,
+        "caso": "Un funcionario de la Alcaldía de Cajicá pierde un computador portátil que le fue asignado para realizar sus funciones. La pérdida del computador es un hecho que debe ser reportado a las autoridades correspondientes.",
+        "enunciado": "La pérdida del computador genera una responsabilidad de tipo:",
+        "opciones": [
+            "A. Fiscal, ya que el funcionario es responsable del uso adecuado de los bienes públicos y la Contraloría fiscaliza la gestión de los bienes de las entidades públicas.",
+            "B. Disciplinaria, ya que el funcionario puede ser sancionado por el uso indebido o el daño de los bienes públicos.",
+            "C. Penal, ya que el hurto del computador es un delito contra el patrimonio público."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La responsabilidad fiscal se refiere a la obligación de los funcionarios de custodiar y usar adecuadamente los bienes públicos. La pérdida o hurto de un bien mueble genera una responsabilidad fiscal, ya que el funcionario debe responder por el daño causado al patrimonio público. La Contraloría General de la República fiscaliza la gestión de los bienes de las entidades públicas."
+    },
+    {
+        "id": 19,
+        "caso": "La Alcaldía de Cajicá está formulando un proyecto para la adquisición de equipos de cómputo para los funcionarios. El proyecto debe seguir los principios de la contratación pública, como la transparencia y la selección objetiva.",
+        "enunciado": "¿Qué ley es el principal soporte normativo para la adquisición de estos bienes?",
+        "opciones": [
+            "A. Ley 80 de 1993, Estatuto General de Contratación de la Administración Pública.",
+            "B. Ley 1474 de 2011, Estatuto Anticorrupción, que establece medidas de transparencia.",
+            "C. Ley 1753 de 2015, Plan Nacional de Desarrollo, que establece la planeación institucional."
+        ],
+        "respuesta_correcta": "A",
+        "explicacion": "La Ley 80 de 1993, conocida como el 'Estatuto General de Contratación de la Administración Pública', es la ley que regula el proceso de compra de bienes, servicios y obras por parte de las entidades públicas. La adquisición de equipos de cómputo debe seguir los principios y procedimientos establecidos en esta ley."
+    },
+    {
+        "id": 20,
+        "caso": "El jefe de la Secretaría TIC de la Alcaldía de Cajicá te pide que elabores un plan de mantenimiento preventivo para los equipos de cómputo de la entidad. El plan debe incluir las fechas y las acciones que se realizarán para prolongar la vida útil de los equipos.",
+        "enunciado": "La elaboración del plan se enmarca en la etapa del ciclo de vida de los bienes muebles de:",
+        "opciones": [
+            "A. Adquisición, ya que se está previendo la compra de nuevos equipos en el futuro.",
+            "B. Uso y Mantenimiento, que busca prolongar la vida útil de los bienes.",
+            "C. Baja y Disposición Final, que se refiere a la salida de un bien del inventario."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El 'uso y mantenimiento' es la etapa del ciclo de vida de los bienes muebles en la que se utilizan los bienes y se les da el mantenimiento necesario para prolongar su vida útil. La elaboración del plan de mantenimiento preventivo se enmarca en esta etapa, ya que busca garantizar que los equipos sean utilizados de forma eficiente y que su vida útil sea lo más larga posible."
+    },
+
+    {
+        "id": 21,
+        "caso": "La Alcaldía de Cajicá, en su Plan Estratégico de Tecnologías de la Información (PETI), ha definido la necesidad de adquirir nuevos servidores para modernizar la infraestructura de la entidad. Usted, como Profesional Universitario de la Secretaría TIC, ha sido asignado para liderar el proceso de formulación de la adquisición, en línea con los objetivos del PETI. Sin embargo, el jefe de la oficina de Planeación ha solicitado que la formulación de la adquisición se ajuste a los principios de la 'contratación pública', como la 'transparencia' y la 'selección objetiva'.",
+        "enunciado": "La acción más estratégica y en línea con el 'ciclo de vida de los bienes muebles' es:",
+        "opciones": [
+            "A. Elaborar el proceso de adquisición sin tener en cuenta la 'transparencia' y la 'selección objetiva', ya que la prioridad es la modernización de la infraestructura.",
+            "B. Presentar un informe detallado sobre la necesidad de los nuevos servidores, justificando la inversión a la luz del PETI y los principios de la 'contratación pública', y que se ajuste a los procedimientos de la entidad.",
+            "C. Priorizar la adquisición de los servidores que tengan un menor costo, sin importar si no cumplen con los requisitos técnicos establecidos en el PETI."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El proceso de adquisición de bienes muebles en el sector público debe ser transparente y ajustarse a los principios de la 'contratación pública'. La acción más estratégica es 'presentar un informe detallado sobre la necesidad de los nuevos servidores, justificando la inversión a la luz del PETI y los principios de la 'contratación pública', y que se ajuste a los procedimientos de la entidad'."
+    },
+    {
+        "id": 22,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado que elabore un plan de 'disposición final' para los equipos de cómputo que han cumplido su vida útil. El plan debe incluir el procedimiento para la 'baja' de los equipos del inventario de la entidad, y la forma en que serán dispuestos para que no generen un impacto negativo en el medio ambiente. Un funcionario de la Alcaldía argumenta que los equipos viejos deben ser donados a la comunidad sin importar si aún son funcionales o no.",
+        "enunciado": "La acción más profesional y estratégica, en línea con el 'ciclo de vida de los bienes muebles' es:",
+        "opciones": [
+            "A. Diseñar un plan de 'disposición final' que incluya la donación de los equipos viejos a la comunidad, sin importar si cumplen con los requisitos técnicos para ser usados de forma segura.",
+            "B. Realizar una auditoría técnica de los equipos viejos para determinar si son aptos para ser donados o si deben ser dispuestos de forma segura y transparente.",
+            "C. Ignorar la opinión del funcionario y proceder con la 'baja' de los equipos del inventario, sin considerar la donación como una opción."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'disposición final' de los bienes muebles debe ser transparente y ajustarse a la normatividad vigente. La acción más profesional es 'realizar una auditoría técnica de los equipos viejos para determinar si son aptos para ser donados o si deben ser dispuestos de forma segura y transparente', lo que se alinea con la 'gestión de procedimientos' y el 'gobierno de la seguridad de la información'."
+    },
+    {
+        "id": 23,
+        "caso": "La Alcaldía de Cajicá ha adquirido 50 licencias de software para el uso de las dependencias. Sin embargo, en una auditoría interna se ha detectado que solo 30 licencias están siendo usadas, y que las 20 licencias restantes están almacenadas en el inventario de la Secretaría TIC sin ser utilizadas. El jefe de la Secretaría TIC le ha solicitado que analice esta situación para proponer una solución que optimice el uso de los recursos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de inventarios' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que las licencias están en el inventario y no se están utilizando de forma indebida.",
+            "B. Proponer la reasignación de las licencias a las dependencias que las necesiten, y en caso de que no haya necesidad, proponer la 'baja' de las licencias para no generar un costo innecesario para la entidad.",
+            "C. Reportar la situación al jefe inmediato, para que él se encargue de la reasignación de las licencias y de la 'baja' de las que no son necesarias."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de inventarios' se enfoca en la optimización del uso de los recursos de la entidad. La acción más estratégica es 'proponer la reasignación de las licencias a las dependencias que las necesiten, y en caso de que no haya necesidad, proponer la 'baja' de las licencias para no generar un costo innecesario para la entidad', lo que se alinea con la 'orientación a resultados' y la 'gestión de procedimientos'."
+    },
+    {
+        "id": 24,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado que elabore un informe para el Concejo Municipal sobre el estado de los bienes muebles de la Secretaría, en línea con el principio de 'transparencia' y 'rendición de cuentas'. El informe debe incluir un inventario detallado de los equipos de cómputo, servidores y licencias de software, y el estado de cada uno de ellos. Un funcionario de la Alcaldía argumenta que la publicación de esta información podría poner en riesgo la seguridad de la entidad.",
+        "enunciado": "La acción más profesional y estratégica, en línea con la normatividad de las TIC, para dar cumplimiento a la solicitud del Concejo es:",
+        "opciones": [
+            "A. Omitir la información sobre los equipos de cómputo y servidores del informe, ya que la publicación de esta información podría poner en riesgo la seguridad de la entidad.",
+            "B. Presentar un informe que incluya un inventario detallado de los bienes muebles de la Secretaría, y justificar la publicación de la información a la luz de la 'Ley de Transparencia y Acceso a la Información'.",
+            "C. Argumentar al Concejo Municipal que la publicación de esta información no es necesaria para la 'rendición de cuentas', ya que la entidad ya ha cumplido con sus obligaciones fiscales."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'Ley de Transparencia y Acceso a la Información' obliga a las entidades públicas a publicar información relevante para la ciudadanía, incluyendo los bienes muebles que poseen. La acción más profesional es 'presentar un informe que incluya un inventario detallado de los bienes muebles de la Secretaría, y justificar la publicación de la información a la luz de la 'Ley de Transparencia y Acceso a la Información'."
+    },
+    {
+        "id": 25,
+        "caso": "La Alcaldía de Cajicá está implementando un nuevo 'Plan de Anticorrupción y de Atención al Ciudadano - PAAC'. Se le ha asignado la función de 'dar soporte en la formulación y/o actualización' del PAAC en lo referente a la estrategia de 'Racionalización de Trámites'. Para ello, se ha identificado la necesidad de adquirir un software que automatice los procesos de atención al ciudadano. Un funcionario de la Alcaldía argumenta que la compra del software es un gasto innecesario y que se debe priorizar la inversión en proyectos que generen un retorno económico a corto plazo.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de bienes muebles' es:",
+        "opciones": [
+            "A. Argumentar que la compra del software es un requisito legal y que la Alcaldía podría enfrentar sanciones si no cumple con la normatividad.",
+            "B. Demostrar que la compra del software es una inversión que optimizará los recursos de la entidad, agilizará los trámites y mejorará la atención al ciudadano, lo que se alinea con la 'racionalización de trámites'.",
+            "C. Ignorar la opinión del funcionario y proceder con la compra del software, sin importar si no se cumple con la normatividad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de bienes muebles' en la administración pública se enfoca en la optimización del uso de los recursos de la entidad. La acción más estratégica es 'demostrar que la compra del software es una inversión que optimizará los recursos de la entidad, agilizará los trámites y mejorará la atención al ciudadano', lo que se alinea con la 'racionalización de trámites' y el 'gobierno de la seguridad de la información'."
+    },
+    {
+        "id": 26,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño de la infraestructura tecnológica de la Alcaldía de Cajicá en el último semestre. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo semestre, ya que los resultados de la 'infraestructura TIC' se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+    },
+    {
+        "id": 27,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 28,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+    },
+    {
+        "id": 29,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+    },
+    {
+        "id": 30,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 31,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+    },
+    {
+        "id": 32,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+    },
+    {
+        "id": 33,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+    },
+    {
+        "id": 34,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 35,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+    },
+    {
+        "id": 36,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+    },
+    {
+        "id": 37,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 38,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+    },
+    {
+        "id": 39,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+    },
+    {
+        "id": 40,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+    },
+    {
+        "id": 41,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 42,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+    },
+    {
+        "id": 43,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+    },
+    {
+        "id": 44,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 45,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+    },
+    {
+        "id": 46,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+    },
+    {
+        "id": 47,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+    },
+    {
+        "id": 48,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 49,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+    },
+    {
+        "id": 50,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+    },
+    {
+        "id": 51,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 52,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+    },
+    {
+        "id": 53,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+    },
+    {
+        "id": 54,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+    },
+    {
+        "id": 55,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 56,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+    },
+    {
+        "id": 57,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+    },
+    {
+        "id": 58,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 59,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+    },
+    {
+        "id": 60,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+    },
+    {
+        "id": 61,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+    },
+    {
+        "id": 62,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 63,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+    },
+    {
+        "id": 64,
+        "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+        "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+        "opciones": [
+            "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+            "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+            "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+    },
+    {
+        "id": 65,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+        "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+            "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+            "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 66,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+    },
+    {
+        "id": 67,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+    },
+    {
+        "id": 68,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+    },
+    {
+        "id": 69,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gobierno Abierto' que busca fomentar la participación ciudadana en la toma de decisiones. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, se ha identificado que algunas dependencias no están publicando la información en formato abierto y accesible para los ciudadanos, lo que dificulta su participación.",
+        "enunciado": "Para cumplir con su función de forma efectiva, la acción más adecuada es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes contra los funcionarios implicados.",
+            "B. Diseñar una guía de buenas prácticas para la publicación de la información en formato abierto y accesible, y socializarla con las dependencias para estandarizar el proceso.",
+            "C. Solicitar a las dependencias que publiquen la información en formato PDF para que los ciudadanos puedan consultarla sin tener que descargarla en su computadora."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' y la 'adaptación al cambio' en la administración pública implican la promoción de la mejora continua. La opción B, 'diseñar una guía de buenas prácticas', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 70,
+        "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Seguridad y Privacidad de la Información' para proteger los datos de los ciudadanos. Se le ha asignado la función de 'establecer las actividades en el marco del Modelo de Seguridad de la Información'. Sin embargo, se ha detectado que una de las dependencias está utilizando una plataforma que no cumple con los estándares de seguridad establecidos en el modelo, lo que pone en riesgo los datos de los ciudadanos.",
+        "enunciado": "La acción más estratégica y en línea con la 'gestión de procedimientos' es:",
+        "opciones": [
+            "A. Reportar la situación a su jefe inmediato y a la oficina de Control Interno para que se tomen las medidas disciplinarias correspondientes y sancionar a la dependencia.",
+            "B. Informar a la dependencia sobre el incumplimiento y ofrecer soporte técnico para ayudarles a migrar a la plataforma que cumple con los estándares de seguridad.",
+            "C. Suspender el acceso a la plataforma que no cumple con los estándares de seguridad para forzar a la dependencia a migrar a la nueva."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'gestión de procedimientos' en la administración pública implica la 'orientación a resultados' y la 'comunicación efectiva'. La opción B, 'informar a la dependencia y ofrecer soporte técnico', es la que mejor se alinea con estos principios, ya que busca una solución de manera colaborativa y proactiva."
+},
+{
+    "id": 71,
+    "caso": "La Alcaldía de Cajicá ha recibido una propuesta de un proveedor tecnológico para implementar un sistema de 'Big Data' para analizar los datos de los ciudadanos y mejorar la toma de decisiones. El costo de esta propuesta es considerable y requiere la aprobación del Subcomité Municipal de Sistemas de Información. Usted, como Profesional Universitario, debe preparar el soporte técnico para que el subcomité tome una decisión informada.",
+    "enunciado": "El paso más importante para preparar el soporte técnico requerido es:",
+    "opciones": [
+        "A. Analizar la propuesta del proveedor exclusivamente en función del presupuesto disponible para la inversión en infraestructura tecnológica.",
+        "B. Comparar la propuesta del proveedor con las necesidades y los objetivos establecidos en el Plan Estratégico de Tecnologías de la Información (PETI).",
+        "C. Argumentar en el subcomité que la implementación del sistema de 'Big Data' es una medida innovadora que pondrá a la Alcaldía a la vanguardia en tecnología."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'instrumentación de decisiones' en la gestión pública exige que el soporte técnico esté basado en la planificación de la entidad. El PETI es el plan que define las necesidades y objetivos tecnológicos de la Alcaldía. La opción B, 'comparar la propuesta con las necesidades y los objetivos establecidos en el PETI', es la única que garantiza la coherencia con la gestión pública y asegura la 'instrumentación de decisiones' de forma informada."
+},
+{
+    "id": 72,
+    "caso": "La Alcaldía de Cajicá está implementando una nueva política de 'Gestión de la Información' que busca estandarizar los procesos de creación, almacenamiento y uso de la información. Se le ha asignado la función de 'velar por el correcto cumplimiento de las normas' en esta materia. Sin embargo, ha detectado que una de las dependencias está almacenando la información de manera desorganizada, lo que podría poner en riesgo la integridad de los datos.",
+    "enunciado": "La acción más adecuada y en línea con la 'gestión de procedimientos' es:",
+    "opciones": [
+        "A. Ignorar la situación, ya que la dependencia es responsable de su propia gestión de la información.",
+        "B. Diseñar un instructivo para la gestión de la información y socializarlo con la dependencia para estandarizar el proceso.",
+        "C. Solicitar a la dependencia que elimine la información desorganizada para evitar riesgos de integridad."
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "La 'gestión de procedimientos' en la administración pública implica la mejora continua y la 'adaptación al cambio'. La opción B, 'diseñar un instructivo', es la que mejor se alinea con estos principios, ya que busca solucionar el problema de fondo a través de la estandarización del proceso."
+    },
+    {
+        "id": 73,
+        "caso": "En el marco de un proyecto de innovación, el jefe de la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC) ha solicitado a su equipo que proponga ideas para mejorar la 'comunicación efectiva' de la Alcaldía de Cajicá con la ciudadanía. Usted, como Profesional Universitario, ha propuesto la implementación de un sistema de 'chat' en la página web para que los ciudadanos puedan resolver sus dudas de forma inmediata. Sin embargo, un compañero se muestra escéptico y argumenta que un 'chat' no es una herramienta formal de comunicación.",
+        "enunciado": "Para demostrar la viabilidad de su propuesta, la mejor estrategia a seguir es:",
+        "opciones": [
+            "A. Argumentar que su propuesta se basa en las últimas tendencias tecnológicas y que es la única opción para modernizar la comunicación con la ciudadanía.",
+            "B. Buscar un proyecto piloto en otra entidad pública para demostrar los beneficios del sistema de 'chat' y obtener el apoyo del compañero.",
+            "C. Solicitar al jefe de la Secretaría que dé la orden de implementar el sistema de 'chat' para agilizar el proceso de comunicación con la ciudadanía."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "La 'instrumentación de decisiones' en la gestión pública requiere la validación de las propuestas a través de la demostración de sus beneficios. La opción B, 'buscar un proyecto piloto', es la que mejor se alinea con este principio, ya que permite demostrar la 'adaptación al cambio' de forma práctica y obtener el apoyo de sus compañeros a través de la 'comunicación efectiva'."
+    },
+    {
+        "id": 74,
+        "caso": "Un ciudadano ha solicitado, a través de una petición formal, un informe detallado sobre el uso de los recursos tecnológicos de la Alcaldía de Cajicá durante el último trimestre. La petición ha sido asignada a la Secretaría de Tecnologías de la Información y las Comunicaciones (TIC). Usted, como Profesional Universitario, debe proyectar el informe y asegurarse de que cumpla con los principios de transparencia y acceso a la información pública. El ciudadano ha solicitado que el informe sea entregado en un plazo de tres días hábiles, lo cual es muy corto.",
+        "enunciado": "La acción más profesional y en línea con la gestión pública territorial es:",
+        "opciones": [
+            "A. Ignorar el plazo de tres días y tomarse el tiempo necesario para elaborar un informe completo y preciso, informando al ciudadano sobre la demora.",
+            "B. Responder al ciudadano que la información solicitada es confidencial y no puede ser revelada al público sin la autorización del Alcalde.",
+            "C. Elaborar un informe que resuma la información solicitada de forma clara y concisa, cumpliendo con el principio de transparencia y el plazo establecido."
+        ],
+        "respuesta_correcta": "C",
+        "explicacion": "La gestión pública se rige por los principios de 'transparencia, acceso a la información y gobierno en línea'. El profesional tiene la función de 'proyectar informes y resolver consultas'. La opción C, 'elaborar un informe que resuma la información', es la que mejor se alinea con este principio, ya que demuestra un 'compromiso con la organización' y una 'orientación al usuario y al ciudadano'."
+    },
+    {
+        "id": 75,
+        "caso": "El jefe de la Secretaría TIC le ha solicitado a usted un análisis sobre el desempeño del 'Plan Estratégico de Tecnologías de la Información' (PETI) en el último año. El informe debe centrarse en la eficacia de las inversiones realizadas y en la consecución de los objetivos planteados. Su jefe le ha recordado que el análisis debe ser lo más objetivo posible, sin subjetividades ni juicios de valor.",
+        "enunciado": "La acción más estratégica y en línea con la 'orientación a resultados' es:",
+        "opciones": [
+            "A. Presentar un informe detallado sobre la ejecución presupuestal de los proyectos del PETI, sin medir el impacto en la consecución de los objetivos.",
+            "B. Cuantificar la eficacia de las inversiones a través de indicadores de gestión, comparándolos con los objetivos establecidos en el PETI.",
+            "C. Argumentar que la eficacia de las inversiones no se puede medir en un solo año, ya que los resultados del PETI se ven a largo plazo."
+        ],
+        "respuesta_correcta": "B",
+        "explicacion": "El principio de 'orientación a resultados' se enfoca en la medición del cumplimiento de los objetivos y metas institucionales. La única opción que se alinea con este principio es la B, ya que 'cuantifica la eficacia de las inversiones' a través de 'indicadores de gestión' y los compara con los 'objetivos establecidos en el PETI'."
+    },
+
+    {
+  "id": 76,
+  "caso": "Como responsable del almacén de la Alcaldía de Cajicá, recibe una solicitud de entrega urgente de 5 computadores portátiles para una capacitación que inicia en 2 horas. El solicitante es un funcionario de nivel jerárquico medio que alega 'urgencia operativa' pero no presenta la documentación completa requerida.",
+  "enunciado": "¿Cuál es la acción más apropiada según los procedimientos de gestión de almacén?",
+  "opciones": [
+    "A. Entregar los equipos inmediatamente por tratarse de una urgencia operativa y solicitar la documentación posteriormente.",
+    "B. Negar la entrega hasta que se complete toda la documentación requerida según el manual de procedimientos.",
+    "C. Entregar 2 equipos como medida temporal mientras se completa la documentación para los 3 restantes."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El manual de procedimientos de almacén exige el cumplimiento de todos los requisitos documentales antes de cualquier entrega. Las excepciones por 'urgencia' deben estar previamente definidas en los procedimientos y autorizadas por el responsable máximo del área solicitante. Ceder ante presiones sin documentación adecuada debilita los controles y puede generar responsabilidades."
+},
+{
+  "id": 77,
+  "caso": "Durante el inventario físico anual, se identifica que 3 escritorios de madera valuados en 2.5 SMMLV cada uno presentan daños irreparables. El comité de bienes recomienda su baja, pero el contador insiste en que deben permanecer en el inventario hasta cumplir su vida útil estimada de 10 años (llevan 8 años en uso).",
+  "enunciado": "¿Qué acción debe tomarse según la normativa de administración de bienes?",
+  "opciones": [
+    "A. Mantener los bienes en inventario hasta cumplir la vida útil estimada, reparándolos parcialmente.",
+    "B. Dar de baja los bienes mediante acto administrativo basado en el avalúo técnico que determina daños irreparables.",
+    "C. Esperar 2 años más para completar la vida útil y luego proceder con la baja automática."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La vida útil estimada es referencial pero no inflexible. Cuando un bien presenta daños irreparables que imposibilitan su uso o hacen económicamente inviable su reparación, debe darse de baja mediante acto administrativo sustentado en avalúo técnico, independientemente del tiempo de vida útil restante. Esto se establece en el Decreto 1083 de 2015."
+},
+{
+  "id": 78,
+  "caso": "Un vehículo oficial asignado a la Secretaría de Movilidad sufre un accidente que lo deja inservible. La aseguradora cubre el valor comercial actual pero no alcanza para comprar un vehículo nuevo similar. Existen recursos en el presupuesto para complementar.",
+  "enunciado": "¿Cuál es el procedimiento correcto para el reemplazo?",
+  "opciones": [
+    "A. Usar el dinero del seguro para comprar un vehículo usado similar y reintegrar el sobrante al presupuesto.",
+    "B. Destinar los recursos del seguro más complemento presupuestal para adquirir un vehículo nuevo mediante proceso de contratación.",
+    "C. Esperar al siguiente año fiscal para incluir la compra en el plan anual de adquisiciones."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Los recursos provenientes de indemnizaciones de seguros deben destinarse específicamente para reponer el bien siniestrado. Si estos no son suficientes, se puede complementar con recursos presupuestales mediante el proceso de contratación correspondiente, previa modificación presupuestal si es necesario. La compra debe hacerse mediante los procedimientos establecidos en la Ley 80 de 1993."
+},
+{
+  "id": 79,
+  "caso": "Se requiere adquirir 50 sillas ergonómicas para reemplazar mobiliario obsoleto. El presupuesto asignado es de 60 SMMLV. El único proveedor autorizado que cumple las especificaciones técnicas cobra 15% más del valor presupuestado.",
+  "enunciado": "¿Cuál es el procedimiento a seguir?",
+  "opciones": [
+    "A. Reducir la cantidad de sillas a adquirir para ajustarse al presupuesto disponible.",
+    "B. Solicitar modificación presupuestal o gestión de recursos adicionales para cumplir con las especificaciones.",
+    "C. Adquirir sillas de menor calidad que se ajusten al presupuesto, aunque no cumplan todas las especificaciones."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Cuando las especificaciones técnicas son esenciales (especialmente en mobiliario ergonómico por temas de salud ocupacional) y no hay alternativas en el mercado que las cumplan al precio presupuestado, se debe gestionar la modificación presupuestal o búsqueda de recursos adicionales. Adquirir bienes que no cumplan especificaciones técnicas puede generar mayores costos futuros por reposición temprana o problemas de salud en los funcionarios."
+},
+{
+  "id": 80,
+  "caso": "En una verificación sorpresa de almacén, se encuentran 5 tablets que no aparecen en el sistema de inventario. El almacenista argumenta que fueron donadas por una empresa privada hace 3 meses y por 'urgencia operativa' se estaban utilizando sin registrar.",
+  "enunciado": "¿Qué medidas inmediatas debe tomar el responsable de bienes?",
+  "opciones": [
+    "A. Registrar inmediatamente las tablets en inventario y regularizar su situación documental.",
+    "B. Incautar las tablets e iniciar investigación disciplinaria por omisión en el registro.",
+    "C. Dejar las tablets en uso pero exigir su registro en el próximo inventario programado."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Todo ingreso de bienes al patrimonio público debe registrarse inmediatamente en el sistema de inventario, independientemente de su procedencia (compra, donación, transferencia). La omisión del registro constituye una falta grave según el manual de procedimientos. Se debe incautar los bienes, iniciar investigación disciplinaria y regularizar la situación mediante acto administrativo que incorpore los bienes al inventario."
+},
+{
+  "id": 81,
+  "caso": "El Alcalde ordena la donación de 20 computadores obsoletos a una institución educativa rural. Los equipos tienen 8 años de uso y valor residual inferior al 10% de su valor inicial, pero son funcionales para actividades básicas.",
+  "enunciado": "¿Cuál es el procedimiento correcto para esta donación?",
+  "opciones": [
+    "A. Realizar la donación directamente por decisión del Alcalde, por tratarse de bienes de bajo valor.",
+    "B. Conformar comité de evaluación, obtener avalúo actualizado y emitir acto administrativo de donación.",
+    "C. Vender los equipos simbólicamente a la institución para evitar problemas legales."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Las donaciones de bienes públicos requieren cumplir con un procedimiento formal: evaluación técnica del estado del bien, avalúo comercial actualizado, concepto favorable del comité de bienes, acto administrativo motivado y registro contable correspondiente. No aplican simplificaciones por bajo valor, ya que todo bien público debe seguir el procedimiento establecido para su disposición final."
+},
+{
+  "id": 82,
+  "caso": "Un funcionario solicita la asignación de un vehículo oficial para trabajo de campo. Existen 3 vehículos disponibles: uno nuevo (asignado al Secretario), uno con 3 años de uso (en mantenimiento preventivo) y uno con 5 años (operativo pero con alto kilometraje).",
+  "enunciado": "¿Cuál es el criterio de asignación más appropriate?",
+  "opciones": [
+    "A. Asignar el vehículo nuevo por seguridad del funcionario en carretera.",
+    "B. Asignar el vehículo de 5 años por ser el menos valioso y evitar desgaste del nuevo.",
+    "C. Esperar a que finalice el mantenimiento preventivo del vehículo de 3 años y asignarlo."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "Los vehículos deben asignarse considerando eficiencia y economía. El vehículo en mantenimiento preventivo soon estará en óptimas condiciones técnicas con costo operativo controlado. Asignar el vehículo nuevo generaría mayor depreciación y costos, mientras que el de alto kilometraje podría tener mayores costos de mantenimiento y menor confiabilidad. La programación adecuada de uso optimiza la flota."
+},
+{
+  "id": 83,
+  "caso": "Se detecta que 10 equipos de computo fueron asignados a funcionarios que ya no laboran en la entidad. Los equipos no han sido devueltos y los exfuncionarios no responden los requerimientos.",
+  "enunciado": "¿Qué acciones debe tomar el responsable de bienes?",
+  "opciones": [
+    "A. Dar de baja los equipos por pérdida y actualizar el inventario.",
+    "B. Emitir actos administrativos de responsabilidad fiscal y iniciar acciones legales.",
+    "C. Esperar a que los equipos aparezcan o sean devueltos espontáneamente."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La no devolución de bienes asignados al finalizar la relación laboral constituye apropiación indebida de bienes públicos. Se deben emitir actos administrativos que determinen la responsabilidad fiscal, iniciar las acciones legales correspondientes (penales y/o disciplinarias) y mantener los bienes en inventario como 'en recuperación' hasta su resolución definitiva. No se pueden dar de baja por pérdida sin agotar las acciones de recuperación."
+},
+{
+  "id": 84,
+  "caso": "El comité de compras aprueba la adquisición de muebles modulares para optimizar espacio. Existen 3 proveedores con productos similares pero solo uno ofrece 5 años de garantía (otros ofrecen 1 y 2 años). Su propuesta es 20% más costosa.",
+  "enunciado": "¿Qué criterio debe prevalecer en la selección?",
+  "opciones": [
+    "A. Seleccionar la propuesta más económica que cumpla especificaciones mínimas.",
+    "B. Elegir la propuesta con mayor garantía por representar menor costo de vida útil.",
+    "C. Descartar todas y reiniciar el proceso con nuevas especificaciones."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "En las adquisiciones públicas debe considerarse el 'costo de vida útil' que incluye no solo el precio de compra sino costos de mantenimiento, garantía y duración. Una garantía extendida puede significar importantes ahorros futuros. El comité de compras puede justificar la selección de una propuesta más costosa si demuestra mejor relación costo-beneficio en el largo plazo."
+},
+{
+  "id": 85,
+  "caso": "Una dependencia solicita la compra de software especializado valorado en 8 SMMLV. El proveedor exige pago del 100% por adelantado por tratarse de software desarrollado a la medida.",
+  "enunciado": "¿Cómo debe procederse según la normativa de contratación?",
+  "opciones": [
+    "A. Aceptar el pago adelantado por tratarse de software a la medida con especificaciones únicas.",
+    "B. Negociar pagos parciales contra hitos de entrega y aceptación técnica.",
+    "C. Rechazar la exigencia y declarar desierto el proceso."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La normativa de contratación establece que los pagos adelantados solo se permiten excepcionalmente y con garantías bancarias que los respalden. Para software a la medida, lo adecuado es establecer pagos parciales contra hitos de entrega verificables y aceptación técnica, reteniendo siempre un porcentaje (10-20%) hasta la aceptación final y fin de garantía."
+},
+{
+  "id": 86,
+  "caso": "En el inventario físico semestral se identifica que 5 equipos tienen seriales diferentes a los registrados en el sistema. El almacenista argumenta que fueron reparados y se cambiaron piezas principales.",
+  "enunciado": "¿Qué acción debe tomarse?",
+  "opciones": [
+    "A. Actualizar los seriales en el sistema con el acta de la reparación como sustento.",
+    "B. Mantener los seriales originales y documentar las modificaciones en observaciones.",
+    "C. Dar de baja los equipos originales y registrar los reparados como bienes nuevos."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "Cuando por reparaciones se modifican componentes principales que cambian las características identificativas del bien (seriales, números de parte), se debe actualizar la información en el sistema de inventario, sustentando la modificación con los documentos de la reparación (órdenes de trabajo, facturas de repuestos). El bien mantiene su identidad original pero con información técnica actualizada."
+},
+{
+  "id": 87,
+  "caso": "Un funcionario reporta la pérdida de un teléfono celular asignado. Aleja que fue robado durante una visita de campo pero no presenta denuncia penal alegando 'pérdida de tiempo'.",
+  "enunciado": "¿Qué procedimiento debe seguirse?",
+  "opciones": [
+    "A. Exigir la presentación de la denuncia penal como requisito para el proceso de baja.",
+    "B. Dar de baja el equipo por pérdida basado en el reporte interno del funcionario.",
+    "C. Cobrar al funcionario el valor del equipo por negligencia en su custodia."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "Para la baja por pérdida o hurto de bienes públicos se requiere necesariamente la denuncia penal como sustento legal. El reporte interno no es suficiente. Hasta tanto se presente la denuncia, el bien debe mantenerse en inventario como 'en investigación' y el funcionario responsable debe responder por su custodia."
+},
+{
+  "id": 88,
+  "caso": "La Contraloría solicita información sobre bienes dados de baja en los últimos 2 años. Al revisar los expedientes, se identifica que 3 actos administrativos de baja no tienen avalúo técnico sustentatorio.",
+  "enunciado": "¿Qué medida debe tomarse inmediatamente?",
+  "opciones": [
+    "A. Realizar avalúos técnicos retroactivos y adjuntarlos a los expedientes.",
+    "B. Informar a la Contraloría que los avalúos se extraviaron y solicitarlos al proveedor.",
+    "C. Reconstruir los expedientes con documentación disponible y explicar la situación."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "Los avalúos técnicos son requisito esencial para las bajas de bienes. Su omisión invalida el procedimiento. Deben realizarse avalúos retroactivos por peritos independientes que determinen el valor en el momento de la baja, regularizando la situación. Se debe informar a la Contraloría sobre la omisión y las medidas correctivas tomadas."
+},
+{
+  "id": 89,
+  "caso": "Se requiere almacenar temporalmente 100 cajas de material promocional por 3 meses. El almacén principal está al 95% de capacidad. Un funcionario ofrece espacio en su garage particular sin costo.",
+  "enunciado": "¿Qué decisión debe tomarse?",
+  "opciones": [
+    "A. Aceptar el espacio offered para resolver la necesidad inmediata.",
+    "B. Alquilar un espacio de almacenamiento comercial con garantías de seguridad.",
+    "C. Reducir la cantidad de material a almacenar para usar solo el espacio disponible."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El almacenamiento de bienes públicos en espacios privados no autorizados está prohibido por cuestiones de seguridad, control y responsabilidad. La solución adecuada es gestionar espacio adicional mediante alquiler comercial con garantías adecuadas o redistribuir existencias para liberar espacio, siempre manteniendo los bienes en locations autorizadas y controladas."
+},
+{
+  "id": 90,
+  "caso": "Un proveedor entrega 15 equipos de computo pero las especificaciones técnicas difieren levemente de las requeridas (menor capacidad de RAM). El precio es 25% menor al presupuestado y el proveedor ofrece descuento adicional por aceptación.",
+  "enunciado": "¿Qué decisión debe tomar el receptor de almacén?",
+  "opciones": [
+    "A. Rechazar la entrega por incumplimiento de especificaciones técnicas.",
+    "B. Aceptar la entrega por el ahorro significativo y las necesidades operativas.",
+    "C. Consultar al área solicitante si las especificaciones menores son aceptables."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "El receptor de almacén debe verificar el estricto cumplimiento de las especificaciones técnicas contratadas. Cualquier variación, por mínima que sea, es causal de rechazo de la entrega. La aceptación de bienes diferentes a los contratados puede generar responsabilidades por incumplimiento contractual y problemas operativos futuros."
+},
+{
+  "id": 91,
+  "caso": "El sistema de inventario reporta 2 impresoras láser en stock pero en el almacén físico solo hay 1. El registro muestra que hace 6 meses se asignó 1 unidad a un funcionario que juró no haberla recibido.",
+  "enunciado": "¿Qué acciones inmediatas deben tomarse?",
+  "opciones": [
+    "A. Dar de baja la impresora faltante por error de registro y ajustar el inventario.",
+    "B. Investigar los movimientos del bien, revisar firmas de entrega y notificar a control interno.",
+    "C. Comprometer presupuesto para reponer la impresora faltante y cerrar el incidente."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Las diferencias en inventario requieren investigación exhaustiva antes de cualquier ajuste. Debe revisarse toda la trazabilidad del bien (entrada, asignación, devolución), verificar firmas en actas de entrega, y notificar a control interno para auditoría. Solo después de agotada la investigación puede determinarse si hubo error administrativo, pérdida o otra situación que determine las acciones a seguir."
+},
+{
+  "id": 92,
+  "caso": "Una empresa dona 20 escritorios usados en buen estado. La dependencia beneficiaria solicita recibirlos directamente para evitar 'trámites burocráticos' en almacén.",
+  "enunciado": "¿Cómo debe manejarse esta donación?",
+  "opciones": [
+    "A. Permitir la entrega directa para agilizar el proceso, documentando posteriormente.",
+    "B. Rechazar la donación por tratarse de bienes usados de procedencia privada.",
+    "C. Recibir los bienes en almacén, registrarlos e incorporarlos al inventario antes de asignarlos."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "Todas las donaciones deben seguir el procedimiento establecido: recepción en almacén, evaluación técnica, avalúo comercial, registro en inventario, y luego asignación mediante acto administrativo. Saltarse estos pasos debilita los controles patrimoniales y puede generar problemas de trazabilidad, valoración y responsabilidad sobre los bienes."
+},
+{
+  "id": 93,
+  "caso": "El plan de adquisiciones anual incluye compra de vehículo para la Alcaldía. Existen recursos disponibles pero el proceso de contratación se demorará 4 meses. Un concesionario ofrece vehículo similar para entrega inmediata con leasing operativo por 1 año.",
+  "enunciado": "¿Qué alternativa es más viable?",
+  "opciones": [
+    "A. Aceptar el leasing operativo para cubrir la necesidad inmediata y comprar después.",
+    "B. Esperar los 4 meses y adquirir el vehículo mediante contratación pública.",
+    "C. Comprar un vehículo usado temporalmente mientras se completa el proceso."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El leasing operativo de bienes muebles requiere análisis específico de conveniencia y oportunidad, y debe seguir los mismos procesos de contratación pública que la compra directa. No puede usarse para eludir los tiempos de los procesos de contratación. La solución adecuada es gestionar eficientemente el proceso de compra dentro de los plazos establecidos o reprogramar la necesidad si la demora es crítica."
+},
+{
+  "id": 94,
+  "caso": "Un funcionario se accidenta con una silla giratoria que se rompió durante uso normal. Investigación preliminar indica que la silla tenía 10 años de uso y superaba su vida útil estimada de 8 años.",
+  "enunciado": "¿Qué responsabilidad tiene la área de gestión de bienes?",
+  "opciones": [
+    "A. Ninguna responsabilidad por tratarse de un accidente imprevisible durante uso normal.",
+    "B. Responsabilidad por no haber dado de baja el bien al cumplir su vida útil estimada.",
+    "C. Responsabilidad solidaria con el funcionario por no reportar defectos en el bien."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "La gestión de bienes incluye la responsabilidad de mantenerlos en condiciones seguras de uso. Los bienes que superan su vida útil estimada deben ser evaluados técnicamente para determinar si pueden continuar en uso o deben darse de baja. Mantener bienes beyond su vida útil sin evaluación de seguridad genera responsabilidad por posibles accidentes o daños."
+},
+{
+  "id": 95,
+  "caso": "Se identifica que 30% de los equipos de computo tienen software sin licencia. El proveedor ofrece 'regularizar' la situación con licencias a precio preferencial sin proceso de contratación.",
+  "enunciado": "¿Cómo debe procederse?",
+  "opciones": [
+    "A. Adquirir las licencias inmediatamente para resolver el problema de illegalidad.",
+    "B. Realizar un proceso de contratación transparente para la adquisición de las licencias necesarias.",
+    "C. Eliminar el software sin licencia y usar solo software libre disponible."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "El uso de software sin licencia es illegal y expone a la entidad a sanciones y demandas. La regularización debe hacerse mediante proceso de contratación público transparente, no mediante negociaciones directas con el proveedor que detectó la irregularidad. Puede incluirse la necesidad en el plan anual de adquisiciones o gestionar una contratación emergency siguiendo los procedimientos establecidos."
+},
+{
+  "id": 96,
+  "caso": "La Alcaldía recibe como comodato equipos médicos valuados en 20.000 SMMLV por 2 años. El comodante exige que los equipos no sean asegurados para 'reducir costos'.",
+  "enunciado": "¿Qué decisión debe tomarse?",
+  "opciones": [
+    "A. Aceptar el comodato sin seguro por tratarse de bienes que no son propiedad de la Alcaldía.",
+    "B. Rechazar el comodato a menos que incluya cláusula de seguro contra todo riesgo.",
+    "C. Aceptar los equipos pero adquirir seguro con recursos propios para protegerlos."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Los bienes recibidos en comodato quedan bajo la custodia y responsabilidad de la entidad pública. Deben estar asegurados contra todo riesgo durante el período del comodato. Aceptar bienes valiosos sin adecuada protección expondría al patrimonio público a posibles demandas por daños o pérdidas. El comodato debe formalizarse con contrato que incluya obligatoriedad de seguro."
+},
+{
+  "id": 97,
+  "caso": "El inventario físico identifica 5 tablets que fueron compradas hace 2 años pero nunca asignadas. Están obsoletas tecnológicamente y su valor comercial es inferior al 20% del original.",
+  "enunciado": "¿Qué procedimiento debe seguirse?",
+  "opciones": [
+    "A. Asignarlas inmediatamente a funcionarios que necesiten equipos básicos.",
+    "B. Darles de baja por obsolescencia técnica y disponer de ellas.",
+    "C. Mantenerlas en almacén como reserva para emergencias operativas."
+  ],
+  "respuesta_correcta": "A",
+  "explicacion": "Los bienes deben asignarse y utilizarse oportunamente para maximizar su valor público. La obsolescencia tecnológica no es causal de baja si los bienes son funcionales para actividades básicas. Deben asignarse a funcionarios cuyas necesidades se ajusten a las capacidades de los equipos, documentando que se entregan en estado tecnológico obsoleto pero operativo."
+},
+{
+  "id": 98,
+  "caso": "Un funcionario solicita asignación de vehículo oficial para transporte diario desde su casa a la oficina (40 km ida y vuelta). Alega que el transporte público es inseguro en su ruta.",
+  "enunciado": "¿Cómo debe resolverse esta solicitud?",
+  "opciones": [
+    "A. Asignar el vehículo por razones de seguridad del funcionario.",
+    "B. Negar la asignación por no ser uso oficial del vehículo.",
+    "C. Asignar el vehículo pero descontar del salario el costo del combustible."
+  ],
+  "explicacion": "B",
+  "respuesta_correcta": "B",
+  "explicacion": "Los vehículos oficiales son para uso exclusivo en funciones y actividades oficiales de la entidad. El transporte casa-oficina del personal no constituye uso oficial, incluso cuando existan razones de seguridad. La solución alternativa podría ser implementar rutas de transporte corporativo o apoyos de transporte, pero nunca la asignación individual de vehículos oficiales para este fin."
+},
+{
+  "id": 99,
+  "caso": "Se detecta que un funcionario tiene asignados 2 computadores: uno de escritorio en su oficina y uno portátil para trabajo de campo. La política de la entidad establece 'un equipo por funcionario'.",
+  "enunciado": "¿Qué acción debe tomarse?",
+  "opciones": [
+    "A. Retirar uno de los equipos para cumplir con la política establecida.",
+    "B. Mantener ambos equipos por tratarse de necesidades operativas diferentes.",
+    "C. Solicitar al funcionario que elija un equipo y devuelva el otro."
+  ],
+  "respuesta_correcta": "B",
+  "explicacion": "Las políticas de 'un equipo por funcionario' deben interpretarse flexiblemente cuando existen necesidades operativas justificadas. Un equipo de escritorio para oficina y un portátil para campo constituyen dotación razonable para funciones que requieren movilidad. La adecuación de las herramientas a las necesidades reales del trabajo prevalece sobre aplicaciones literales de políticas generales."
+},
+{
+  "id": 100,
+  "caso": "La Contraloría ordena embargar 3 vehículos oficiales como medida cautelar en un proceso fiscal. Los vehículos son esenciales para servicios de emergencia del municipio.",
+  "enunciado": "¿Qué gestión puede realizarse?",
+  "opciones": [
+    "A. Ocultar los vehículos para evitar el embargo y mantener los servicios.",
+    "B. Acatar el embargo y paralizar los servicios afectados.",
+    "C. Solicitar sustitución de la medida cautelar por garantía equivalente."
+  ],
+  "respuesta_correcta": "C",
+  "explicacion": "Frente a embargos de bienes esenciales para la prestación de servicios públicos, puede solicitarse al juez o autoridad competente la sustitución de la medida cautelar real (embargo) por una medida cautelar personal (garantía bancaria, fianza) que no afecte la operación de servicios esenciales. Esto está previsto en las normas procesales y busca balancear el interés de la investigación con la continuidad del servicio público."
+},
+
+
+{
+"id": 101,
+"caso": "El jefe del área de administración de bienes muebles de la Alcaldía de Cajicá solicita diseñar un plan de mantenimiento preventivo para los equipos de oficina, con el fin de prolongar su vida útil y evitar fallas frecuentes.",
+"enunciado": "La elaboración del plan se sitúa en cuál etapa del ciclo de vida de los bienes muebles?",
+"opciones": [
+"A. Adquisición, porque implica una planificación para futuras compras.",
+"B. Uso y mantenimiento, ya que está orientado a conservar y prolongar la vida útil del bien.",
+"C. Baja y disposición final, pues busca eliminar posibles fallas."
+],
+"respuesta_correcta": "B",
+"explicacion": "El plan de mantenimiento preventivo forma parte de la etapa de uso y mantenimiento, cuyo objetivo es conservar la funcionalidad y extender la vida útil de los bienes muebles."
+},
+{
+"id": 102,
+"caso": "La Alcaldía de Cajicá está realizando el inventario anual de los bienes muebles asignados a la Secretaría de Educación. Se detectan discrepancias entre los registros y la realidad física.",
+"enunciado": "Según protocolos de administración, cuál sería la acción correcta a seguir?",
+"opciones": [
+"A. Ajustar los registros sin investigar las causas.",
+"B. Realizar una verificación exhaustiva, reportar las diferencias y analizar las posibles causas del desfase.",
+"C. Ignorar las discrepancias por considerarlas mínimas."
+],
+"respuesta_correcta": "B",
+"explicacion": "La detección de discrepancias requiere un proceso riguroso de verificación y análisis para mantener la integridad del inventario."
+},
+{
+"id": 103,
+"caso": "Se establece una política de bajas de bienes muebles obsoletos en la Alcaldía de Cajicá. La normativa exige un procedimiento estricto para eliminar y reporte de estos activos.",
+"enunciado": "Cuál es el objetivo principal de esta política?",
+"opciones": [
+"A. Controlar la salida oficial de bienes para evitar pérdidas y garantizar transparencia.",
+"B. Deshacerse de los bienes de cualquier forma para liberar espacio.",
+"C. Evitar la baja para mantener el patrimonio inalterado."
+],
+"respuesta_correcta": "A",
+"explicacion": "La baja de bienes debe cumplir con procedimientos formales para proteger el patrimonio y evitar malos manejos."
+},
+{
+"id": 104,
+"caso": "El almacén de la Alcaldía de Cajicá recibe un lote de equipos electrónicos para inventariar. El proceso de almacenamiento debe garantizar condiciones óptimas de conservación.",
+"enunciado": "Cuál medida sería prioritaria para asegurar la conservación adecuada?",
+"opciones": [
+"A. Registrar cada bien detalladamente y almacenarlo en ambiente controlado, respetando especificaciones técnicas.",
+"B. Guardar productos sin orden para acelerar la entrega.",
+"C. Dejar los bienes expuestos sin control alguno."
+],
+"respuesta_correcta": "A",
+"explicacion": "La conservación y registro adecuado previene deterioros, facilita el control y optimiza la distribución."
+},
+{
+"id": 105,
+"caso": "Durante el proceso de adquisición de bienes muebles, la Secretaría de Administración debe asegurar cumplimiento con políticas públicas y principios de economía y eficiencia.",
+"enunciado": "Qué normativa rige estos procesos en Colombia?",
+"opciones": [
+"A. Ley 80 de 1993 que regula la contratación pública.",
+"B. Ley 1581 de 2012 sobre protección de datos.",
+"C. Decreto 2609 de 1991 sobre educación."
+],
+"respuesta_correcta": "A",
+"explicacion": "La Ley 80 establece las reglas para la contratación y adquisición de bienes y servicios en el sector público."
+},
+{
+"id": 106,
+"caso": "Se reporta un incidente de pérdida de varios activos de oficina durante una reubicación en la Alcaldía de Cajicá.",
+"enunciado": "Según principios administrativos, cuál sería la acción correcta para responder?",
+"opciones": [
+"A. Realizar un informe detallado, iniciar investigación y actualizar inventarios.",
+"B. Ignorar el hecho porque es un incidente aislado.",
+"C. Culpabilizar directamente al personal sin análisis detallado."
+],
+"respuesta_correcta": "A",
+"explicacion": "La respuesta formal con informe, investigación y actualización es crucial para la rendición de cuentas y control."
+},
+{
+"id": 107,
+"caso": "En la gestión de inventarios, se establece un sistema de control de entradas y salidas con evidencia fotográfica y firmas digitales.",
+"enunciado": "Qué ventaja principal asegura este método?",
+"opciones": [
+"A. Mayor trazabilidad y registro para evitar pérdidas y mejorar auditorías.",
+"B. Más burocracia que dificulta los procesos.",
+"C. No es necesario porque hay confianza en los funcionarios."
+],
+"respuesta_correcta": "A",
+"explicacion": "El registro detallado y visual mejora el control y la transparencia en la administración de bienes."
+},
+{
+"id": 108,
+"caso": "Al cambiar equipos de computación, la Alcaldía debe estimar correctamente la vida útil para planificar reemplazos y bajas.",
+"enunciado": "Cuál es el rango de vida útil estimado para equipos de cómputo según normativas?",
+"opciones": [
+"A. Entre 3 y 5 años.",
+"B. Entre 7 y 10 años.",
+"C. Más de 15 años."
+],
+"respuesta_correcta": "A",
+"explicacion": "Normativas y manuales oficiales indican que la vida útil estándar para equipos de cómputo va de 3 a 5 años."
+},
+{
+"id": 109,
+"caso": "En la administración de bienes muebles, se deben prever políticas amigables con el medio ambiente para evitar contaminación.",
+"enunciado": "Qué principio debe aplicarse en la gestión de inventarios y disposición final?",
+"opciones": [
+"A. Implementar prácticas sostenibles siguiendo planes de gestión ambiental.",
+"B. Ignorar los impactos ambientales para acelerar procesos.",
+"C. Delegar la responsabilidad ambiental a terceros sin control."
+],
+"respuesta_correcta": "A",
+"explicacion": "Las buenas prácticas incluyen proteger el ambiente durante todo el ciclo de vida de los bienes."
+},
+{
+"id": 110,
+"caso": "El área de archivo de la Alcaldía requiere clasificar el patrimonio mueble con base en su importancia histórica, funcional y valor económico.",
+"enunciado": "Qué entidad puede declarar un bien como patrimonio de interés cultural?",
+"opciones": [
+"A. El Archivo General de la Nación.",
+"B. Secretaría de Planeación local.",
+"C. Ministerio de Hacienda."
+],
+"respuesta_correcta": "A",
+"explicacion": "El Archivo General de la Nación tiene competencia para declarar y proteger bienes muebles de valor cultural."
+},
+{
+"id": 111,
+"caso": "En la formulación del plan de gestión de almacenes, se debe analizar la frecuencia de consumo para establecer niveles mínimos y máximos.",
+"enunciado": "Cuál es el objetivo de esta práctica?",
+"opciones": [
+"A. Optimizar la disponibilidad y evitar faltantes o excesos en inventarios.",
+"B. Mantener grandes inventarios para cualquier eventualidad.",
+"C. No hacer seguimiento a niveles de stock."
+],
+"respuesta_correcta": "A",
+"explicacion": "Controlar el inventario mediante niveles adecuados mejora la eficiencia y reduce costos."
+},
+{
+"id": 112,
+"caso": "La Secretaría de Administración recibe el encargo de elaborar un informe periódico de bienes muebles para la Contraloría general.",
+"enunciado": "Qué elementos clave debe contener este informe?",
+"opciones": [
+"A. Registro actualizado de bienes, movimientos, mantenimientos y bajas.",
+"B. Solo listado de nuevos bienes adquiridos.",
+"C. Datos generales sin detalle."
+],
+"respuesta_correcta": "A",
+"explicacion": "El informe debe ser detallado, veraz y sistematizado para cumplir con controles y auditorías."
+},
+{
+"id": 113,
+"caso": "Durante el proceso de baja de un vehículo institucional, se debe asegurar la tramitación y autorización oficial antes de su retiro del inventario.",
+"enunciado": "Cuál es la etapa crítica en esta gestión?",
+"opciones": [
+"A. La evaluación del estado y la determinación de obsolescencia o inutilidad.",
+"B. La entrega inmediata del vehículo sin ningún trámite.",
+"C. La venta directa sin autorización."
+],
+"respuesta_correcta": "A",
+"explicacion": "Determinar correctamente el estado del bien protege el patrimonio y evita actos irregulares."
+},
+{
+"id": 114,
+"caso": "En una capacitación sobre administración de bienes, se enfatiza la responsabilidad disciplinaria de los funcionarios encargados.",
+"enunciado": "Qué riesgos enfrentan si incumplen la normatividad?",
+"opciones": [
+"A. Responsabilidades fiscales, penales y disciplinarias, según la ley.",
+"B. Ninguno, porque la gestión es informal.",
+"C. Solo amonestaciones verbales."
+],
+"respuesta_correcta": "A",
+"explicacion": "Las normas colombianas contemplan sanciones estrictas para quienes administran mal los bienes públicos."
+},
+{
+"id": 115,
+"caso": "El área de bienes muebles detecta que varios activos han sido trasladados sin registros ni autorización.",
+"enunciado": "Cuál es la prioridad inmediata de gestión?",
+"opciones": [
+"A. Realizar auditoría para esclarecer movimientos y actualizar registros.",
+"B. Ignorar la situación para evitar conflictos.",
+"C. Suponer que el traslado fue legítimo sin verificar."
+],
+"respuesta_correcta": "A",
+"explicacion": "La auditoría asegura transparencia y permite tomar medidas correctivas."
+},
+{
+"id": 116,
+"caso": "El municipio planifica implementar un sistema de administración de inventarios con código de barras para mejorar control y registro.",
+"enunciado": "Qué beneficio principal aportará esta herramienta?",
+"opciones": [
+"A. Mayor precisión en registros, rapidez en ubicación y disminución de errores.",
+"B. Solo beneficio estético sin impacto real.",
+"C. Dificultad añadida para el personal."
+],
+"respuesta_correcta": "A",
+"explicacion": "Automatizar registros reduce errores, mejora la eficiencia y facilita auditorías."
+},
+{
+"id": 117,
+"caso": "La Alcaldía debe garantizar la conservación adecuada de herramientas y equipos de campo expuestos a condiciones climáticas adversas.",
+"enunciado": "Qué acción recomendada asegura su buen estado?",
+"opciones": [
+"A. Implementar programas periódicos de mantenimiento y almacenamiento en lugares adecuados.",
+"B. Guardar en cualquier lugar para acelerar uso.",
+"C. No realizar mantenimiento preventivo."
+],
+"respuesta_correcta": "A",
+"explicacion": "Conservación y mantenimiento adecuado prolongan la vida útil y funcionalidad."
+},
+{
+"id": 118,
+"caso": "Durante una inspección, se evidencia que el almacén no cumple con los estándares mínimos de seguridad física.",
+"enunciado": "Cuál es el riesgo más grave de esta situación?",
+"opciones": [
+"A. Pérdida o robo de bienes y afectación a la continuidad del servicio.",
+"B. Simple incomodidad sin impacto.",
+"C. Solo preocupaciones administrativas sin consecuencias."
+],
+"respuesta_correcta": "A",
+"explicacion": "La seguridad física protege el patrimonio público y evita pérdidas materiales."
+},
+{
+"id": 119,
+"caso": "En la actualización de inventarios, la Alcaldía detecta que varios bienes están clasificados incorrectamente y no corresponden a su uso actual.",
+"enunciado": "Qué consecuencia implica esta situación?",
+"opciones": [
+"A. Dificultad en gestión, reportes inexactos y posible mal uso de recursos.",
+"B. No hay impacto mientras haya bienes.",
+"C. Facilita la flexibilidad en uso."
+],
+"respuesta_correcta": "A",
+"explicacion": "La clasificación correcta es vital para el control y la administración eficiente."
+},
+{
+"id": 120,
+"caso": "El almacén registra dificultades para controlar el inventario de insumos de consumo rápido debido a altas rotaciones.",
+"enunciado": "Qué método analítico es recomendable para mejorar el control?",
+"opciones": [
+"A. Implementar sistema de inventario ABC que priorice la gestión según impacto y rotación.",
+"B. Dejar control manual sin categorización.",
+"C. Evitar registros para agilizar el despacho."
+],
+"respuesta_correcta": "A",
+"explicacion": "El método ABC permite enfocar recursos y controles donde mayor impacto tiene la gestión."
+}
+]

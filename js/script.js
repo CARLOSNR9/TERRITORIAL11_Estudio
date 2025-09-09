@@ -92,7 +92,14 @@ const mostrarHistorialResumen = () => {
     renderizarResumen('historial-tecnologias-informacion-comunicaciones', 'simulacro_tecnologias_informacion_comunicaciones');
     renderizarResumen('historial-plan-estrategico-peti', 'simulacro_plan_estrategico_peti');
     renderizarResumen('historial-formulacion-proyectos-informaticos', 'simulacro_formulacion_proyectos_informaticos');
+    renderizarResumen('historial-razonamiento-analitico', 'simulacro_razonamiento_analitico');
+    renderizarResumen('historial-normatividad-tic', 'simulacro_normatividad_tic');
+    renderizarResumen('historial-administracion-bienes', 'simulacro_administracion_bienes');
+    renderizarResumen('historial-aporte-tecnico', 'simulacro_aporte_tecnico');
 };
+
+// Ejecutar la función al cargar la página
+mostrarHistorialResumen();
 
 // Ejecutar la función al cargar la página
 mostrarHistorialResumen();
